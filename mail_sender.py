@@ -13,7 +13,7 @@ SYSTEM_EMAIL_BODY = "Something might happen to {user_name}, please try to contac
 SYSTEM_EMAIL_NOTE = "\n\nMore information:\n{info}"
 
 def create_email(recipient_email:str, username:str, sender:str=SYSTEM_EMAIL,
-    subject:str=SYSTEM_EMAIL_SUBJECT, body:str=SYSTEM_EMAIL_BODY, **kwargs) -> msg.EmailMessage:
+    subject:str=SYSTEM_EMAIL_SUBJECT, body:str=SYSTEM_EMAIL_BODY, note:dict[str,str]={}) -> msg.EmailMessage:
     """Create an email with the given receiver and username.
     kwargs is used to add note such as last_known_location
     Note:
@@ -23,8 +23,8 @@ def create_email(recipient_email:str, username:str, sender:str=SYSTEM_EMAIL,
     message["To"] = recipient_email
     message["Subject"] = subject.format(user_name=username)
     message_body = body.format(user_name=username)
-    if kwargs:
-        message_body += convert_note(kwargs)
+    if note:
+        message_body += convert_note(note)
     message.set_content(message_body)
     return message
 
@@ -51,6 +51,17 @@ def send_email(recipient_email:str, message:msg.EmailMessage,
     if log:
         print(f"Email successfully sent to {recipient_email}")
 
+
+def create_send_email(recipient_email:str, username:str,
+    sender_email:str=SYSTEM_EMAIL, subject:str=SYSTEM_EMAIL_SUBJECT,
+    body:str=SYSTEM_EMAIL_BODY, sender_password:str=SYSTEM_APP_PASSWORD,
+    log:bool=False, **kwargs):
+    """Create and send email function wrapper"""
+    mail = create_email(recipient_email=recipient_email, username=username,
+        sender=sender_email, subject=subject, body=body, note=kwargs)
+    send_email(recipient_email=recipient_email, message=mail,
+        sender_email=sender_email, sender_password=sender_password, log=log)
+
 # UNCOMMENT THIS FOR TESTING
 # mail = create_email(
 #     recipient_email='...@gmail.com', # change to test recipient email
@@ -61,3 +72,5 @@ def send_email(recipient_email:str, message:msg.EmailMessage,
 #     recipient_email='christopher.chandrasaputra@gmail.com',
 #     message=mail,
 #     log=True)
+
+# create_send_email('m2002f0101@bangkit.academy', "test_user_2", last_known_location="20.23461, 0.1365786")
