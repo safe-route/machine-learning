@@ -1,5 +1,4 @@
 import os
-import pandas as pd
 
 # Local
 from utility.utility import *
@@ -11,6 +10,9 @@ from forecast import *
 from flask import Flask, request
 
 app = Flask(__name__)
+
+PORT = int(os.environ.get("PORT", 8080))
+HOST = '0.0.0.0'
 
 @app.route("/create", methods=["GET"])
 def create():
@@ -46,4 +48,4 @@ def forecast():
     return "Forecast finished"
     
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(port=PORT, host=HOST, debug=True)
