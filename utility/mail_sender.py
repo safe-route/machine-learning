@@ -12,8 +12,9 @@ SYSTEM_EMAIL_SUBJECT = "Abnormal Behavior Detected for User {user_name}"
 SYSTEM_EMAIL_BODY = "Something might happen to {user_name}, please try to contact the person.\nIf the related user is unable to response, it might be a good idea to contact your local authority."
 SYSTEM_EMAIL_NOTE = "\n\nMore information:\n{info}"
 
-def create_email(recipient_email:str, username:str, sender:str=SYSTEM_EMAIL,
-    subject:str=SYSTEM_EMAIL_SUBJECT, body:str=SYSTEM_EMAIL_BODY, note:dict[str,str]={}) -> msg.EmailMessage:
+def create_email(recipient_email:str, username:str,
+        sender:str=SYSTEM_EMAIL, subject:str=SYSTEM_EMAIL_SUBJECT,
+        body:str=SYSTEM_EMAIL_BODY, note:dict[str,str]={}) -> msg.EmailMessage:
     """Create an email with the given receiver and username.
     kwargs is used to add note such as last_known_location
     Note:
@@ -36,8 +37,8 @@ def convert_note(args:dict[str,str], note_format:str=SYSTEM_EMAIL_NOTE) -> str:
     return note_format.format(info=note_list)
 
 def send_email(recipient_email:str, message:msg.EmailMessage,
-    sender_email:str=SYSTEM_EMAIL, sender_password:str=SYSTEM_APP_PASSWORD,
-    log:bool=False):
+        sender_email:str=SYSTEM_EMAIL, sender_password:str=SYSTEM_APP_PASSWORD,
+        log:bool=False):
     """Send email to the recipient from sender"""
     mail_server = smtplib.SMTP('smtp.mail.yahoo.com', 587)
     # Trigger security
@@ -53,24 +54,11 @@ def send_email(recipient_email:str, message:msg.EmailMessage,
 
 
 def create_send_email(recipient_email:str, username:str,
-    sender_email:str=SYSTEM_EMAIL, subject:str=SYSTEM_EMAIL_SUBJECT,
-    body:str=SYSTEM_EMAIL_BODY, sender_password:str=SYSTEM_APP_PASSWORD,
-    log:bool=False, **kwargs):
+        sender_email:str=SYSTEM_EMAIL, subject:str=SYSTEM_EMAIL_SUBJECT,
+        body:str=SYSTEM_EMAIL_BODY, sender_password:str=SYSTEM_APP_PASSWORD,
+        log:bool=False, **kwargs):
     """Create and send email function wrapper"""
     mail = create_email(recipient_email=recipient_email, username=username,
         sender=sender_email, subject=subject, body=body, note=kwargs)
     send_email(recipient_email=recipient_email, message=mail,
         sender_email=sender_email, sender_password=sender_password, log=log)
-
-# UNCOMMENT THIS FOR TESTING
-# mail = create_email(
-#     recipient_email='...@gmail.com', # change to test recipient email
-#     username="user_1",
-#     last_known_location="124.301566, 12.15374")
-
-# send_email(
-#     recipient_email='christopher.chandrasaputra@gmail.com',
-#     message=mail,
-#     log=True)
-
-# create_send_email('m2002f0101@bangkit.academy', "test_user_2", last_known_location="20.23461, 0.1365786")
