@@ -14,10 +14,10 @@ def create_user_model(username:str):
     if os.path.exists(os.path.join(MODEL_FOLDER, username)):
         # check if model folder for user exist
         return "model for user {} already exist".format(username)
-    # create user's model folder
+    # create model folder
     if not os.path.exists(MODEL_FOLDER):
-        return "unable to find model folder"
-    
+        os.mkdir(MODEL_FOLDER)
+    # create user's model folder    
     os.mkdir(os.path.join(MODEL_FOLDER, username))
     # create user's model
     try:

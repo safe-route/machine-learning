@@ -47,10 +47,4 @@ def forecast():
     return "Forecast finished"
     
 if __name__ == "__main__":
-    if not os.path.exists(MODEL_FOLDER):
-        # create model folder
-        os.mkdir(MODEL_FOLDER)
-    if not os.path.exists(DATASET_FOLDER):
-        # create dataset folder
-        os.mkdir(DATASET_FOLDER)
     app.run(port=PORT, host=HOST, debug=True)
