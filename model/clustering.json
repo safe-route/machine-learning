@@ -1,0 +1,3579 @@
+{
+  "centroids": [
+    {
+      "id": 0,
+      "latitude": -6.169105881499999,
+      "longitude": 106.87538751666666,
+      "range": 68.80840159470647,
+      "crime_info": {
+        "Assault / Battery": 3,
+        "Attempt": 1,
+        "Child Pornography": 1,
+        "Harassment": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Stalking": 1,
+        "Statutory Rape": 2,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 1,
+      "latitude": -6.1781329789,
+      "longitude": 106.87448551,
+      "range": 41.702981371917694,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Attempt": 1,
+        "Embezzlement": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Public Intoxication": 1,
+        "Robbery": 1,
+        "Statutory Rape": 2
+      }
+    },
+    {
+      "id": 2,
+      "latitude": -6.182835121181816,
+      "longitude": 106.86720832272727,
+      "range": 263.6106332401204,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Aiding and Abetting / Accessory": 1,
+        "Assault / Battery": 1,
+        "Harassment": 1,
+        "Manslaughter: Voluntary": 3,
+        "Medical Marijuana": 1,
+        "Murder: Second-degree": 1,
+        "Prostitution": 1,
+        "Rape": 2,
+        "Robbery": 1,
+        "Sexual Assault": 2,
+        "Stalking": 1,
+        "Statutory Rape": 3,
+        "Telemarketing Fraud": 1,
+        "Theft": 1,
+        "Vandalism": 1
+      }
+    },
+    {
+      "id": 3,
+      "latitude": -6.187158619636364,
+      "longitude": 106.86912924545453,
+      "range": 50.49466078046364,
+      "crime_info": {
+        "Arson": 1,
+        "Drug Manufacturing and Cultivation": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Open Container (of alcohol)": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 4,
+      "latitude": -6.1608562894545456,
+      "longitude": 106.80126990909092,
+      "range": 7.236662432573078,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Aiding and Abetting / Accessory": 1,
+        "Arson": 1,
+        "Attempt": 2,
+        "Bribery": 1,
+        "Homicide": 2,
+        "Robbery": 2,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 5,
+      "latitude": -6.165636310363635,
+      "longitude": 106.81074339999999,
+      "range": 33.6509813984588,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Manslaughter: Involuntary": 1,
+        "Murder: Second-degree": 1,
+        "Open Container (of alcohol)": 1,
+        "Rape": 1,
+        "Robbery": 2,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 6,
+      "latitude": -6.1787368594,
+      "longitude": 106.81288196,
+      "range": 137.50371927984403,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 2,
+        "Attempt": 1,
+        "Burglary": 1,
+        "Homicide": 1,
+        "Murder: First-degree": 1,
+        "Sexual Assault": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 7,
+      "latitude": -6.1648756846,
+      "longitude": 106.81782991,
+      "range": 42.99560751995192,
+      "crime_info": {
+        "Assault / Battery": 2,
+        "Attempt": 1,
+        "Disturbing the Peace": 1,
+        "Harassment": 2,
+        "Manslaughter: Involuntary": 1,
+        "Murder: Second-degree": 1,
+        "Public Intoxication": 1,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 8,
+      "latitude": -6.1782084339090915,
+      "longitude": 106.85169938636365,
+      "range": 203.41884432536975,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Aiding and Abetting / Accessory": 2,
+        "Drug Possession": 1,
+        "Forgery": 1,
+        "Homicide": 2,
+        "Manslaughter: Involuntary": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Sexual Assault": 3,
+        "Stalking": 1,
+        "Statutory Rape": 2,
+        "Theft": 3,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 9,
+      "latitude": -6.17437209,
+      "longitude": 106.85624187,
+      "range": 82.1562381672696,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 2,
+        "Assault / Battery": 1,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Medical Marijuana": 2,
+        "Robbery": 1,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 10,
+      "latitude": -6.185626034636365,
+      "longitude": 106.85618355454545,
+      "range": 59.084447520873326,
+      "crime_info": {
+        "Burglary": 1,
+        "Criminal Contempt of Court": 1,
+        "Drug Possession": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Pyramid Schemes": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Tax Evasion / Fraud": 1,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 11,
+      "latitude": -6.154800146800001,
+      "longitude": 106.85074181999998,
+      "range": 20.122584235957255,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Insurance Fraud": 1,
+        "Kidnapping": 1,
+        "Medical Marijuana": 1,
+        "Murder: Second-degree": 1,
+        "Robbery": 1,
+        "Sexual Assault": 2,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 12,
+      "latitude": -6.166994131272727,
+      "longitude": 106.87366562727274,
+      "range": 18.348074551744254,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 3,
+        "Manslaughter: Involuntary": 1,
+        "Pyramid Schemes": 1,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Statutory Rape": 2
+      }
+    },
+    {
+      "id": 13,
+      "latitude": -6.168892571545455,
+      "longitude": 106.8398861,
+      "range": 96.38122523802099,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Domestic Violence": 1,
+        "Harassment": 2,
+        "Homicide": 1,
+        "Indecent Exposure": 1,
+        "Kidnapping": 1,
+        "MIP: A Minor in Possession": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 2
+      }
+    },
+    {
+      "id": 14,
+      "latitude": -6.1604767134,
+      "longitude": 106.86679819999999,
+      "range": 73.52345657996518,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 2,
+        "Attempt": 1,
+        "Harassment": 1,
+        "MIP: A Minor in Possession": 1,
+        "Racketeering / RICO": 1,
+        "Sexual Assault": 1,
+        "Theft": 1,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 15,
+      "latitude": -6.155207084363638,
+      "longitude": 106.86054034545454,
+      "range": 58.22869150973654,
+      "crime_info": {
+        "Aiding and Abetting / Accessory": 1,
+        "Harassment": 1,
+        "MIP: A Minor in Possession": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Public Intoxication": 1,
+        "Robbery": 2,
+        "Sexual Assault": 1,
+        "Statutory Rape": 2
+      }
+    },
+    {
+      "id": 16,
+      "latitude": -6.167756623090909,
+      "longitude": 106.86358507272729,
+      "range": 47.49203663831504,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Child Pornography": 1,
+        "Cyberbullying": 1,
+        "Drug Possession": 1,
+        "Harassment": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 2,
+        "Stalking": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 17,
+      "latitude": -6.200064781545455,
+      "longitude": 106.83240169090908,
+      "range": 41.58753744749984,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 2,
+        "Attempt": 1,
+        "Harassment": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Rape": 1,
+        "Theft": 1,
+        "Vandalism": 1
+      }
+    },
+    {
+      "id": 18,
+      "latitude": -6.195493366499999,
+      "longitude": 106.8294889,
+      "range": 23.325854211604945,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Disturbing the Peace": 1,
+        "Manslaughter: Voluntary": 2,
+        "Public Intoxication": 1,
+        "Rape": 1,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 19,
+      "latitude": -6.197581894499999,
+      "longitude": 106.83423087000001,
+      "range": 29.714566783686884,
+      "crime_info": {
+        "Arson": 2,
+        "Harassment": 1,
+        "Indecent Exposure": 1,
+        "Kidnapping": 1,
+        "MIP: A Minor in Possession": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 2,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 20,
+      "latitude": -6.195941712000001,
+      "longitude": 106.84332206363636,
+      "range": 33.07258207496025,
+      "crime_info": {
+        "Arson": 3,
+        "Assault / Battery": 1,
+        "Credit / Debit Card Fraud": 1,
+        "Indecent Exposure": 1,
+        "Kidnapping": 2,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Robbery": 1
+      }
+    },
+    {
+      "id": 21,
+      "latitude": -6.192760493999999,
+      "longitude": 106.83313008181818,
+      "range": 84.69808229553988,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Harassment": 1,
+        "Homicide": 3,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Pyramid Schemes": 1,
+        "Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 22,
+      "latitude": -6.186142754833333,
+      "longitude": 106.83247565,
+      "range": 59.034893128401066,
+      "crime_info": {
+        "Arson": 1,
+        "Attempt": 1,
+        "Child Abandonment": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Medical Marijuana": 1,
+        "Perjury": 1,
+        "Prostitution": 1,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Stalking": 2
+      }
+    },
+    {
+      "id": 23,
+      "latitude": -6.18300467525,
+      "longitude": 106.83495625,
+      "range": 33.25960781928535,
+      "crime_info": {
+        "Attempt": 2,
+        "Homicide": 1,
+        "Murder: Second-degree": 2,
+        "Robbery": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 24,
+      "latitude": -6.138064133571429,
+      "longitude": 106.82346489523809,
+      "range": 65.70709957479836,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Bribery": 1,
+        "Child Abandonment": 1,
+        "Criminal Contempt of Court": 1,
+        "Disorderly Conduct": 1,
+        "Disturbing the Peace": 1,
+        "Domestic Violence": 1,
+        "Forgery": 1,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Perjury": 1,
+        "Racketeering / RICO": 1,
+        "Robbery": 4,
+        "Sexual Assault": 1,
+        "Stalking": 2
+      }
+    },
+    {
+      "id": 25,
+      "latitude": -6.1415779274,
+      "longitude": 106.82773999999999,
+      "range": 7.499573823699212,
+      "crime_info": {
+        "Aiding and Abetting / Accessory": 1,
+        "Arson": 1,
+        "Bribery": 1,
+        "Disorderly Conduct": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Murder: Second-degree": 2,
+        "Sexual Assault": 1
+      }
+    },
+    {
+      "id": 26,
+      "latitude": -6.160642843,
+      "longitude": 106.8337355,
+      "range": 30.57229538192822,
+      "crime_info": {
+        "Bribery": 1,
+        "Cyberbullying": 1,
+        "Harassment": 1,
+        "Homicide": 3,
+        "Medical Marijuana": 1,
+        "Murder: First-degree": 3,
+        "Open Container (of alcohol)": 1,
+        "Sexual Assault": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 27,
+      "latitude": -6.17397495315,
+      "longitude": 106.84509730000002,
+      "range": 117.41709753203472,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Arson": 1,
+        "Attempt": 1,
+        "Disturbing the Peace": 1,
+        "Forgery": 1,
+        "Harassment": 1,
+        "Homicide": 3,
+        "Kidnapping": 2,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Rape": 2,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Statutory Rape": 2
+      }
+    },
+    {
+      "id": 28,
+      "latitude": -6.1815942289166665,
+      "longitude": 106.84281853333333,
+      "range": 19.059735682485616,
+      "crime_info": {
+        "Attempt": 1,
+        "Computer Crime": 1,
+        "Conspiracy": 1,
+        "Cyberbullying": 1,
+        "Forgery": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Public Intoxication": 1,
+        "Sexual Assault": 1,
+        "Statutory Rape": 1,
+        "Telemarketing Fraud": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 29,
+      "latitude": -6.1815835956,
+      "longitude": 106.83762200000001,
+      "range": 18.693819200474344,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Aiding and Abetting / Accessory": 1,
+        "Harassment": 4,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 2,
+        "Murder: First-degree": 1
+      }
+    },
+    {
+      "id": 30,
+      "latitude": -6.177006599454544,
+      "longitude": 106.84179704545454,
+      "range": 152.55690487983887,
+      "crime_info": {
+        "Attempt": 1,
+        "Forgery": 1,
+        "Kidnapping": 2,
+        "Manslaughter: Voluntary": 2,
+        "Murder: Second-degree": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Statutory Rape": 2
+      }
+    },
+    {
+      "id": 31,
+      "latitude": -6.210298562428572,
+      "longitude": 106.81692289523811,
+      "range": 130.88391675357306,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 2,
+        "Attempt": 2,
+        "Bribery": 1,
+        "Homicide": 2,
+        "Indecent Exposure": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Medical Marijuana": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Statutory Rape": 4,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 32,
+      "latitude": -6.1880282731,
+      "longitude": 106.81506644000001,
+      "range": 51.427743269312856,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Harassment": 1,
+        "Kidnapping": 3,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 2,
+        "Perjury": 1,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 33,
+      "latitude": -6.192782425599999,
+      "longitude": 106.81036804,
+      "range": 48.16205533068498,
+      "crime_info": {
+        "Attempt": 1,
+        "Disorderly Conduct": 1,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 2,
+        "Murder: Second-degree": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 34,
+      "latitude": -6.197812692818181,
+      "longitude": 106.81058648181819,
+      "range": 18.497403435184467,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Criminal Contempt of Court": 1,
+        "DUI / DWI": 1,
+        "Drug Manufacturing and Cultivation": 1,
+        "Probation Violation": 1,
+        "Public Intoxication": 1,
+        "Securities Fraud": 1,
+        "Sexual Assault": 2,
+        "Statutory Rape": 2
+      }
+    },
+    {
+      "id": 35,
+      "latitude": -6.196294809416667,
+      "longitude": 106.80871262083333,
+      "range": 210.5313018560291,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Arson": 2,
+        "Assault / Battery": 2,
+        "Attempt": 1,
+        "Conspiracy": 1,
+        "Disturbing the Peace": 1,
+        "Homicide": 2,
+        "Insurance Fraud": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Securities Fraud": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1,
+        "Theft": 3
+      }
+    },
+    {
+      "id": 36,
+      "latitude": -6.138009836904763,
+      "longitude": 106.9549097,
+      "range": 298.9231384998568,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 2,
+        "Assault / Battery": 1,
+        "Drug Trafficking / Distribution": 1,
+        "Homicide": 1,
+        "Indecent Exposure": 1,
+        "Kidnapping": 1,
+        "Murder: First-degree": 1,
+        "Open Container (of alcohol)": 1,
+        "Perjury": 1,
+        "Pyramid Schemes": 1,
+        "Sexual Assault": 2,
+        "Stalking": 2,
+        "Statutory Rape": 2,
+        "Telemarketing Fraud": 1,
+        "Theft": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 37,
+      "latitude": -6.1318201745,
+      "longitude": 106.95536354000001,
+      "range": 108.78350123980259,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Criminal Contempt of Court": 1,
+        "Harassment": 3,
+        "Homicide": 1,
+        "Identity Theft": 1,
+        "Kidnapping": 1,
+        "Murder: First-degree": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 38,
+      "latitude": -6.146979405500001,
+      "longitude": 106.95607021666667,
+      "range": 131.690269195102,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Child Abandonment": 1,
+        "Indecent Exposure": 1,
+        "Kidnapping": 1,
+        "Murder: Second-degree": 1,
+        "Probation Violation": 1,
+        "Rape": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 39,
+      "latitude": -6.106804254399999,
+      "longitude": 106.96409161,
+      "range": 38.08424835150998,
+      "crime_info": {
+        "Arson": 2,
+        "Bribery": 1,
+        "Child Pornography": 1,
+        "Disturbing the Peace": 1,
+        "Homicide": 1,
+        "Kidnapping": 2,
+        "Manslaughter: Voluntary": 1,
+        "Rape": 1
+      }
+    },
+    {
+      "id": 40,
+      "latitude": -6.173050427875,
+      "longitude": 106.89865275,
+      "range": 197.69253272142484,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Child Pornography": 1,
+        "Drug Manufacturing and Cultivation": 1,
+        "Manslaughter: Voluntary": 2,
+        "Robbery": 2,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 41,
+      "latitude": -6.176766403,
+      "longitude": 106.91251385999999,
+      "range": 21.86033563623411,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Attempt": 2,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 2,
+        "Robbery": 1,
+        "Statutory Rape": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 42,
+      "latitude": -6.154651439909091,
+      "longitude": 106.91555370909091,
+      "range": 22.174442075462586,
+      "crime_info": {
+        "Homicide": 1,
+        "Kidnapping": 2,
+        "Manslaughter: Voluntary": 3,
+        "Prostitution": 1,
+        "Racketeering / RICO": 1,
+        "Rape": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 43,
+      "latitude": -6.1395861609,
+      "longitude": 106.914476,
+      "range": 38.411894099940724,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Attempt": 1,
+        "Computer Crime": 1,
+        "Identity Theft": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 2,
+        "Sexual Assault": 1,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 44,
+      "latitude": -6.138183688833333,
+      "longitude": 106.89271369166666,
+      "range": 30.396033786394657,
+      "crime_info": {
+        "Attempt": 2,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Open Container (of alcohol)": 1,
+        "Rape": 1,
+        "Robbery": 2,
+        "Sexual Assault": 1,
+        "Solicitation": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 45,
+      "latitude": -6.1300095596,
+      "longitude": 106.90187969000002,
+      "range": 22.027109742112643,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Assault / Battery": 2,
+        "Homicide": 1,
+        "MIP: A Minor in Possession": 1,
+        "Murder: Second-degree": 2,
+        "Robbery": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 46,
+      "latitude": -6.130058244000001,
+      "longitude": 106.89455181000001,
+      "range": 71.18070772089109,
+      "crime_info": {
+        "Burglary": 1,
+        "Disturbing the Peace": 2,
+        "Hate Crimes": 1,
+        "Manslaughter: Involuntary": 1,
+        "Money Laundering": 1,
+        "Murder: First-degree": 1,
+        "Statutory Rape": 1,
+        "Theft": 1,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 47,
+      "latitude": -6.12584802876923,
+      "longitude": 106.91991867692307,
+      "range": 79.73521391666826,
+      "crime_info": {
+        "Arson": 1,
+        "Harassment": 1,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 2,
+        "Murder: Second-degree": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Solicitation": 1,
+        "Stalking": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 48,
+      "latitude": -6.124889797333332,
+      "longitude": 106.916788625,
+      "range": 142.90625853911837,
+      "crime_info": {
+        "Arson": 2,
+        "Attempt": 1,
+        "Embezzlement": 1,
+        "Harassment": 2,
+        "Murder: Second-degree": 1,
+        "Open Container (of alcohol)": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Sexual Assault": 2
+      }
+    },
+    {
+      "id": 49,
+      "latitude": -6.131534464083333,
+      "longitude": 106.84121628333334,
+      "range": 28.222622993459478,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Harassment": 2,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Open Container (of alcohol)": 1,
+        "Rape": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 50,
+      "latitude": -6.131303784363635,
+      "longitude": 106.84874477272729,
+      "range": 59.363157215281596,
+      "crime_info": {
+        "Fraud": 2,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Robbery": 1,
+        "Stalking": 3,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 51,
+      "latitude": -6.1393614653999995,
+      "longitude": 106.83291936,
+      "range": 111.69775171240349,
+      "crime_info": {
+        "Arson": 2,
+        "Attempt": 1,
+        "Cyberbullying": 1,
+        "Disorderly Conduct": 1,
+        "Disturbing the Peace": 1,
+        "Fraud": 1,
+        "Homicide": 1,
+        "Sexual Assault": 1,
+        "Solicitation": 1
+      }
+    },
+    {
+      "id": 52,
+      "latitude": -6.128891758636363,
+      "longitude": 106.81907220909089,
+      "range": 5.0396841119552835,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Burglary": 1,
+        "Disorderly Conduct": 1,
+        "Insurance Fraud": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Robbery": 2,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 53,
+      "latitude": -6.135992227818181,
+      "longitude": 106.7929216,
+      "range": 109.89934259192471,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Involuntary": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Robbery": 2,
+        "Stalking": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 54,
+      "latitude": -6.10989531675,
+      "longitude": 106.8014466875,
+      "range": 75.6219246032213,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 2,
+        "Hate Crimes": 1,
+        "Manslaughter: Voluntary": 1,
+        "Robbery": 1,
+        "Telemarketing Fraud": 1
+      }
+    },
+    {
+      "id": 55,
+      "latitude": -6.128151064599999,
+      "longitude": 106.75276275000002,
+      "range": 259.9026579281712,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Arson": 1,
+        "Disorderly Conduct": 2,
+        "Probation Violation": 1,
+        "Prostitution": 1,
+        "Tax Evasion / Fraud": 2,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 56,
+      "latitude": -6.151509252285714,
+      "longitude": 106.87174183333333,
+      "range": 4.733164487799857,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Cyberbullying": 1,
+        "Disorderly Conduct": 2,
+        "Forgery": 1,
+        "Homicide": 1,
+        "Murder: First-degree": 3,
+        "Murder: Second-degree": 1,
+        "Open Container (of alcohol)": 1,
+        "Rape": 1,
+        "Robbery": 2,
+        "Sexual Assault": 1,
+        "Stalking": 4,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 57,
+      "latitude": -6.146322137210525,
+      "longitude": 106.87303593684211,
+      "range": 421.4239568592444,
+      "crime_info": {
+        "Aiding and Abetting / Accessory": 1,
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 2,
+        "Conspiracy": 1,
+        "Disorderly Conduct": 1,
+        "Homicide": 2,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Securities Fraud": 1,
+        "Stalking": 2,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 58,
+      "latitude": -6.138185265700001,
+      "longitude": 106.87687416000001,
+      "range": 12.238702280924192,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Fraud": 1,
+        "Harassment": 3,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Pyramid Schemes": 1,
+        "Robbery": 1
+      }
+    },
+    {
+      "id": 59,
+      "latitude": -6.126841983285714,
+      "longitude": 106.86446732857144,
+      "range": 109.72811773941235,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Attempt": 1,
+        "Child Abandonment": 1,
+        "Manslaughter: Voluntary": 1,
+        "Robbery": 1,
+        "Solicitation": 1
+      }
+    },
+    {
+      "id": 60,
+      "latitude": -6.1273606341999995,
+      "longitude": 106.8489106,
+      "range": 40.625248762997046,
+      "crime_info": {
+        "Attempt": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Involuntary": 1,
+        "Rape": 1,
+        "Sexual Assault": 1
+      }
+    },
+    {
+      "id": 61,
+      "latitude": -6.1195739683,
+      "longitude": 106.86647954999998,
+      "range": 102.65872018770312,
+      "crime_info": {
+        "Child Abandonment": 1,
+        "Cyberbullying": 1,
+        "Disorderly Conduct": 1,
+        "Harassment": 2,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 62,
+      "latitude": -6.106577444125,
+      "longitude": 106.8836489125,
+      "range": 26.801166580045248,
+      "crime_info": {
+        "Attempt": 1,
+        "Disturbing the Peace": 1,
+        "Forgery": 1,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 63,
+      "latitude": -6.201442920333334,
+      "longitude": 106.96465743333333,
+      "range": 101.71131553882678,
+      "crime_info": {
+        "Attempt": 1,
+        "Racketeering / RICO": 1,
+        "Robbery": 1
+      }
+    },
+    {
+      "id": 64,
+      "latitude": -6.202509543250001,
+      "longitude": 106.96242809999998,
+      "range": 144.95291691645664,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Disturbing the Peace": 1,
+        "Forgery": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 65,
+      "latitude": -6.209929957333333,
+      "longitude": 106.95294166666666,
+      "range": 51.110182069985186,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Child Pornography": 1,
+        "Murder: Second-degree": 2,
+        "Rape": 2,
+        "Robbery": 1,
+        "Stalking": 2
+      }
+    },
+    {
+      "id": 66,
+      "latitude": -6.186177248222222,
+      "longitude": 106.95266199999999,
+      "range": 109.18084525743652,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Child Pornography": 1,
+        "Harassment": 1,
+        "Kidnapping": 2,
+        "Manslaughter: Involuntary": 1,
+        "Medical Marijuana": 1,
+        "Murder: First-degree": 1,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 67,
+      "latitude": -6.171015598454545,
+      "longitude": 106.94540217272728,
+      "range": 186.61781976364682,
+      "crime_info": {
+        "Burglary": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Manslaughter: Involuntary": 1,
+        "Murder: First-degree": 1,
+        "Rape": 2,
+        "Robbery": 1,
+        "Sexual Assault": 2,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 68,
+      "latitude": -6.289011228888889,
+      "longitude": 106.90588374444445,
+      "range": 220.02905552136465,
+      "crime_info": {
+        "Attempt": 1,
+        "DUI / DWI": 1,
+        "Disorderly Conduct": 1,
+        "Forgery": 1,
+        "Homicide": 2,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 1
+      }
+    },
+    {
+      "id": 69,
+      "latitude": -6.301194869250001,
+      "longitude": 106.90977785000001,
+      "range": 59.851331402922355,
+      "crime_info": {
+        "Arson": 1,
+        "Disturbing the Peace": 1,
+        "Robbery": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 70,
+      "latitude": -6.2993564326,
+      "longitude": 106.9115224,
+      "range": 241.30811693976042,
+      "crime_info": {
+        "Attempt": 1,
+        "Embezzlement": 1,
+        "Manslaughter: Involuntary": 1,
+        "Rape": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 71,
+      "latitude": -6.31805727888889,
+      "longitude": 106.90001113333334,
+      "range": 269.7325751788172,
+      "crime_info": {
+        "Attempt": 1,
+        "Harassment": 2,
+        "Homicide": 1,
+        "Stalking": 2,
+        "Statutory Rape": 2,
+        "Tax Evasion / Fraud": 1
+      }
+    },
+    {
+      "id": 72,
+      "latitude": -6.323897339285714,
+      "longitude": 106.88872468571431,
+      "range": 233.53131469654977,
+      "crime_info": {
+        "Attempt": 2,
+        "Computer Crime": 1,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 1
+      }
+    },
+    {
+      "id": 73,
+      "latitude": -6.356026340250001,
+      "longitude": 106.904543125,
+      "range": 164.49369329611838,
+      "crime_info": {
+        "Attempt": 1,
+        "Murder: Second-degree": 2,
+        "Robbery": 1
+      }
+    },
+    {
+      "id": 74,
+      "latitude": -6.30681914925,
+      "longitude": 106.864588175,
+      "range": 188.31690931723554,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Embezzlement": 1,
+        "Statutory Rape": 2
+      }
+    },
+    {
+      "id": 75,
+      "latitude": -6.309707245875,
+      "longitude": 106.8826604,
+      "range": 165.32230108190174,
+      "crime_info": {
+        "Assault / Battery": 2,
+        "Drug Possession": 1,
+        "Medical Marijuana": 1,
+        "Racketeering / RICO": 1,
+        "Robbery": 1,
+        "Theft": 1,
+        "Vandalism": 1
+      }
+    },
+    {
+      "id": 76,
+      "latitude": -6.360402828181819,
+      "longitude": 106.88502711818182,
+      "range": 157.65811314929496,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Murder: Second-degree": 1,
+        "Probation Violation": 1,
+        "Robbery": 1,
+        "Sexual Assault": 3
+      }
+    },
+    {
+      "id": 77,
+      "latitude": -6.3476785195,
+      "longitude": 106.88891933333332,
+      "range": 113.47375640150695,
+      "crime_info": {
+        "Arson": 2,
+        "Child Abuse": 1,
+        "Computer Crime": 1,
+        "Credit / Debit Card Fraud": 1,
+        "Murder: First-degree": 2,
+        "Murder: Second-degree": 1,
+        "Rape": 2,
+        "Robbery": 2
+      }
+    },
+    {
+      "id": 78,
+      "latitude": -6.2302838602222215,
+      "longitude": 106.8968693,
+      "range": 281.15615093900374,
+      "crime_info": {
+        "Hate Crimes": 1,
+        "Manslaughter: Voluntary": 1,
+        "Pyramid Schemes": 1,
+        "Robbery": 2,
+        "Stalking": 1,
+        "Statutory Rape": 1,
+        "Theft": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 79,
+      "latitude": -6.2271130818571425,
+      "longitude": 106.93755657142856,
+      "range": 211.87691701852148,
+      "crime_info": {
+        "DUI / DWI": 1,
+        "Drug Possession": 1,
+        "Identity Theft": 1,
+        "Medical Marijuana": 1,
+        "Sexual Assault": 2,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 80,
+      "latitude": -6.22048255775,
+      "longitude": 106.946892525,
+      "range": 169.64353636892207,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Burglary": 1,
+        "Disorderly Conduct": 1,
+        "Embezzlement": 1,
+        "Extortion": 1,
+        "Identity Theft": 1,
+        "Murder: First-degree": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 81,
+      "latitude": -6.221234020777778,
+      "longitude": 106.9139536,
+      "range": 198.70673590885835,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Homicide": 1,
+        "Murder: Second-degree": 1,
+        "Open Container (of alcohol)": 1,
+        "Sexual Assault": 2,
+        "Stalking": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 82,
+      "latitude": -6.220635022250001,
+      "longitude": 106.907756725,
+      "range": 161.5431422670744,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Embezzlement": 1,
+        "Manslaughter: Involuntary": 1
+      }
+    },
+    {
+      "id": 83,
+      "latitude": -6.220282967285715,
+      "longitude": 106.89947117142857,
+      "range": 202.27221700690725,
+      "crime_info": {
+        "Aiding and Abetting / Accessory": 1,
+        "Arson": 1,
+        "Attempt": 1,
+        "Disorderly Conduct": 1,
+        "Kidnapping": 2,
+        "Rape": 1
+      }
+    },
+    {
+      "id": 84,
+      "latitude": -6.238646426,
+      "longitude": 106.89934125454548,
+      "range": 224.52825959799753,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 2,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Public Intoxication": 1,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 85,
+      "latitude": -6.236294953857143,
+      "longitude": 106.88652277142857,
+      "range": 67.91900786243632,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Attempt": 2,
+        "Homicide": 1,
+        "Murder: First-degree": 1,
+        "Stalking": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 86,
+      "latitude": -6.241743119222222,
+      "longitude": 106.86918642222221,
+      "range": 168.77905958269392,
+      "crime_info": {
+        "Drug Manufacturing and Cultivation": 1,
+        "Drug Possession": 2,
+        "Kidnapping": 1,
+        "Pyramid Schemes": 1,
+        "Stalking": 2,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 87,
+      "latitude": -6.2290385305,
+      "longitude": 106.86731401666668,
+      "range": 100.41707873828145,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Manslaughter: Involuntary": 1,
+        "Rape": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 88,
+      "latitude": -6.2273899303333335,
+      "longitude": 106.88140047777777,
+      "range": 220.8882129879127,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Harassment": 1,
+        "Manslaughter: Voluntary": 1,
+        "Money Laundering": 1,
+        "Murder: First-degree": 1,
+        "Probation Violation": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 89,
+      "latitude": -6.216681558916666,
+      "longitude": 106.86617600833331,
+      "range": 441.2282564164504,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 4,
+        "Harassment": 1,
+        "Indecent Exposure": 1,
+        "Kidnapping": 3,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Medical Marijuana": 1,
+        "Murder: Second-degree": 1,
+        "Public Intoxication": 1,
+        "Rape": 1,
+        "Sexual Assault": 2,
+        "Stalking": 2,
+        "Statutory Rape": 2,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 90,
+      "latitude": -6.276510980666667,
+      "longitude": 106.85560779166667,
+      "range": 190.54110536781977,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Drug Manufacturing and Cultivation": 1,
+        "Drug Possession": 1,
+        "Embezzlement": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Medical Marijuana": 1,
+        "Perjury": 1,
+        "Pyramid Schemes": 1,
+        "Rape": 1,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 91,
+      "latitude": -6.271729100111112,
+      "longitude": 106.85631240000001,
+      "range": 239.0498393343633,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Disturbing the Peace": 1,
+        "Manslaughter: Voluntary": 1,
+        "Rape": 2,
+        "Robbery": 1,
+        "Sexual Assault": 2
+      }
+    },
+    {
+      "id": 92,
+      "latitude": -6.274873793333334,
+      "longitude": 106.85832113333333,
+      "range": 55.544489408739935,
+      "crime_info": {
+        "Arson": 1,
+        "Murder: Second-degree": 1,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 93,
+      "latitude": -6.26111522,
+      "longitude": 106.86779123000001,
+      "range": 202.83194859660432,
+      "crime_info": {
+        "Bribery": 1,
+        "Computer Crime": 1,
+        "Harassment": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Money Laundering": 1,
+        "Public Intoxication": 1,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 94,
+      "latitude": -6.2484455934,
+      "longitude": 106.86637083000001,
+      "range": 277.18427296371976,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Child Abandonment": 1,
+        "Child Abuse": 1,
+        "Disturbing the Peace": 1,
+        "Embezzlement": 1,
+        "Forgery": 1,
+        "Harassment": 1,
+        "Murder: First-degree": 1,
+        "Tax Evasion / Fraud": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 95,
+      "latitude": -6.247786889,
+      "longitude": 106.87459598888888,
+      "range": 50.583313940120334,
+      "crime_info": {
+        "Arson": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Shoplifting": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 96,
+      "latitude": -6.278418334733334,
+      "longitude": 106.86221526000001,
+      "range": 216.15688676090235,
+      "crime_info": {
+        "Arson": 3,
+        "Domestic Violence": 1,
+        "Forgery": 1,
+        "Hate Crimes": 1,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Medical Marijuana": 1,
+        "Robbery": 2,
+        "Statutory Rape": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 97,
+      "latitude": -6.278410782583333,
+      "longitude": 106.85016296666667,
+      "range": 100.95221605523821,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Attempt": 1,
+        "Bribery": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Sexual Assault": 2,
+        "Stalking": 1,
+        "Tax Evasion / Fraud": 1
+      }
+    },
+    {
+      "id": 98,
+      "latitude": -6.2852734009999995,
+      "longitude": 106.84885375384616,
+      "range": 145.11111053187614,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Criminal Contempt of Court": 2,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 2,
+        "Open Container (of alcohol)": 1,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 99,
+      "latitude": -6.2577936416,
+      "longitude": 106.8787659,
+      "range": 132.56205090702565,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Attempt": 2,
+        "Harassment": 1,
+        "Kidnapping": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 100,
+      "latitude": -6.29519005990909,
+      "longitude": 106.88744513636362,
+      "range": 133.58266488678933,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Criminal Contempt of Court": 1,
+        "Homicide": 1,
+        "Kidnapping": 2,
+        "Robbery": 2,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 101,
+      "latitude": -6.201431778272728,
+      "longitude": 106.85407531818183,
+      "range": 96.22841104886072,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Child Abandonment": 1,
+        "Drug Possession": 1,
+        "Harassment": 1,
+        "Probation Violation": 1,
+        "Sexual Assault": 1,
+        "Statutory Rape": 1,
+        "White Collar Crimes": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 102,
+      "latitude": -6.2092816391111105,
+      "longitude": 106.8511707888889,
+      "range": 283.6388389918,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Assault / Battery": 1,
+        "Computer Crime": 1,
+        "Harassment": 1,
+        "Manslaughter: Involuntary": 1,
+        "Murder: First-degree": 2,
+        "Murder: Second-degree": 1,
+        "Rape": 1,
+        "Securities Fraud": 1,
+        "Sexual Assault": 1,
+        "Stalking": 2,
+        "Statutory Rape": 2,
+        "Theft": 1,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 103,
+      "latitude": -6.196394480863635,
+      "longitude": 106.8677055909091,
+      "range": 219.34448356775115,
+      "crime_info": {
+        "Aggravated Assault": 3,
+        "Aiding and Abetting / Accessory": 1,
+        "Arson": 1,
+        "Assault / Battery": 2,
+        "Cyberbullying": 1,
+        "Extortion": 1,
+        "Harassment": 1,
+        "Homicide": 2,
+        "Insurance Fraud": 1,
+        "Manslaughter: Involuntary": 1,
+        "Murder: First-degree": 1,
+        "Pyramid Schemes": 1,
+        "Securities Fraud": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 104,
+      "latitude": -6.193246329636364,
+      "longitude": 106.87176528181817,
+      "range": 181.47493191610673,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Criminal Contempt of Court": 1,
+        "Disorderly Conduct": 1,
+        "Murder: First-degree": 3,
+        "Perjury": 1,
+        "Racketeering / RICO": 1,
+        "Sexual Assault": 1,
+        "Vandalism": 1
+      }
+    },
+    {
+      "id": 105,
+      "latitude": -6.212904116888889,
+      "longitude": 106.87288778888889,
+      "range": 109.08656046902219,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Attempt": 1,
+        "Extortion": 1,
+        "Hate Crimes": 1,
+        "Homicide": 1,
+        "Murder: First-degree": 1,
+        "Pyramid Schemes": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 106,
+      "latitude": -6.207535452230768,
+      "longitude": 106.86831119230769,
+      "range": 303.7807198220042,
+      "crime_info": {
+        "Arson": 2,
+        "Assault / Battery": 2,
+        "Attempt": 1,
+        "Credit / Debit Card Fraud": 1,
+        "Forgery": 1,
+        "Kidnapping": 1,
+        "Medical Marijuana": 1,
+        "Murder: First-degree": 2,
+        "Solicitation": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 107,
+      "latitude": -6.298071795083334,
+      "longitude": 106.85597827500003,
+      "range": 210.40854778790742,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Computer Crime": 1,
+        "Cyberbullying": 2,
+        "Disorderly Conduct": 1,
+        "Disturbing the Peace": 1,
+        "Forgery": 1,
+        "Fraud": 1,
+        "Murder: Second-degree": 2
+      }
+    },
+    {
+      "id": 108,
+      "latitude": -6.297430857142857,
+      "longitude": 106.86287098571428,
+      "range": 129.75475912683456,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Disturbing the Peace": 1,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 2,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 109,
+      "latitude": -6.3156202633,
+      "longitude": 106.85874485000002,
+      "range": 167.74606098572553,
+      "crime_info": {
+        "Arson": 1,
+        "Forgery": 1,
+        "Harassment": 2,
+        "Kidnapping": 1,
+        "Medical Marijuana": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 1,
+        "Theft": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 110,
+      "latitude": -6.327475618272728,
+      "longitude": 106.85748298181817,
+      "range": 118.48798883867796,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 2,
+        "Money Laundering": 1,
+        "Murder: First-degree": 2,
+        "Murder: Second-degree": 1,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 111,
+      "latitude": -6.337855835230769,
+      "longitude": 106.84356811538463,
+      "range": 96.18855530710042,
+      "crime_info": {
+        "Assault / Battery": 2,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 2,
+        "Murder: First-degree": 2,
+        "Murder: Second-degree": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 112,
+      "latitude": -6.34840501375,
+      "longitude": 106.86576230000001,
+      "range": 242.4326774216031,
+      "crime_info": {
+        "Arson": 2,
+        "Attempt": 1,
+        "Manslaughter: Voluntary": 3,
+        "Money Laundering": 1,
+        "Murder: First-degree": 1,
+        "Rape": 2,
+        "Statutory Rape": 2
+      }
+    },
+    {
+      "id": 113,
+      "latitude": -6.182611736666667,
+      "longitude": 106.90377177777779,
+      "range": 151.45207909603454,
+      "crime_info": {
+        "Bribery": 1,
+        "Criminal Contempt of Court": 1,
+        "Harassment": 2,
+        "Kidnapping": 2,
+        "Manslaughter: Involuntary": 1,
+        "Murder: Second-degree": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 114,
+      "latitude": -6.184349486428571,
+      "longitude": 106.89856145714286,
+      "range": 171.26014287385928,
+      "crime_info": {
+        "Attempt": 1,
+        "Identity Theft": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Open Container (of alcohol)": 1,
+        "Theft": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 115,
+      "latitude": -6.210970911666666,
+      "longitude": 106.89328535833334,
+      "range": 237.7007863853917,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Assault / Battery": 1,
+        "Attempt": 2,
+        "Disturbing the Peace": 1,
+        "Harassment": 1,
+        "Insurance Fraud": 1,
+        "Murder: Second-degree": 2,
+        "Stalking": 2
+      }
+    },
+    {
+      "id": 116,
+      "latitude": -6.207832441444444,
+      "longitude": 106.87931574444445,
+      "range": 98.30077831650537,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 2,
+        "Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 117,
+      "latitude": -6.197103528363636,
+      "longitude": 106.88601379999999,
+      "range": 254.18633711242478,
+      "crime_info": {
+        "Attempt": 1,
+        "Disorderly Conduct": 1,
+        "Domestic Violence": 1,
+        "Drug Possession": 1,
+        "Homicide": 1,
+        "Manslaughter: Involuntary": 1,
+        "Public Intoxication": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Telemarketing Fraud": 1
+      }
+    },
+    {
+      "id": 118,
+      "latitude": -6.187639616833333,
+      "longitude": 106.89819365833334,
+      "range": 243.8017708508685,
+      "crime_info": {
+        "Attempt": 1,
+        "Child Abuse": 1,
+        "Child Pornography": 1,
+        "Harassment": 2,
+        "Murder: Second-degree": 2,
+        "Robbery": 2,
+        "Statutory Rape": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 119,
+      "latitude": -6.306218546272726,
+      "longitude": 106.79396371818183,
+      "range": 68.19320496517682,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Arson": 2,
+        "Child Pornography": 1,
+        "Drug Trafficking / Distribution": 1,
+        "Identity Theft": 1,
+        "Insurance Fraud": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1
+      }
+    },
+    {
+      "id": 120,
+      "latitude": -6.3034863224999995,
+      "longitude": 106.78136563749999,
+      "range": 174.52113118575798,
+      "crime_info": {
+        "Conspiracy": 1,
+        "Harassment": 1,
+        "Murder: First-degree": 2,
+        "Murder: Second-degree": 1,
+        "Robbery": 1,
+        "Stalking": 1,
+        "Telemarketing Fraud": 1
+      }
+    },
+    {
+      "id": 121,
+      "latitude": -6.2936613638,
+      "longitude": 106.77927121999998,
+      "range": 161.67836818897334,
+      "crime_info": {
+        "Attempt": 1,
+        "Public Intoxication": 1,
+        "Rape": 2,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 122,
+      "latitude": -6.296714701200001,
+      "longitude": 106.77743224000001,
+      "range": 175.3428560156662,
+      "crime_info": {
+        "Credit / Debit Card Fraud": 1,
+        "Drug Possession": 1,
+        "Indecent Exposure": 1,
+        "Statutory Rape": 2
+      }
+    },
+    {
+      "id": 123,
+      "latitude": -6.281890099166667,
+      "longitude": 106.79642912499999,
+      "range": 217.9694403160295,
+      "crime_info": {
+        "Aggravated Assault": 3,
+        "Arson": 1,
+        "Drug Manufacturing and Cultivation": 1,
+        "Forgery": 1,
+        "Indecent Exposure": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 1,
+        "Solicitation": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 124,
+      "latitude": -6.274016421071429,
+      "longitude": 106.80848927857144,
+      "range": 471.4589496492695,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Assault / Battery": 2,
+        "Domestic Violence": 1,
+        "Harassment": 1,
+        "Hate Crimes": 1,
+        "Homicide": 2,
+        "Insurance Fraud": 1,
+        "Kidnapping": 1,
+        "Murder: First-degree": 1,
+        "Prostitution": 1,
+        "Rape": 1
+      }
+    },
+    {
+      "id": 125,
+      "latitude": -6.363928268363637,
+      "longitude": 106.79900202727272,
+      "range": 76.34625521892472,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Hate Crimes": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Robbery": 1,
+        "Sexual Assault": 2,
+        "Stalking": 1,
+        "Statutory Rape": 1,
+        "Theft": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 126,
+      "latitude": -6.356792144,
+      "longitude": 106.80083228333332,
+      "range": 108.78869405466855,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Extortion": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Murder: First-degree": 1,
+        "Rape": 1,
+        "Robbery": 2
+      }
+    },
+    {
+      "id": 127,
+      "latitude": -6.3449644276,
+      "longitude": 106.80729062,
+      "range": 92.44841169916732,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Indecent Exposure": 1,
+        "Medical Marijuana": 1,
+        "Probation Violation": 1,
+        "Pyramid Schemes": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 128,
+      "latitude": -6.326693719142858,
+      "longitude": 106.81935872857146,
+      "range": 59.388800878212166,
+      "crime_info": {
+        "Attempt": 1,
+        "Murder: Second-degree": 1,
+        "Probation Violation": 1,
+        "Rape": 1,
+        "Securities Fraud": 1,
+        "Sexual Assault": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 129,
+      "latitude": -6.312717236999998,
+      "longitude": 106.82570159166666,
+      "range": 117.56801192260858,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 2,
+        "Conspiracy": 1,
+        "Harassment": 1,
+        "Manslaughter: Voluntary": 2,
+        "Probation Violation": 1,
+        "Public Intoxication": 1,
+        "Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 130,
+      "latitude": -6.242385486666667,
+      "longitude": 106.79837940833333,
+      "range": 20.19452844198085,
+      "crime_info": {
+        "Aiding and Abetting / Accessory": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 2,
+        "Medical Marijuana": 1,
+        "Murder: First-degree": 1,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Stalking": 2,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 131,
+      "latitude": -6.2447048368181814,
+      "longitude": 106.80366779090909,
+      "range": 114.9971808964894,
+      "crime_info": {
+        "Aiding and Abetting / Accessory": 1,
+        "Arson": 1,
+        "Domestic Violence": 1,
+        "Harassment": 1,
+        "Hate Crimes": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 132,
+      "latitude": -6.230650263454546,
+      "longitude": 106.8076569090909,
+      "range": 9.648171943661008,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Drug Possession": 1,
+        "Harassment": 2,
+        "Kidnapping": 1,
+        "Rape": 1,
+        "Robbery": 2,
+        "Sexual Assault": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 133,
+      "latitude": -6.2386260479,
+      "longitude": 106.81478450999998,
+      "range": 40.53277318372548,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Child Pornography": 2,
+        "Conspiracy": 1,
+        "Cyberbullying": 1,
+        "Murder: First-degree": 1,
+        "Public Intoxication": 1,
+        "Rape": 1,
+        "Securities Fraud": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 134,
+      "latitude": -6.232040554250001,
+      "longitude": 106.79225727500001,
+      "range": 56.175218851688655,
+      "crime_info": {
+        "Arson": 1,
+        "Disorderly Conduct": 2,
+        "Drug Manufacturing and Cultivation": 1,
+        "Drug Possession": 1,
+        "Hate Crimes": 1,
+        "Homicide": 1,
+        "Identity Theft": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Rape": 1,
+        "Robbery": 1
+      }
+    },
+    {
+      "id": 135,
+      "latitude": -6.2216487019,
+      "longitude": 106.78369577999999,
+      "range": 169.88174829374387,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Domestic Violence": 1,
+        "Drug Possession": 1,
+        "Homicide": 1,
+        "Murder: First-degree": 1,
+        "Rape": 1,
+        "Stalking": 1,
+        "Theft": 1,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 136,
+      "latitude": -6.2153546431999995,
+      "longitude": 106.78774176000002,
+      "range": 156.56023561203833,
+      "crime_info": {
+        "Attempt": 1,
+        "Child Pornography": 1,
+        "Harassment": 1,
+        "Homicide": 2,
+        "Insurance Fraud": 1,
+        "Kidnapping": 1,
+        "Murder: Second-degree": 1,
+        "Robbery": 1,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 137,
+      "latitude": -6.232578839,
+      "longitude": 106.7797823,
+      "range": 350.8837880885928,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Harassment": 1,
+        "Murder: Second-degree": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 138,
+      "latitude": -6.2373233494,
+      "longitude": 106.78234692999999,
+      "range": 182.0961385315623,
+      "crime_info": {
+        "Aiding and Abetting / Accessory": 1,
+        "Assault / Battery": 2,
+        "Attempt": 1,
+        "Bribery": 1,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Robbery": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 139,
+      "latitude": -6.238220952111111,
+      "longitude": 106.77535672222223,
+      "range": 193.31954346556216,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Bribery": 1,
+        "Criminal Contempt of Court": 2,
+        "Disorderly Conduct": 1,
+        "Embezzlement": 1,
+        "Homicide": 1,
+        "Pyramid Schemes": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 140,
+      "latitude": -6.265523434666666,
+      "longitude": 106.77532653333334,
+      "range": 155.1221267285732,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Extortion": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 141,
+      "latitude": -6.261829401666667,
+      "longitude": 106.7753656,
+      "range": 63.432721956589226,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Insurance Fraud": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 142,
+      "latitude": -6.265399284181819,
+      "longitude": 106.78121635454545,
+      "range": 248.23531328523936,
+      "crime_info": {
+        "Attempt": 1,
+        "Credit / Debit Card Fraud": 1,
+        "Criminal Contempt of Court": 1,
+        "Homicide": 1,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Pyramid Schemes": 1,
+        "Sexual Assault": 1,
+        "Shoplifting": 1,
+        "Stalking": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 143,
+      "latitude": -6.240189746222222,
+      "longitude": 106.82427387777778,
+      "range": 158.86120263629664,
+      "crime_info": {
+        "Harassment": 1,
+        "Manslaughter: Voluntary": 2,
+        "Murder: Second-degree": 3,
+        "Open Container (of alcohol)": 1,
+        "Solicitation": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 144,
+      "latitude": -6.243976246714285,
+      "longitude": 106.8261929857143,
+      "range": 194.2128944927881,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Kidnapping": 1,
+        "Stalking": 1,
+        "Theft": 3
+      }
+    },
+    {
+      "id": 145,
+      "latitude": -6.257354747533333,
+      "longitude": 106.81854792,
+      "range": 201.2097327663487,
+      "crime_info": {
+        "Child Pornography": 1,
+        "Disorderly Conduct": 1,
+        "Drug Manufacturing and Cultivation": 1,
+        "Identity Theft": 1,
+        "Medical Marijuana": 1,
+        "Murder: First-degree": 1,
+        "Public Intoxication": 1,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1,
+        "Theft": 3,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 146,
+      "latitude": -6.2658450782,
+      "longitude": 106.81596743,
+      "range": 25.422006831707733,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Aiding and Abetting / Accessory": 1,
+        "Arson": 1,
+        "Criminal Contempt of Court": 1,
+        "Manslaughter: Voluntary": 1,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Tax Evasion / Fraud": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 147,
+      "latitude": -6.246888095538461,
+      "longitude": 106.81521603076924,
+      "range": 142.48203349173406,
+      "crime_info": {
+        "Arson": 1,
+        "Attempt": 1,
+        "Harassment": 2,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Robbery": 2,
+        "Solicitation": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 148,
+      "latitude": -6.261585232363635,
+      "longitude": 106.82973036363636,
+      "range": 166.07974683554968,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Murder: First-degree": 1,
+        "Pyramid Schemes": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Securities Fraud": 1
+      }
+    },
+    {
+      "id": 149,
+      "latitude": -6.258853194857143,
+      "longitude": 106.8353152,
+      "range": 127.05480570909567,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Kidnapping": 1,
+        "Open Container (of alcohol)": 1,
+        "Probation Violation": 1,
+        "Rape": 2,
+        "Sexual Assault": 1
+      }
+    },
+    {
+      "id": 150,
+      "latitude": -6.255542322399999,
+      "longitude": 106.84496526999999,
+      "range": 209.26415878551362,
+      "crime_info": {
+        "Arson": 1,
+        "Attempt": 1,
+        "Disturbing the Peace": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Theft": 1,
+        "Vandalism": 1
+      }
+    },
+    {
+      "id": 151,
+      "latitude": -6.247330037,
+      "longitude": 106.84302876000001,
+      "range": 349.4573244699815,
+      "crime_info": {
+        "Arson": 1,
+        "Cyberbullying": 1,
+        "Disorderly Conduct": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 1,
+        "Medical Marijuana": 1,
+        "Robbery": 1,
+        "Solicitation": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 152,
+      "latitude": -6.284479809444444,
+      "longitude": 106.84226557777778,
+      "range": 415.15361673023153,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Fraud": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 2,
+        "Probation Violation": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Stalking": 2,
+        "Statutory Rape": 2,
+        "Vandalism": 1
+      }
+    },
+    {
+      "id": 153,
+      "latitude": -6.291661550842105,
+      "longitude": 106.84311317894736,
+      "range": 234.811673823202,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Embezzlement": 1,
+        "Harassment": 2,
+        "Hate Crimes": 1,
+        "Homicide": 1,
+        "Kidnapping": 2,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Medical Marijuana": 1,
+        "Money Laundering": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Sexual Assault": 1,
+        "Statutory Rape": 1,
+        "Tax Evasion / Fraud": 1,
+        "Telemarketing Fraud": 1
+      }
+    },
+    {
+      "id": 154,
+      "latitude": -6.3015761637142855,
+      "longitude": 106.83993672857143,
+      "range": 153.93826115917113,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Stalking": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 155,
+      "latitude": -6.299667072416667,
+      "longitude": 106.83619623333334,
+      "range": 56.917690705927775,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Attempt": 1,
+        "Hate Crimes": 1,
+        "Homicide": 1,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Statutory Rape": 1,
+        "Telemarketing Fraud": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 156,
+      "latitude": -6.280093397222222,
+      "longitude": 106.84256234444445,
+      "range": 133.5971810537402,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Child Abuse": 1,
+        "Extortion": 1,
+        "Rape": 2,
+        "Robbery": 1,
+        "Theft": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 157,
+      "latitude": -6.2365351522,
+      "longitude": 106.75182842,
+      "range": 113.21231326090914,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Harassment": 1,
+        "Homicide": 2,
+        "Sexual Assault": 1
+      }
+    },
+    {
+      "id": 158,
+      "latitude": -6.2366930838000005,
+      "longitude": 106.74801543999999,
+      "range": 60.505173585158246,
+      "crime_info": {
+        "Harassment": 1,
+        "Kidnapping": 1,
+        "Murder: First-degree": 1,
+        "Public Intoxication": 1,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 159,
+      "latitude": -6.2420281227,
+      "longitude": 106.75675311,
+      "range": 249.03184515641308,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Attempt": 1,
+        "Harassment": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Vandalism": 1
+      }
+    },
+    {
+      "id": 160,
+      "latitude": -6.226874881600001,
+      "longitude": 106.74473995999999,
+      "range": 65.76325968957468,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Arson": 1,
+        "Rape": 2
+      }
+    },
+    {
+      "id": 161,
+      "latitude": -6.225486664272728,
+      "longitude": 106.76061563636362,
+      "range": 113.8770661441515,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Attempt": 1,
+        "Disturbing the Peace": 1,
+        "Harassment": 1,
+        "Kidnapping": 1,
+        "Rape": 2,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 162,
+      "latitude": -6.243548559624999,
+      "longitude": 106.76583035,
+      "range": 186.6433652542664,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Criminal Contempt of Court": 1,
+        "Homicide": 1,
+        "Murder: First-degree": 1,
+        "Open Container (of alcohol)": 1,
+        "Sexual Assault": 1,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 163,
+      "latitude": -6.249068574285714,
+      "longitude": 106.76408117142857,
+      "range": 114.51181453055531,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Aiding and Abetting / Accessory": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Burglary": 1,
+        "Kidnapping": 3,
+        "Securities Fraud": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Theft": 2,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 164,
+      "latitude": -6.20566852825,
+      "longitude": 106.82966210000001,
+      "range": 102.27144233792112,
+      "crime_info": {
+        "Harassment": 1,
+        "Robbery": 1,
+        "Theft": 1,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 165,
+      "latitude": -6.2110008094,
+      "longitude": 106.8291516,
+      "range": 154.32703202343106,
+      "crime_info": {
+        "Attempt": 1,
+        "Homicide": 2,
+        "Sexual Assault": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 166,
+      "latitude": -6.213127828181817,
+      "longitude": 106.84414624545457,
+      "range": 190.58076164686443,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 2,
+        "Murder: Second-degree": 1,
+        "Probation Violation": 1,
+        "Public Intoxication": 1
+      }
+    },
+    {
+      "id": 167,
+      "latitude": -6.214021353583334,
+      "longitude": 106.83881024166665,
+      "range": 195.02322538182628,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Aiding and Abetting / Accessory": 1,
+        "Assault / Battery": 1,
+        "Conspiracy": 1,
+        "Domestic Violence": 1,
+        "Embezzlement": 1,
+        "Harassment": 3,
+        "MIP: A Minor in Possession": 1,
+        "Manslaughter: Voluntary": 2
+      }
+    },
+    {
+      "id": 168,
+      "latitude": -6.224734280499999,
+      "longitude": 106.82881581666668,
+      "range": 440.10115733577584,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Computer Crime": 1,
+        "Disturbing the Peace": 1,
+        "Indecent Exposure": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 3,
+        "Public Intoxication": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 169,
+      "latitude": -6.207095765999999,
+      "longitude": 106.84044168333334,
+      "range": 333.48181411201523,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 1,
+        "Drug Trafficking / Distribution": 1,
+        "Kidnapping": 2,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Open Container (of alcohol)": 2,
+        "Sexual Assault": 2,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 170,
+      "latitude": -6.212781091875,
+      "longitude": 106.84758726250001,
+      "range": 119.47470479992371,
+      "crime_info": {
+        "Attempt": 1,
+        "Burglary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Racketeering / RICO": 1,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 171,
+      "latitude": -6.224672488666667,
+      "longitude": 106.85035216666667,
+      "range": 28.54178091361549,
+      "crime_info": {
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Shoplifting": 1
+      }
+    },
+    {
+      "id": 172,
+      "latitude": -6.224504487571428,
+      "longitude": 106.85330881428571,
+      "range": 130.03578887482144,
+      "crime_info": {
+        "Assault / Battery": 2,
+        "Murder: Second-degree": 1,
+        "Rape": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 173,
+      "latitude": -6.2176825634,
+      "longitude": 106.85909383999999,
+      "range": 240.17536860715913,
+      "crime_info": {
+        "Kidnapping": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 174,
+      "latitude": -6.2386917539999995,
+      "longitude": 106.85849699,
+      "range": 349.25639292767033,
+      "crime_info": {
+        "Arson": 1,
+        "Bribery": 1,
+        "Harassment": 1,
+        "Hate Crimes": 1,
+        "Homicide": 2,
+        "Manslaughter: Voluntary": 1,
+        "Medical Marijuana": 1,
+        "Sexual Assault": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 175,
+      "latitude": -6.238269765916667,
+      "longitude": 106.844625425,
+      "range": 244.72665976998454,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Drug Possession": 1,
+        "Homicide": 1,
+        "Rape": 3,
+        "Sexual Assault": 2,
+        "Stalking": 2,
+        "Statutory Rape": 2
+      }
+    },
+    {
+      "id": 176,
+      "latitude": -6.1269072085,
+      "longitude": 106.72562621000002,
+      "range": 62.70668919650773,
+      "crime_info": {
+        "Aiding and Abetting / Accessory": 1,
+        "Arson": 2,
+        "Fraud": 1,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 1,
+        "Medical Marijuana": 1,
+        "Murder: Second-degree": 2,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 177,
+      "latitude": -6.145376330125,
+      "longitude": 106.7624666625,
+      "range": 222.82751108554123,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Attempt": 1,
+        "Child Pornography": 1,
+        "Kidnapping": 3,
+        "Manslaughter: Voluntary": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 178,
+      "latitude": -6.154723837300001,
+      "longitude": 106.72265773000001,
+      "range": 187.02790686240076,
+      "crime_info": {
+        "Assault / Battery": 2,
+        "Attempt": 1,
+        "Bribery": 1,
+        "Burglary": 1,
+        "Harassment": 1,
+        "Insurance Fraud": 1,
+        "Kidnapping": 1,
+        "Murder: First-degree": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 179,
+      "latitude": -6.182300178199999,
+      "longitude": 106.71801520000001,
+      "range": 155.84605238036642,
+      "crime_info": {
+        "Burglary": 1,
+        "Disturbing the Peace": 1,
+        "Drug Trafficking / Distribution": 1,
+        "Embezzlement": 1,
+        "Murder: First-degree": 2,
+        "Murder: Second-degree": 1,
+        "Rape": 1,
+        "Statutory Rape": 1,
+        "Vandalism": 1
+      }
+    },
+    {
+      "id": 180,
+      "latitude": -6.162734189214285,
+      "longitude": 106.73912826428571,
+      "range": 274.15140673377255,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Harassment": 1,
+        "Hate Crimes": 1,
+        "Homicide": 1,
+        "Murder: First-degree": 2,
+        "Rape": 1,
+        "Stalking": 2,
+        "Statutory Rape": 2,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 181,
+      "latitude": -6.156635113666668,
+      "longitude": 106.78002355833335,
+      "range": 268.3872868237066,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Attempt": 2,
+        "Embezzlement": 1,
+        "Kidnapping": 2,
+        "Manslaughter: Voluntary": 2,
+        "Murder: First-degree": 2,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 182,
+      "latitude": -6.1510656,
+      "longitude": 106.77526627,
+      "range": 124.13793801833957,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Arson": 2,
+        "Disorderly Conduct": 1,
+        "Drug Possession": 1,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 1,
+        "Sexual Assault": 2,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 183,
+      "latitude": -6.179915643285716,
+      "longitude": 106.78551366428572,
+      "range": 197.83859819681123,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Attempt": 1,
+        "Child Pornography": 1,
+        "Conspiracy": 2,
+        "Disorderly Conduct": 1,
+        "Disturbing the Peace": 1,
+        "Harassment": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Robbery": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 184,
+      "latitude": -6.141611525888889,
+      "longitude": 106.81473968888889,
+      "range": 130.78174503869607,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Cyberbullying": 1,
+        "Drug Possession": 1,
+        "Embezzlement": 1,
+        "Indecent Exposure": 1,
+        "Robbery": 1,
+        "Securities Fraud": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 185,
+      "latitude": -6.1489920479,
+      "longitude": 106.82374714999999,
+      "range": 213.26064964351514,
+      "crime_info": {
+        "Attempt": 1,
+        "Bribery": 1,
+        "Drug Trafficking / Distribution": 1,
+        "MIP: A Minor in Possession": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 3,
+        "Robbery": 1,
+        "Sexual Assault": 1
+      }
+    },
+    {
+      "id": 186,
+      "latitude": -6.154706507666667,
+      "longitude": 106.81804165,
+      "range": 171.5353582489739,
+      "crime_info": {
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Credit / Debit Card Fraud": 1,
+        "Cyberbullying": 1,
+        "Harassment": 3,
+        "Homicide": 2,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 187,
+      "latitude": -6.158047955,
+      "longitude": 106.81357621666666,
+      "range": 103.03524873774712,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Insurance Fraud": 1,
+        "Manslaughter: Voluntary": 1,
+        "Sexual Assault": 1
+      }
+    },
+    {
+      "id": 188,
+      "latitude": -6.1513209235454545,
+      "longitude": 106.822726,
+      "range": 190.91122502259037,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Conspiracy": 1,
+        "Disorderly Conduct": 1,
+        "Identity Theft": 1,
+        "Murder: Second-degree": 1,
+        "Sexual Assault": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 189,
+      "latitude": -6.135673973454545,
+      "longitude": 106.80441114545455,
+      "range": 152.42742045837565,
+      "crime_info": {
+        "Arson": 2,
+        "Assault / Battery": 2,
+        "Attempt": 1,
+        "Child Pornography": 1,
+        "Murder: First-degree": 1,
+        "Perjury": 1,
+        "Shoplifting": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 190,
+      "latitude": -6.145899588699999,
+      "longitude": 106.79567931,
+      "range": 147.67845586203316,
+      "crime_info": {
+        "Assault / Battery": 2,
+        "Disturbing the Peace": 1,
+        "Homicide": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 2,
+        "Rape": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 191,
+      "latitude": -6.143906021173914,
+      "longitude": 106.80692848695651,
+      "range": 418.09404391273205,
+      "crime_info": {
+        "Aggravated Assault": 5,
+        "Attempt": 2,
+        "Child Abandonment": 1,
+        "Computer Crime": 1,
+        "Credit / Debit Card Fraud": 1,
+        "DUI / DWI": 1,
+        "Domestic Violence": 2,
+        "Fraud": 1,
+        "Insurance Fraud": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 1,
+        "Open Container (of alcohol)": 1,
+        "Rape": 1,
+        "Stalking": 1,
+        "Theft": 3
+      }
+    },
+    {
+      "id": 192,
+      "latitude": -6.156879964666667,
+      "longitude": 106.80782165000001,
+      "range": 86.93932344503288,
+      "crime_info": {
+        "Attempt": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Identity Theft": 1,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 193,
+      "latitude": -6.1388370878571425,
+      "longitude": 106.80376385,
+      "range": 136.61930919425782,
+      "crime_info": {
+        "Aiding and Abetting / Accessory": 1,
+        "Attempt": 2,
+        "Kidnapping": 1,
+        "Manslaughter: Involuntary": 1,
+        "Manslaughter: Voluntary": 2,
+        "Medical Marijuana": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 2,
+        "Sexual Assault": 1,
+        "Statutory Rape": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 194,
+      "latitude": -6.162528372111112,
+      "longitude": 106.76308496666667,
+      "range": 63.622659047832094,
+      "crime_info": {
+        "Bribery": 1,
+        "Insurance Fraud": 1,
+        "Murder: Second-degree": 2,
+        "Pyramid Schemes": 1,
+        "Sexual Assault": 1,
+        "Statutory Rape": 2,
+        "White Collar Crimes": 1
+      }
+    },
+    {
+      "id": 195,
+      "latitude": -6.175690703857143,
+      "longitude": 106.76576472857143,
+      "range": 75.85356403107478,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 196,
+      "latitude": -6.185970665090909,
+      "longitude": 106.76837796363634,
+      "range": 174.67111325012138,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Child Abandonment": 1,
+        "DUI / DWI": 1,
+        "Harassment": 1,
+        "Homicide": 2,
+        "Murder: First-degree": 2,
+        "Rape": 1,
+        "Sexual Assault": 1
+      }
+    },
+    {
+      "id": 197,
+      "latitude": -6.180128227,
+      "longitude": 106.75994720999999,
+      "range": 164.75384603902907,
+      "crime_info": {
+        "Arson": 2,
+        "Assault / Battery": 1,
+        "Attempt": 2,
+        "Child Abuse": 1,
+        "Harassment": 1,
+        "Rape": 1,
+        "Shoplifting": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 198,
+      "latitude": -6.197066961099999,
+      "longitude": 106.76677702000002,
+      "range": 156.94675036699442,
+      "crime_info": {
+        "Arson": 1,
+        "Attempt": 1,
+        "Child Pornography": 1,
+        "Drug Manufacturing and Cultivation": 1,
+        "Drug Trafficking / Distribution": 1,
+        "Harassment": 2,
+        "Rape": 1,
+        "Stalking": 1,
+        "Statutory Rape": 1
+      }
+    },
+    {
+      "id": 199,
+      "latitude": -6.2101468353571425,
+      "longitude": 106.77906259999999,
+      "range": 222.86588586083516,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Aiding and Abetting / Accessory": 2,
+        "Arson": 1,
+        "Attempt": 2,
+        "Harassment": 2,
+        "Homicide": 1,
+        "Money Laundering": 1,
+        "Murder: First-degree": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 200,
+      "latitude": -6.1160478151249995,
+      "longitude": 106.71680388333334,
+      "range": 472.15542654558556,
+      "crime_info": {
+        "Aggravated Assault": 4,
+        "Arson": 1,
+        "Domestic Violence": 1,
+        "Drug Manufacturing and Cultivation": 1,
+        "Embezzlement": 1,
+        "Harassment": 3,
+        "Homicide": 2,
+        "Indecent Exposure": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 2,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Theft": 2
+      }
+    },
+    {
+      "id": 201,
+      "latitude": -6.118151823928572,
+      "longitude": 106.70252814999999,
+      "range": 196.8919975593756,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Bribery": 1,
+        "Extortion": 1,
+        "Harassment": 3,
+        "Kidnapping": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Robbery": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Telemarketing Fraud": 1
+      }
+    },
+    {
+      "id": 202,
+      "latitude": -6.150926206,
+      "longitude": 106.69389554285715,
+      "range": 286.9784828646186,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 2,
+        "Domestic Violence": 1,
+        "Harassment": 1,
+        "Kidnapping": 2,
+        "Murder: First-degree": 1,
+        "Public Intoxication": 2,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Telemarketing Fraud": 2
+      }
+    },
+    {
+      "id": 203,
+      "latitude": -6.1819902,
+      "longitude": 106.80151038333334,
+      "range": 172.62183595896,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Attempt": 1,
+        "Cyberbullying": 1,
+        "Embezzlement": 1,
+        "Forgery": 1,
+        "Manslaughter: Voluntary": 1,
+        "Money Laundering": 1,
+        "Murder: First-degree": 1,
+        "Robbery": 2,
+        "Sexual Assault": 1
+      }
+    },
+    {
+      "id": 204,
+      "latitude": -6.18986655725,
+      "longitude": 106.79103520000001,
+      "range": 148.38807460421827,
+      "crime_info": {
+        "Credit / Debit Card Fraud": 1,
+        "Indecent Exposure": 1,
+        "Manslaughter: Involuntary": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Theft": 1,
+        "Vandalism": 1,
+        "Wire Fraud": 1
+      }
+    },
+    {
+      "id": 205,
+      "latitude": -6.189210656666667,
+      "longitude": 106.80289570833334,
+      "range": 87.94422077189878,
+      "crime_info": {
+        "Arson": 2,
+        "Indecent Exposure": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: Second-degree": 2,
+        "Robbery": 2,
+        "Stalking": 2,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 206,
+      "latitude": -6.199706711461539,
+      "longitude": 106.79008569999998,
+      "range": 285.02958096198677,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 1,
+        "Disturbing the Peace": 1,
+        "Harassment": 2,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Rape": 1,
+        "Securities Fraud": 1,
+        "Sexual Assault": 2,
+        "Stalking": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 207,
+      "latitude": -6.219164077333334,
+      "longitude": 106.7281879111111,
+      "range": 173.63635839091762,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Attempt": 1,
+        "Child Abuse": 1,
+        "Child Pornography": 1,
+        "Conspiracy": 1,
+        "Forgery": 1,
+        "Harassment": 1,
+        "Homicide": 1,
+        "Kidnapping": 1
+      }
+    },
+    {
+      "id": 208,
+      "latitude": -6.2005524,
+      "longitude": 106.71756652500001,
+      "range": 62.99876865384546,
+      "crime_info": {
+        "Drug Trafficking / Distribution": 1,
+        "Homicide": 1,
+        "Perjury": 1,
+        "Stalking": 1
+      }
+    },
+    {
+      "id": 209,
+      "latitude": -6.202905415,
+      "longitude": 106.71874223333333,
+      "range": 53.56477911044599,
+      "crime_info": {
+        "Arson": 1,
+        "Murder: First-degree": 1,
+        "Rape": 1
+      }
+    },
+    {
+      "id": 210,
+      "latitude": -6.19815023042857,
+      "longitude": 106.75843149285716,
+      "range": 173.9530988401265,
+      "crime_info": {
+        "Aggravated Assault": 2,
+        "Aiding and Abetting / Accessory": 1,
+        "Arson": 2,
+        "Homicide": 1,
+        "Kidnapping": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 1,
+        "Murder: Second-degree": 1,
+        "Rape": 2,
+        "Sexual Assault": 1,
+        "Theft": 1
+      }
+    },
+    {
+      "id": 211,
+      "latitude": -6.182903216714286,
+      "longitude": 106.74034374285715,
+      "range": 265.8713576523209,
+      "crime_info": {
+        "Aggravated Assault": 1,
+        "Aiding and Abetting / Accessory": 1,
+        "Attempt": 1,
+        "Cyberbullying": 1,
+        "Drug Possession": 1,
+        "Manslaughter: Voluntary": 1,
+        "Murder: First-degree": 2,
+        "Rape": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1,
+        "Statutory Rape": 2,
+        "Tax Evasion / Fraud": 1
+      }
+    },
+    {
+      "id": 212,
+      "latitude": -6.184413559444445,
+      "longitude": 106.7345425,
+      "range": 249.65372723258926,
+      "crime_info": {
+        "Arson": 1,
+        "Assault / Battery": 2,
+        "Forgery": 1,
+        "Harassment": 1,
+        "Money Laundering": 1,
+        "Murder: First-degree": 1,
+        "Sexual Assault": 1,
+        "Stalking": 1
+      }
+    }
+  ]
+}

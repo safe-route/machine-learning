@@ -1,92 +1,194 @@
-# Machine Learning
+# Safe Route - Machine Learning
 
+## Overview
+* **[Clustering](#clustering)**
+* **[Habit Tracker](#habit-tracker)**
+* **[Known Issues](#known-issues)**
+* **[Team](#team)**
 
+## Clustering
+### Model Description
 
-## Getting started
+Clustering model is produced using scikit-learn DBScan class. Centroid comes from the average of each cluster with the range is the maximum distance of centroid to one of cluster members.
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+### Model generation
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+- Model : Use create_model() method
+- Statistic : Use generate_area_statistic(data) with data being the DataFrame of csv file
 
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
+### Centroid
+JSON File Format
 ```
-cd existing_repo
-git remote add origin https://gitlab.com/safe-route/machine-learning.git
-git branch -M main
-git push -uf origin main
+{
+    "centroids": [
+        {
+            "id": ... (int),
+            "latitude": ... (float),
+            "longitude": ... (float),
+            "range": ... (float),
+            "crime_info": {
+                <crime_type>(string): ... (int),
+                ...
+            }
+        },
+        ...
+    ]
+}
 ```
 
-## Integrate with your tools
+### Statistic
+JSON File Format
+```
+{
+    "statistic": [
+        "subdistrict": ... (string),
+        "total_crime": ... (int),
+        "crime_info": {
+            <crime_type>(string): ... (int),
+            ...
+        }
+        "coordinates": ... (list of* float)
+    ]
+}
+```
+Statistic JSON File Note:
+- coordinates list order is latitude, longitude
+- list may contain another list
+- please take a look at area_statistic.json before use
 
-- [ ] [Set up project integrations](https://gitlab.com/safe-route/machine-learning/-/settings/integrations)
 
-## Collaborate with your team
+## Habit Tracker
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+### Model Description
 
-## Test and Deploy
+Habit tracker model is created for each user that use the application, it utilize LSTM mechanics to predict multivariate multilabel time series data. Model will be fed with multiple inputs which is date, time, and location. The model will give location (latitude and longitude) as output.
 
-Use the built-in continuous integration in GitLab.
+### Model Generation
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+User's model will be generated when the endpoint ```/create``` called with username as URL parameters*.
 
-***
+\* further endpoint detail will be given [below](#flask)
 
-# Editing this README
+### Model
+```
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ lstm (LSTM)                 (None, 15, 64)            18176     
+                                                                 
+ lstm_1 (LSTM)               (None, 15, 32)            12416     
+                                                                 
+ lstm_2 (LSTM)               (None, 16)                3136      
+                                                                 
+ flatten (Flatten)           (None, 16)                0         
+                                                                 
+ dense (Dense)               (None, 16)                272       
+                                                                 
+ dense_1 (Dense)             (None, 8)                 136       
+                                                                 
+ dense_2 (Dense)             (None, 2)                 18        
+                                                                 
+=================================================================
+Total params: 34,154
+Trainable params: 34,154
+Non-trainable params: 0
+_________________________________________________________________
+```
+* Model input shape=(15, 6)
+* Model input data columns:
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+| column      | type    | range          | description              |
+|-------------|---------|----------------|--------------------------|
+| year        | integer |        *       | year timestamp           |
+| month       | integer |     1 - 12     | month timestamp          |
+| day_of_week | integer |      1 - 7     | day of week              |
+| time        | integer |    0 - 1440    | cumulative minute of day |
+| latitude    |  float  |  -90.0 - 90.0  | latitude                 |
+| longitude   |  float  | -180.0 - 180.0 | longitude                |
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+* Model output:
 
-## Name
-Choose a self-explaining name for your project.
+| column    | type  | range          | description |
+|-----------|-------|----------------|-------------|
+| latitude  | float |  -90.0 - 90.0  | latitude    |
+| longitude | float | -180.0 - 180.0 | longitude   |
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+### Flask
+url: https://model-ck44nnq7hq-as.a.run.app
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+| endpoint  | url_param        | body           | method |
+|-----------|------------------|----------------|--------|
+| /create   | username(string) |        -       | GET    |
+| /train    | username(string) | json-object-1* | POST   |
+| /forecast | username(string) | json-object-2* | POST   |
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+\* refer to the format below
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+* json-object-1
+```
+{
+	"username": ...,
+	"data": [
+	        {
+	            "datetime": ...,
+	            "latitude": ...,
+	            "longitude": ...
+	        },
+	        ...
+	        {
+	            "datetime": ...,
+	            "latitude": ...,
+	            "longitude": ...
+	        }
+	    ]
+}
+```
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+* json-object-2
+```
+{
+	"username": ...,
+    "email": ...,
+    "latitude": ...,
+	"longitude": ...,
+	"data": [
+	        {
+	            "datetime": ...,
+	            "latitude": ...,
+	            "longitude": ...
+	        },
+	        ...
+	        {
+	            "datetime": ...,
+	            "latitude": ...,
+	            "longitude": ...
+	        }
+	    ]
+}
+```
+* json key-value description
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+| key       | value                | range                     |
+|-----------|----------------------|---------------------------|
+| username  |        string        |             -             |
+| email     |        string        |             -             |
+| latitude  |         float        |        -90.0 - 90.0       |
+| longitude |         float        |       -180.0 - 180.0      |
+| data      | json-array-of-object |             -             |
+| datetime  |       timestamp      | %yyyy/%mm/%dd %hh:%MM:%ss |
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+## Known Issues
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+* Clustering - Require real data from local authorities
+* Habit Tracker - Model architecture has not yet been optimized
+* Habit Tracker - Costly data and model pipelining
+* Habit Tracker - Require a lots of data to create optimum model
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+## Team
+* M2002F0101 - Christopher Chandrasaputra
+* M2006F0613 - Hanif Adam Al Abraar
+* A2183F1771 - Fillah Akbar Firdausyah
+* A2009J0968 - Ikhsan Cahya Mardika 
+* C2009F0967 - I Putu Cahya Adi Ganesha
+* C2306G2617 - Muhammad Anggi Wirahmat
