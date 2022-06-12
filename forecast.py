@@ -10,7 +10,7 @@ from utility.mail_sender import *
 def predict_model(username:str, data, email:str, user_location:tuple):
     """Predict and send email if it triggers ccalculate_trigger function"""
     # Check if data is not none
-    if not data:
+    if data is None:
         return "not enough data for prediction"
     # Load model
     model = load_model(username)
@@ -18,7 +18,7 @@ def predict_model(username:str, data, email:str, user_location:tuple):
         # abort training since model does not exist
         return "model for user {} does not exist".format(username)
     # Do prediction
-    prediction = model.predict(data)
+    prediction = model.predict(data)[0]
     
     # Fire send_email endpoint
     if calculate_trigger(prediction, user_location):
@@ -36,5 +36,4 @@ def calculate_trigger(
     """Calculate if distance between two coordinates is 
     over the max range and return True if distance is more
     than max_range"""
-    print(distance(coordinate_1, coordinate_2))
     return distance(coordinate_1, coordinate_2) > max_range

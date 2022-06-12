@@ -183,21 +183,11 @@ def build_inference_dataset(source, **kwargs):
     if len(ds) != steps_size:
         return None
 
-    # Add empty row as empty label
-    ds.loc[ds.shape[0]] = np.zeros(num_of_features)
-    
-    # WINDOWING AND RETURNING DATASET
-    return windowed_dataset(ds, steps_size, predicts_size, batch_size, shuffle_buffer_size)
-
-def calculate_trigger(
-        coordinate_1:tuple[float,float],
-        coordinate_2:tuple[float,float],
-        max_range:float) -> bool:
-    """Calculate if distance between two coordinates is 
-    over the max range and return True if distance is more
-    than max_range"""
-    print(distance(coordinate_1, coordinate_2))
-    return distance(coordinate_1, coordinate_2) > max_range
+    # Reshaping to input shape    
+    ds = ds.to_numpy()
+    ds = tf.reshape(ds, shape=(15,6))
+    ds = tf.expand_dims(ds, axis=0)
+    return ds
 
 def save_model(username:str, model):
     """Save user's model"""
