@@ -1,0 +1,2308 @@
+﻿id,date,time,latitude,longitude,districts,subdistrict,type
+1,7/8/2021,22,-6.169094195,106.875481,Jakarta_Pusat,Cempaka_Putih,Harassment
+2,8/30/2021,18,-6.169096601,106.8753707,Jakarta_Pusat,Cempaka_Putih,Attempt
+3,1/29/2021,8,-6.169124164,106.8756617,Jakarta_Pusat,Cempaka_Putih,Statutory Rape
+4,7/15/2021,19,-6.169100894,106.8749887,Jakarta_Pusat,Cempaka_Putih,Assault / Battery
+5,5/15/2021,15,-6.169095995,106.8747677,Jakarta_Pusat,Cempaka_Putih,Child Pornography
+6,7/24/2021,16,-6.169123916,106.8750985,Jakarta_Pusat,Cempaka_Putih,Stalking
+7,9/19/2021,4,-6.169117202,106.8758604,Jakarta_Pusat,Cempaka_Putih,Theft
+8,11/12/2021,13,-6.169089623,106.8749155,Jakarta_Pusat,Cempaka_Putih,Assault / Battery
+9,7/27/2021,2,-6.169107187,106.8759206,Jakarta_Pusat,Cempaka_Putih,Statutory Rape
+10,10/4/2021,10,-6.16909394,106.8757427,Jakarta_Pusat,Cempaka_Putih,Kidnapping
+11,4/5/2021,18,-6.169123882,106.8750545,Jakarta_Pusat,Cempaka_Putih,Assault / Battery
+12,12/17/2021,8,-6.169102979,106.8757882,Jakarta_Pusat,Cempaka_Putih,Manslaughter: Voluntary
+13,9/12/2021,10,-6.178333769,106.8745836,Jakarta_Pusat,Cempaka_Putih,Public Intoxication
+14,11/17/2021,11,-6.178432345,106.8743658,Jakarta_Pusat,Cempaka_Putih,Attempt
+15,1/2/2021,15,-6.178279814,106.8745514,Jakarta_Pusat,Cempaka_Putih,Statutory Rape
+16,1/24/2021,8,-6.178304654,106.8745445,Jakarta_Pusat,Cempaka_Putih,Aggravated Assault
+17,7/15/2021,18,-6.177779854,106.8744137,Jakarta_Pusat,Cempaka_Putih,Aggravated Assault
+18,2/23/2021,9,-6.178188446,106.8744455,Jakarta_Pusat,Cempaka_Putih,Statutory Rape
+19,3/20/2021,21,-6.178352147,106.8745142,Jakarta_Pusat,Cempaka_Putih,Robbery
+20,9/30/2021,3,-6.178093453,106.8744274,Jakarta_Pusat,Cempaka_Putih,Embezzlement
+21,7/23/2021,8,-6.177799373,106.8744433,Jakarta_Pusat,Cempaka_Putih,Manslaughter: Voluntary
+22,1/16/2021,21,-6.177765934,106.8745657,Jakarta_Pusat,Cempaka_Putih,Kidnapping
+23,5/5/2021,8,-6.183531517,106.8681953,Jakarta_Pusat,Cempaka_Putih,Rape
+24,7/9/2021,9,-6.182918911,106.8676046,Jakarta_Pusat,Cempaka_Putih,Murder: Second-degree
+25,10/18/2021,11,-6.18402355,106.8674777,Jakarta_Pusat,Cempaka_Putih,Statutory Rape
+26,4/19/2021,23,-6.183100162,106.8673664,Jakarta_Pusat,Cempaka_Putih,Harassment
+27,3/3/2021,20,-6.184275134,106.8673149,Jakarta_Pusat,Cempaka_Putih,Manslaughter: Voluntary
+28,1/13/2021,20,-6.183939194,106.8675856,Jakarta_Pusat,Cempaka_Putih,Stalking
+29,5/21/2021,21,-6.183906129,106.8674813,Jakarta_Pusat,Cempaka_Putih,Assault / Battery
+30,4/7/2021,15,-6.183710554,106.8681289,Jakarta_Pusat,Cempaka_Putih,Aggravated Assault
+31,4/18/2021,2,-6.1843137,106.8675498,Jakarta_Pusat,Cempaka_Putih,Sexual Assault
+32,3/10/2021,20,-6.183204343,106.8676692,Jakarta_Pusat,Cempaka_Putih,Aiding and Abetting / Accessory
+33,12/17/2021,21,-6.184374402,106.867416,Jakarta_Pusat,Cempaka_Putih,Manslaughter: Voluntary
+34,1/31/2021,18,-6.18714948,106.8686771,Jakarta_Pusat,Cempaka_Putih,Arson
+35,5/7/2021,14,-6.187273144,106.8690872,Jakarta_Pusat,Cempaka_Putih,Stalking
+36,9/5/2021,18,-6.187141857,106.8692601,Jakarta_Pusat,Cempaka_Putih,Robbery
+37,2/9/2021,6,-6.187016904,106.8691308,Jakarta_Pusat,Cempaka_Putih,Sexual Assault
+38,3/25/2021,11,-6.187133366,106.8694233,Jakarta_Pusat,Cempaka_Putih,Harassment
+39,1/5/2021,1,-6.187300356,106.8692291,Jakarta_Pusat,Cempaka_Putih,Drug Manufacturing and Cultivation
+40,4/22/2021,14,-6.187251523,106.8694076,Jakarta_Pusat,Cempaka_Putih,Manslaughter: Voluntary
+41,1/10/2021,19,-6.187275085,106.8686895,Jakarta_Pusat,Cempaka_Putih,Kidnapping
+42,2/18/2021,9,-6.187019008,106.8692982,Jakarta_Pusat,Cempaka_Putih,Homicide
+43,6/1/2021,21,-6.187165089,106.8692879,Jakarta_Pusat,Cempaka_Putih,Manslaughter: Involuntary
+44,10/16/2021,15,-6.187019004,106.8689309,Jakarta_Pusat,Cempaka_Putih,Open Container (of alcohol)
+45,1/4/2021,11,-6.18191624,106.8681663,Jakarta_Pusat,Cempaka_Putih,Statutory Rape
+46,9/6/2021,6,-6.181933781,106.8661604,Jakarta_Pusat,Cempaka_Putih,Vandalism
+47,10/15/2021,13,-6.181902584,106.8679866,Jakarta_Pusat,Cempaka_Putih,Telemarketing Fraud
+48,1/25/2021,9,-6.181923927,106.866159,Jakarta_Pusat,Cempaka_Putih,Sexual Assault
+49,5/2/2021,14,-6.181896645,106.8672074,Jakarta_Pusat,Cempaka_Putih,Statutory Rape
+50,7/12/2021,9,-6.181899537,106.8678605,Jakarta_Pusat,Cempaka_Putih,Prostitution
+51,6/22/2021,1,-6.181922751,106.8659242,Jakarta_Pusat,Cempaka_Putih,Manslaughter: Voluntary
+52,7/7/2021,23,-6.181931849,106.8671191,Jakarta_Pusat,Cempaka_Putih,Rape
+53,1/29/2021,12,-6.181902588,106.8650242,Jakarta_Pusat,Cempaka_Putih,Medical Marijuana
+54,7/24/2021,21,-6.181927851,106.8677569,Jakarta_Pusat,Cempaka_Putih,Theft
+55,9/23/2021,16,-6.181917317,106.8654288,Jakarta_Pusat,Cempaka_Putih,Robbery
+56,2/19/2021,18,-6.160919714,106.801285,Jakarta_Pusat,Gambir,Statutory Rape
+57,6/4/2021,4,-6.160920345,106.8012704,Jakarta_Pusat,Gambir,Homicide
+58,4/26/2021,16,-6.160874672,106.8012564,Jakarta_Pusat,Gambir,Robbery
+59,1/16/2021,10,-6.160846555,106.8012651,Jakarta_Pusat,Gambir,Robbery
+60,10/4/2021,6,-6.16084764,106.8012754,Jakarta_Pusat,Gambir,Arson
+61,8/27/2021,15,-6.160826361,106.8012812,Jakarta_Pusat,Gambir,Homicide
+62,3/20/2021,2,-6.160831834,106.8012823,Jakarta_Pusat,Gambir,Attempt
+63,5/30/2021,19,-6.160900685,106.8012779,Jakarta_Pusat,Gambir,Attempt
+64,7/27/2021,6,-6.160807001,106.8012461,Jakarta_Pusat,Gambir,Aggravated Assault
+65,6/5/2021,22,-6.160817324,106.8012491,Jakarta_Pusat,Gambir,Aiding and Abetting / Accessory
+66,12/21/2021,0,-6.160827053,106.8012801,Jakarta_Pusat,Gambir,Bribery
+67,6/16/2021,9,-6.165646233,106.8106448,Jakarta_Pusat,Gambir,Sexual Assault
+68,3/27/2021,21,-6.165651121,106.8110462,Jakarta_Pusat,Gambir,Stalking
+69,1/22/2021,18,-6.165626026,106.8107064,Jakarta_Pusat,Gambir,Rape
+70,7/10/2021,2,-6.165622498,106.8107156,Jakarta_Pusat,Gambir,Murder: Second-degree
+71,10/25/2021,6,-6.165637833,106.8106166,Jakarta_Pusat,Gambir,Robbery
+72,4/14/2021,3,-6.165652903,106.8108122,Jakarta_Pusat,Gambir,Open Container (of alcohol)
+73,8/7/2021,20,-6.165630778,106.8108793,Jakarta_Pusat,Gambir,Robbery
+74,5/22/2021,20,-6.165635653,106.8107426,Jakarta_Pusat,Gambir,Aggravated Assault
+75,4/2/2021,10,-6.165623084,106.810613,Jakarta_Pusat,Gambir,Theft
+76,11/18/2021,22,-6.16564861,106.8107581,Jakarta_Pusat,Gambir,Manslaughter: Involuntary
+77,12/24/2021,1,-6.165624675,106.8106426,Jakarta_Pusat,Gambir,Theft
+78,2/15/2021,5,-6.178636709,106.8127863,Jakarta_Pusat,Gambir,Homicide
+79,7/2/2021,15,-6.179975626,106.8128857,Jakarta_Pusat,Gambir,Theft
+80,7/1/2021,16,-6.178597939,106.8130615,Jakarta_Pusat,Gambir,Sexual Assault
+81,3/18/2021,1,-6.177871519,106.812688,Jakarta_Pusat,Gambir,Theft
+82,8/18/2021,3,-6.178084783,106.8127976,Jakarta_Pusat,Gambir,Murder: First-degree
+83,1/25/2021,6,-6.179310855,106.8129047,Jakarta_Pusat,Gambir,Assault / Battery
+84,3/17/2021,10,-6.178923447,106.8130379,Jakarta_Pusat,Gambir,Aggravated Assault
+85,9/20/2021,23,-6.178952314,106.8126662,Jakarta_Pusat,Gambir,Assault / Battery
+86,8/13/2021,0,-6.178597854,106.8130102,Jakarta_Pusat,Gambir,Attempt
+87,4/14/2021,10,-6.178417548,106.8129815,Jakarta_Pusat,Gambir,Burglary
+88,5/29/2021,18,-6.164900078,106.8179514,Jakarta_Pusat,Gambir,White Collar Crimes
+89,2/3/2021,23,-6.164872721,106.8176579,Jakarta_Pusat,Gambir,Attempt
+90,1/15/2021,0,-6.164929121,106.8180771,Jakarta_Pusat,Gambir,Harassment
+91,6/22/2021,10,-6.164848303,106.818073,Jakarta_Pusat,Gambir,Disturbing the Peace
+92,11/2/2021,5,-6.164868785,106.8179752,Jakarta_Pusat,Gambir,Manslaughter: Involuntary
+93,3/14/2021,19,-6.164826871,106.8180272,Jakarta_Pusat,Gambir,Assault / Battery
+94,4/30/2021,21,-6.164841191,106.8178559,Jakarta_Pusat,Gambir,Public Intoxication
+95,6/16/2021,13,-6.164881097,106.8174426,Jakarta_Pusat,Gambir,Assault / Battery
+96,7/24/2021,0,-6.164918555,106.8174722,Jakarta_Pusat,Gambir,Murder: Second-degree
+97,2/10/2021,15,-6.164870124,106.8177666,Jakarta_Pusat,Gambir,Harassment
+98,4/23/2021,21,-6.180040208,106.8516443,Jakarta_Pusat,Johar_Baru,Forgery
+99,11/21/2021,7,-6.178179367,106.8516652,Jakarta_Pusat,Johar_Baru,Sexual Assault
+100,6/15/2021,18,-6.179542485,106.8516554,Jakarta_Pusat,Johar_Baru,Statutory Rape
+101,10/10/2021,21,-6.178766678,106.8516767,Jakarta_Pusat,Johar_Baru,Manslaughter: Involuntary
+102,12/27/2021,20,-6.179669726,106.8516645,Jakarta_Pusat,Johar_Baru,Sexual Assault
+103,10/23/2021,17,-6.179132363,106.8516566,Jakarta_Pusat,Johar_Baru,Homicide
+104,5/26/2021,9,-6.178327118,106.8516456,Jakarta_Pusat,Johar_Baru,White Collar Crimes
+105,3/28/2021,17,-6.17987952,106.8516626,Jakarta_Pusat,Johar_Baru,Stalking
+106,3/18/2021,6,-6.179073023,106.8516757,Jakarta_Pusat,Johar_Baru,Aggravated Assault
+107,1/21/2021,3,-6.179003965,106.8516513,Jakarta_Pusat,Johar_Baru,Theft
+108,4/18/2021,7,-6.17851296,106.8516444,Jakarta_Pusat,Johar_Baru,Aiding and Abetting / Accessory
+109,4/23/2021,3,-6.174334541,106.8558948,Jakarta_Pusat,Johar_Baru,Medical Marijuana
+110,5/19/2021,0,-6.174328366,106.8567386,Jakarta_Pusat,Johar_Baru,Arson
+111,9/13/2021,7,-6.174324494,106.8557528,Jakarta_Pusat,Johar_Baru,Kidnapping
+112,8/27/2021,22,-6.17443423,106.8563703,Jakarta_Pusat,Johar_Baru,Robbery
+113,8/1/2021,21,-6.174367149,106.8558523,Jakarta_Pusat,Johar_Baru,Medical Marijuana
+114,6/28/2021,14,-6.174456389,106.8569772,Jakarta_Pusat,Johar_Baru,Arson
+115,7/24/2021,14,-6.174413815,106.8563879,Jakarta_Pusat,Johar_Baru,Assault / Battery
+116,3/23/2021,9,-6.17433455,106.8562527,Jakarta_Pusat,Johar_Baru,Homicide
+117,1/13/2021,6,-6.174286541,106.8565485,Jakarta_Pusat,Johar_Baru,Aggravated Assault
+118,8/2/2021,4,-6.174440825,106.8556436,Jakarta_Pusat,Johar_Baru,Stalking
+119,10/2/2021,17,-6.17754793,106.8517737,Jakarta_Pusat,Johar_Baru,Theft
+120,9/12/2021,4,-6.17800069,106.851678,Jakarta_Pusat,Johar_Baru,Murder: Second-degree
+121,6/10/2021,7,-6.177975665,106.8518207,Jakarta_Pusat,Johar_Baru,Drug Possession
+122,2/27/2021,20,-6.177439651,106.8516426,Jakarta_Pusat,Johar_Baru,Aggravated Assault
+123,3/9/2021,17,-6.177000363,106.8518187,Jakarta_Pusat,Johar_Baru,Homicide
+124,1/12/2021,10,-6.176937661,106.8517925,Jakarta_Pusat,Johar_Baru,Robbery
+125,8/11/2021,15,-6.176897757,106.8516408,Jakarta_Pusat,Johar_Baru,Theft
+126,7/13/2021,8,-6.177166519,106.8518101,Jakarta_Pusat,Johar_Baru,Statutory Rape
+127,11/14/2021,21,-6.177224959,106.8518278,Jakarta_Pusat,Johar_Baru,Aiding and Abetting / Accessory
+128,9/12/2021,11,-6.176590534,106.8517182,Jakarta_Pusat,Johar_Baru,Sexual Assault
+129,6/6/2021,22,-6.177676404,106.8516211,Jakarta_Pusat,Johar_Baru,Rape
+130,12/15/2021,15,-6.185655208,106.8564778,Jakarta_Pusat,Johar_Baru,Criminal Contempt of Court
+131,5/1/2021,23,-6.18557943,106.8559876,Jakarta_Pusat,Johar_Baru,Pyramid Schemes
+132,4/20/2021,17,-6.185617584,106.8560878,Jakarta_Pusat,Johar_Baru,Sexual Assault
+133,2/3/2021,8,-6.185659402,106.8567148,Jakarta_Pusat,Johar_Baru,Homicide
+134,5/21/2021,6,-6.185608053,106.8562758,Jakarta_Pusat,Johar_Baru,Tax Evasion / Fraud
+135,10/16/2021,4,-6.185640489,106.8561018,Jakarta_Pusat,Johar_Baru,Kidnapping
+136,4/10/2021,20,-6.185648138,106.8561849,Jakarta_Pusat,Johar_Baru,White Collar Crimes
+137,10/21/2021,2,-6.185657657,106.8561317,Jakarta_Pusat,Johar_Baru,Burglary
+138,8/16/2021,3,-6.185572022,106.8560777,Jakarta_Pusat,Johar_Baru,Harassment
+139,8/19/2021,15,-6.185598081,106.8560147,Jakarta_Pusat,Johar_Baru,Drug Possession
+140,3/24/2021,5,-6.185650317,106.8559645,Jakarta_Pusat,Johar_Baru,Stalking
+141,10/12/2021,15,-6.154883923,106.8507537,Jakarta_Pusat,Kemayoran,Robbery
+142,9/11/2021,16,-6.15488442,106.8507332,Jakarta_Pusat,Kemayoran,Insurance Fraud
+143,12/8/2021,1,-6.154646833,106.8507412,Jakarta_Pusat,Kemayoran,Sexual Assault
+144,6/7/2021,21,-6.154910637,106.8507499,Jakarta_Pusat,Kemayoran,Murder: Second-degree
+145,6/29/2021,15,-6.154899776,106.8507384,Jakarta_Pusat,Kemayoran,Medical Marijuana
+146,11/8/2021,4,-6.154680931,106.8507437,Jakarta_Pusat,Kemayoran,Sexual Assault
+147,1/9/2021,22,-6.154907749,106.8507363,Jakarta_Pusat,Kemayoran,Kidnapping
+148,7/23/2021,22,-6.154894486,106.8507504,Jakarta_Pusat,Kemayoran,Statutory Rape
+149,4/17/2021,0,-6.154673682,106.8507374,Jakarta_Pusat,Kemayoran,Attempt
+150,10/7/2021,20,-6.154619031,106.850734,Jakarta_Pusat,Kemayoran,Assault / Battery
+151,10/12/2021,9,-6.166987095,106.8737672,Jakarta_Pusat,Kemayoran,Pyramid Schemes
+152,1/28/2021,18,-6.167007848,106.8736634,Jakarta_Pusat,Kemayoran,Sexual Assault
+153,12/23/2021,11,-6.166972825,106.8736538,Jakarta_Pusat,Kemayoran,Manslaughter: Involuntary
+154,2/4/2021,22,-6.166993683,106.8737028,Jakarta_Pusat,Kemayoran,Rape
+155,4/12/2021,19,-6.167051175,106.8735883,Jakarta_Pusat,Kemayoran,Statutory Rape
+156,11/9/2021,8,-6.166963602,106.8737685,Jakarta_Pusat,Kemayoran,Arson
+157,7/27/2021,5,-6.167048417,106.8737003,Jakarta_Pusat,Kemayoran,Stalking
+158,2/3/2021,3,-6.166965093,106.8737017,Jakarta_Pusat,Kemayoran,Statutory Rape
+159,8/23/2021,1,-6.166972718,106.8736661,Jakarta_Pusat,Kemayoran,Assault / Battery
+160,7/12/2021,1,-6.167023725,106.873503,Jakarta_Pusat,Kemayoran,Assault / Battery
+161,10/29/2021,18,-6.166949263,106.8736068,Jakarta_Pusat,Kemayoran,Assault / Battery
+162,7/12/2021,18,-6.168319905,106.8398777,Jakarta_Pusat,Kemayoran,Homicide
+163,1/15/2021,23,-6.169681488,106.839687,Jakarta_Pusat,Kemayoran,Murder: First-degree
+164,10/29/2021,7,-6.16950856,106.8400491,Jakarta_Pusat,Kemayoran,Aggravated Assault
+165,5/13/2021,13,-6.168260843,106.840118,Jakarta_Pusat,Kemayoran,MIP: A Minor in Possession
+166,6/12/2021,2,-6.168992963,106.8398059,Jakarta_Pusat,Kemayoran,Domestic Violence
+167,11/24/2021,18,-6.169710396,106.8398724,Jakarta_Pusat,Kemayoran,Indecent Exposure
+168,8/13/2021,5,-6.168041681,106.8400591,Jakarta_Pusat,Kemayoran,Murder: First-degree
+169,7/26/2021,3,-6.168810951,106.8399624,Jakarta_Pusat,Kemayoran,Kidnapping
+170,7/25/2021,11,-6.168570842,106.8397123,Jakarta_Pusat,Kemayoran,Manslaughter: Voluntary
+171,4/22/2021,3,-6.169655737,106.8397739,Jakarta_Pusat,Kemayoran,Harassment
+172,3/20/2021,2,-6.168264921,106.8398293,Jakarta_Pusat,Kemayoran,Harassment
+173,11/16/2021,3,-6.160034224,106.866945,Jakarta_Pusat,Kemayoran,Arson
+174,2/22/2021,13,-6.160359117,106.8666987,Jakarta_Pusat,Kemayoran,White Collar Crimes
+175,10/22/2021,2,-6.16055874,106.866951,Jakarta_Pusat,Kemayoran,Racketeering / RICO
+176,1/20/2021,2,-6.160420809,106.8668387,Jakarta_Pusat,Kemayoran,Theft
+177,11/16/2021,4,-6.160030112,106.8665571,Jakarta_Pusat,Kemayoran,Attempt
+178,4/12/2021,19,-6.160625242,106.8665205,Jakarta_Pusat,Kemayoran,Arson
+179,7/23/2021,12,-6.160999432,106.8669794,Jakarta_Pusat,Kemayoran,Aggravated Assault
+180,4/30/2021,8,-6.159833534,106.8669565,Jakarta_Pusat,Kemayoran,MIP: A Minor in Possession
+181,5/12/2021,0,-6.160897628,106.8666613,Jakarta_Pusat,Kemayoran,Harassment
+182,5/20/2021,0,-6.161008296,106.8668738,Jakarta_Pusat,Kemayoran,Sexual Assault
+183,4/15/2021,11,-6.155264371,106.8600189,Jakarta_Pusat,Kemayoran,Robbery
+184,11/7/2021,12,-6.155115521,106.8605748,Jakarta_Pusat,Kemayoran,Statutory Rape
+185,5/10/2021,19,-6.155210022,106.8606508,Jakarta_Pusat,Kemayoran,Murder: Second-degree
+186,11/12/2021,0,-6.155183239,106.8604431,Jakarta_Pusat,Kemayoran,MIP: A Minor in Possession
+187,3/27/2021,7,-6.155321618,106.8609152,Jakarta_Pusat,Kemayoran,Robbery
+188,12/24/2021,22,-6.155114191,106.8601711,Jakarta_Pusat,Kemayoran,Public Intoxication
+189,12/19/2021,0,-6.155281231,106.8607778,Jakarta_Pusat,Kemayoran,Aiding and Abetting / Accessory
+190,3/4/2021,8,-6.155192489,106.8610193,Jakarta_Pusat,Kemayoran,Statutory Rape
+191,9/14/2021,18,-6.155147685,106.8610053,Jakarta_Pusat,Kemayoran,Harassment
+192,6/3/2021,21,-6.155179267,106.8602935,Jakarta_Pusat,Kemayoran,Manslaughter: Voluntary
+193,8/31/2021,13,-6.155268294,106.860074,Jakarta_Pusat,Kemayoran,Sexual Assault
+194,5/9/2021,13,-6.16762571,106.863485,Jakarta_Pusat,Kemayoran,Rape
+195,9/19/2021,8,-6.167940992,106.8637224,Jakarta_Pusat,Kemayoran,Stalking
+196,8/28/2021,15,-6.16757652,106.8636428,Jakarta_Pusat,Kemayoran,Rape
+197,2/22/2021,22,-6.16766836,106.8633827,Jakarta_Pusat,Kemayoran,Harassment
+198,2/15/2021,1,-6.167675034,106.8636749,Jakarta_Pusat,Kemayoran,Aggravated Assault
+199,11/3/2021,4,-6.167645416,106.8634644,Jakarta_Pusat,Kemayoran,Cyberbullying
+200,9/3/2021,0,-6.168166306,106.8634617,Jakarta_Pusat,Kemayoran,Drug Possession
+201,8/10/2021,5,-6.167807905,106.8638316,Jakarta_Pusat,Kemayoran,Statutory Rape
+202,6/2/2021,7,-6.16763232,106.8637977,Jakarta_Pusat,Kemayoran,Murder: Second-degree
+203,1/14/2021,6,-6.167615902,106.8634919,Jakarta_Pusat,Kemayoran,Child Pornography
+204,5/26/2021,0,-6.167968389,106.8634807,Jakarta_Pusat,Kemayoran,Manslaughter: Voluntary
+205,12/29/2021,2,-6.200073701,106.832318,Jakarta_Pusat,Menteng,Kidnapping
+206,4/26/2021,7,-6.200072316,106.8323331,Jakarta_Pusat,Menteng,Murder: First-degree
+207,5/25/2021,0,-6.200041659,106.832708,Jakarta_Pusat,Menteng,Rape
+208,2/9/2021,2,-6.200075609,106.8322544,Jakarta_Pusat,Menteng,Assault / Battery
+209,1/25/2021,19,-6.200039508,106.8327755,Jakarta_Pusat,Menteng,Assault / Battery
+210,5/24/2021,21,-6.200088911,106.8322924,Jakarta_Pusat,Menteng,Arson
+211,7/13/2021,23,-6.200035319,106.832124,Jakarta_Pusat,Menteng,Harassment
+212,11/1/2021,22,-6.200104928,106.8324698,Jakarta_Pusat,Menteng,Manslaughter: Voluntary
+213,12/22/2021,17,-6.200002801,106.8325472,Jakarta_Pusat,Menteng,Theft
+214,4/14/2021,19,-6.200108374,106.832042,Jakarta_Pusat,Menteng,Vandalism
+215,12/7/2021,17,-6.200069471,106.8325542,Jakarta_Pusat,Menteng,Attempt
+216,6/29/2021,10,-6.195543938,106.8295926,Jakarta_Pusat,Menteng,Manslaughter: Voluntary
+217,8/6/2021,17,-6.195541734,106.8294496,Jakarta_Pusat,Menteng,Manslaughter: Voluntary
+218,11/19/2021,13,-6.195527887,106.8295769,Jakarta_Pusat,Menteng,Disturbing the Peace
+219,4/23/2021,19,-6.195441204,106.8296622,Jakarta_Pusat,Menteng,Assault / Battery
+220,2/21/2021,2,-6.195467949,106.8292803,Jakarta_Pusat,Menteng,Public Intoxication
+221,7/8/2021,22,-6.195427945,106.8293786,Jakarta_Pusat,Menteng,Statutory Rape
+222,11/14/2021,20,-6.195498446,106.8296245,Jakarta_Pusat,Menteng,Rape
+223,10/13/2021,1,-6.195497829,106.8293465,Jakarta_Pusat,Menteng,Theft
+224,5/15/2021,13,-6.197663939,106.834211,Jakarta_Pusat,Menteng,Rape
+225,5/31/2021,22,-6.197613263,106.8341694,Jakarta_Pusat,Menteng,Stalking
+226,8/6/2021,17,-6.197572269,106.8342592,Jakarta_Pusat,Menteng,Kidnapping
+227,3/18/2021,10,-6.19759066,106.8342429,Jakarta_Pusat,Menteng,Murder: Second-degree
+228,5/15/2021,2,-6.197849276,106.8342439,Jakarta_Pusat,Menteng,Rape
+229,1/27/2021,7,-6.197831436,106.8341949,Jakarta_Pusat,Menteng,Harassment
+230,8/7/2021,18,-6.19738468,106.8342654,Jakarta_Pusat,Menteng,Arson
+231,7/31/2021,2,-6.197474117,106.8342236,Jakarta_Pusat,Menteng,MIP: A Minor in Possession
+232,11/12/2021,22,-6.197395824,106.8342876,Jakarta_Pusat,Menteng,Arson
+233,8/25/2021,6,-6.197443481,106.8342108,Jakarta_Pusat,Menteng,Indecent Exposure
+234,3/14/2021,11,-6.195916902,106.8433208,Jakarta_Pusat,Menteng,Murder: First-degree
+235,8/17/2021,22,-6.195873738,106.8433098,Jakarta_Pusat,Menteng,Kidnapping
+236,1/1/2021,20,-6.19599782,106.8433438,Jakarta_Pusat,Menteng,Kidnapping
+237,4/14/2021,12,-6.195738344,106.8433336,Jakarta_Pusat,Menteng,Arson
+238,9/23/2021,22,-6.196091635,106.8433007,Jakarta_Pusat,Menteng,Murder: Second-degree
+239,3/2/2021,8,-6.195643761,106.8433224,Jakarta_Pusat,Menteng,Robbery
+240,9/3/2021,23,-6.196187196,106.8432926,Jakarta_Pusat,Menteng,Credit / Debit Card Fraud
+241,3/13/2021,23,-6.195683353,106.8433473,Jakarta_Pusat,Menteng,Assault / Battery
+242,8/11/2021,18,-6.196118656,106.8433366,Jakarta_Pusat,Menteng,Indecent Exposure
+243,1/9/2021,23,-6.19622048,106.8433255,Jakarta_Pusat,Menteng,Arson
+244,6/8/2021,11,-6.195886947,106.8433096,Jakarta_Pusat,Menteng,Arson
+245,9/9/2021,21,-6.193029267,106.8331256,Jakarta_Pusat,Menteng,Pyramid Schemes
+246,2/9/2021,5,-6.192973566,106.8331312,Jakarta_Pusat,Menteng,Theft
+247,11/2/2021,9,-6.192192685,106.8331241,Jakarta_Pusat,Menteng,Rape
+248,4/21/2021,22,-6.192963544,106.833137,Jakarta_Pusat,Menteng,Assault / Battery
+249,7/27/2021,6,-6.192929769,106.8331318,Jakarta_Pusat,Menteng,Murder: Second-degree
+250,8/26/2021,6,-6.193271224,106.8331205,Jakarta_Pusat,Menteng,Homicide
+251,1/9/2021,13,-6.193021754,106.8331262,Jakarta_Pusat,Menteng,Homicide
+252,5/12/2021,0,-6.191997455,106.8331333,Jakarta_Pusat,Menteng,Harassment
+253,4/29/2021,17,-6.192474761,106.8331368,Jakarta_Pusat,Menteng,Murder: First-degree
+254,10/6/2021,22,-6.192458621,106.8331281,Jakarta_Pusat,Menteng,Homicide
+255,9/1/2021,8,-6.193052788,106.8331363,Jakarta_Pusat,Menteng,Arson
+256,7/5/2021,20,-6.185981527,106.8324851,Jakarta_Pusat,Menteng,Kidnapping
+257,9/24/2021,20,-6.186338917,106.8324652,Jakarta_Pusat,Menteng,Arson
+258,5/30/2021,2,-6.186301996,106.8325269,Jakarta_Pusat,Menteng,Perjury
+259,1/29/2021,14,-6.185618778,106.8323845,Jakarta_Pusat,Menteng,Stalking
+260,5/13/2021,5,-6.186217758,106.8324113,Jakarta_Pusat,Menteng,Manslaughter: Voluntary
+261,3/4/2021,21,-6.186487454,106.8325414,Jakarta_Pusat,Menteng,Stalking
+262,12/22/2021,19,-6.186601904,106.8324263,Jakarta_Pusat,Menteng,Sexual Assault
+263,4/28/2021,23,-6.186328194,106.8326067,Jakarta_Pusat,Menteng,Rape
+264,1/15/2021,18,-6.18581623,106.8323546,Jakarta_Pusat,Menteng,Child Abandonment
+265,1/14/2021,9,-6.186138693,106.8327066,Jakarta_Pusat,Menteng,Attempt
+266,1/22/2021,17,-6.185784898,106.8324482,Jakarta_Pusat,Menteng,Prostitution
+267,11/16/2021,13,-6.186096709,106.832351,Jakarta_Pusat,Menteng,Medical Marijuana
+268,1/8/2021,17,-6.182840646,106.8349287,Jakarta_Pusat,Menteng,Theft
+269,12/17/2021,18,-6.183044983,106.8347426,Jakarta_Pusat,Menteng,Robbery
+270,2/1/2021,13,-6.18313767,106.8347335,Jakarta_Pusat,Menteng,Attempt
+271,3/27/2021,3,-6.182880842,106.8352291,Jakarta_Pusat,Menteng,Attempt
+272,3/24/2021,1,-6.182971596,106.8351763,Jakarta_Pusat,Menteng,Theft
+273,8/15/2021,0,-6.183234912,106.8350689,Jakarta_Pusat,Menteng,Murder: Second-degree
+274,12/18/2021,0,-6.183008046,106.8348667,Jakarta_Pusat,Menteng,Murder: Second-degree
+275,12/13/2021,7,-6.182918707,106.8349042,Jakarta_Pusat,Menteng,Homicide
+276,12/26/2021,6,-6.138131181,106.8234171,Jakarta_Pusat,Sawah_Besar,Criminal Contempt of Court
+277,2/4/2021,9,-6.138465191,106.8237208,Jakarta_Pusat,Sawah_Besar,Arson
+278,9/9/2021,22,-6.138426237,106.8233298,Jakarta_Pusat,Sawah_Besar,Perjury
+279,3/23/2021,15,-6.137955432,106.8233174,Jakarta_Pusat,Sawah_Besar,Racketeering / RICO
+280,8/23/2021,21,-6.137622167,106.8233551,Jakarta_Pusat,Sawah_Besar,Disorderly Conduct
+281,8/3/2021,19,-6.138178857,106.8232624,Jakarta_Pusat,Sawah_Besar,Stalking
+282,8/22/2021,13,-6.137870344,106.8236633,Jakarta_Pusat,Sawah_Besar,Robbery
+283,12/11/2021,20,-6.138381032,106.8235264,Jakarta_Pusat,Sawah_Besar,Aggravated Assault
+284,11/2/2021,11,-6.137479688,106.8233709,Jakarta_Pusat,Sawah_Besar,Homicide
+285,1/27/2021,0,-6.138411417,106.8236508,Jakarta_Pusat,Sawah_Besar,Kidnapping
+286,1/2/2021,7,-6.138151333,106.8234638,Jakarta_Pusat,Sawah_Besar,Bribery
+287,5/14/2021,3,-6.137952069,106.8234789,Jakarta_Pusat,Sawah_Besar,Robbery
+288,9/4/2021,19,-6.137909899,106.8234634,Jakarta_Pusat,Sawah_Besar,Domestic Violence
+289,8/2/2021,3,-6.138129635,106.8234625,Jakarta_Pusat,Sawah_Besar,Robbery
+290,6/17/2021,9,-6.137957835,106.8234873,Jakarta_Pusat,Sawah_Besar,Forgery
+291,7/26/2021,22,-6.137947359,106.8234745,Jakarta_Pusat,Sawah_Besar,Child Abandonment
+292,8/17/2021,21,-6.138108072,106.8234555,Jakarta_Pusat,Sawah_Besar,Stalking
+293,9/19/2021,16,-6.137955671,106.8234859,Jakarta_Pusat,Sawah_Besar,Robbery
+294,9/19/2021,18,-6.138102625,106.8234691,Jakarta_Pusat,Sawah_Besar,Sexual Assault
+295,11/23/2021,0,-6.138146586,106.8234596,Jakarta_Pusat,Sawah_Besar,Manslaughter: Voluntary
+296,8/27/2021,18,-6.138064175,106.8234483,Jakarta_Pusat,Sawah_Besar,Disturbing the Peace
+297,6/24/2021,3,-6.141593224,106.8277905,Jakarta_Pusat,Sawah_Besar,Homicide
+298,1/19/2021,11,-6.14156394,106.8278061,Jakarta_Pusat,Sawah_Besar,Aiding and Abetting / Accessory
+299,2/19/2021,4,-6.141567956,106.827712,Jakarta_Pusat,Sawah_Besar,Arson
+300,3/13/2021,16,-6.1415766,106.8276945,Jakarta_Pusat,Sawah_Besar,Harassment
+301,2/28/2021,3,-6.141593588,106.8277382,Jakarta_Pusat,Sawah_Besar,Murder: Second-degree
+302,4/1/2021,7,-6.141573588,106.8277472,Jakarta_Pusat,Sawah_Besar,Disorderly Conduct
+303,7/14/2021,11,-6.141570684,106.8277595,Jakarta_Pusat,Sawah_Besar,Bribery
+304,2/1/2021,13,-6.141590075,106.8277622,Jakarta_Pusat,Sawah_Besar,Murder: Second-degree
+305,2/5/2021,20,-6.141585077,106.8276868,Jakarta_Pusat,Sawah_Besar,Sexual Assault
+306,3/11/2021,17,-6.141564542,106.827703,Jakarta_Pusat,Sawah_Besar,Kidnapping
+307,10/5/2021,16,-6.160583,106.8339721,Jakarta_Pusat,Sawah_Besar,Medical Marijuana
+308,7/6/2021,9,-6.160545746,106.8335089,Jakarta_Pusat,Sawah_Besar,Homicide
+309,6/23/2021,0,-6.160619714,106.8336915,Jakarta_Pusat,Sawah_Besar,Cyberbullying
+310,9/6/2021,2,-6.160749349,106.8334815,Jakarta_Pusat,Sawah_Besar,Wire Fraud
+311,5/29/2021,18,-6.1605888,106.833614,Jakarta_Pusat,Sawah_Besar,Murder: First-degree
+312,3/7/2021,3,-6.160646595,106.8336188,Jakarta_Pusat,Sawah_Besar,Open Container (of alcohol)
+313,8/3/2021,17,-6.160687122,106.8338688,Jakarta_Pusat,Sawah_Besar,Homicide
+314,4/27/2021,16,-6.160755946,106.8339142,Jakarta_Pusat,Sawah_Besar,Murder: First-degree
+315,11/1/2021,23,-6.160563096,106.833624,Jakarta_Pusat,Sawah_Besar,Homicide
+316,1/22/2021,10,-6.160708967,106.8338099,Jakarta_Pusat,Sawah_Besar,Sexual Assault
+317,12/23/2021,12,-6.160661226,106.8336928,Jakarta_Pusat,Sawah_Besar,Harassment
+318,12/20/2021,18,-6.160638693,106.8337735,Jakarta_Pusat,Sawah_Besar,Bribery
+319,12/13/2021,16,-6.160608705,106.8339915,Jakarta_Pusat,Sawah_Besar,Murder: First-degree
+320,11/8/2021,2,-6.174343043,106.8446153,Jakarta_Pusat,Senen,Statutory Rape
+321,10/24/2021,10,-6.173798169,106.8445592,Jakarta_Pusat,Senen,Manslaughter: Voluntary
+322,7/1/2021,2,-6.174294189,106.8445386,Jakarta_Pusat,Senen,Arson
+323,8/14/2021,22,-6.17465252,106.8446934,Jakarta_Pusat,Senen,Murder: First-degree
+324,9/26/2021,5,-6.174249346,106.8447229,Jakarta_Pusat,Senen,Kidnapping
+325,1/28/2021,8,-6.173617967,106.8445265,Jakarta_Pusat,Senen,Harassment
+326,3/31/2021,1,-6.174086536,106.8446779,Jakarta_Pusat,Senen,Statutory Rape
+327,5/17/2021,19,-6.173562331,106.8447802,Jakarta_Pusat,Senen,Attempt
+328,8/12/2021,1,-6.173565828,106.8447536,Jakarta_Pusat,Senen,Disturbing the Peace
+329,5/24/2021,10,-6.173447037,106.8447649,Jakarta_Pusat,Senen,Kidnapping
+330,12/22/2021,2,-6.174080915,106.8445905,Jakarta_Pusat,Senen,Rape
+331,6/5/2021,21,-6.173957717,106.8457377,Jakarta_Pusat,Senen,Aggravated Assault
+332,7/17/2021,5,-6.173674337,106.8455855,Jakarta_Pusat,Senen,Homicide
+333,1/20/2021,21,-6.174500675,106.84551,Jakarta_Pusat,Senen,Homicide
+334,9/10/2021,21,-6.173613253,106.8456059,Jakarta_Pusat,Senen,Forgery
+335,11/19/2021,11,-6.173051307,106.8456129,Jakarta_Pusat,Senen,Homicide
+336,7/22/2021,10,-6.174189143,106.8456099,Jakarta_Pusat,Senen,Sexual Assault
+337,6/30/2021,1,-6.174681086,106.8457017,Jakarta_Pusat,Senen,Robbery
+338,3/28/2021,4,-6.174100771,106.8455997,Jakarta_Pusat,Senen,Aggravated Assault
+339,1/2/2021,17,-6.174032893,106.8457597,Jakarta_Pusat,Senen,Rape
+340,9/24/2021,12,-6.181684791,106.842734,Jakarta_Pusat,Senen,Manslaughter: Voluntary
+341,9/26/2021,6,-6.181578312,106.8427311,Jakarta_Pusat,Senen,Conspiracy
+342,5/3/2021,23,-6.181662777,106.8426611,Jakarta_Pusat,Senen,Public Intoxication
+343,10/4/2021,21,-6.181560134,106.8428045,Jakarta_Pusat,Senen,Theft
+344,11/25/2021,22,-6.181560723,106.842875,Jakarta_Pusat,Senen,Forgery
+345,8/14/2021,13,-6.181644711,106.8429123,Jakarta_Pusat,Senen,Computer Crime
+346,2/22/2021,6,-6.181517305,106.8429067,Jakarta_Pusat,Senen,Statutory Rape
+347,6/11/2021,11,-6.181688171,106.8428889,Jakarta_Pusat,Senen,Attempt
+348,8/10/2021,12,-6.181667592,106.8426939,Jakarta_Pusat,Senen,Cyberbullying
+349,10/18/2021,0,-6.181482642,106.8428621,Jakarta_Pusat,Senen,Murder: Second-degree
+350,12/30/2021,17,-6.181506543,106.842905,Jakarta_Pusat,Senen,Sexual Assault
+351,6/24/2021,15,-6.181577046,106.8428478,Jakarta_Pusat,Senen,Telemarketing Fraud
+352,12/8/2021,0,-6.181664247,106.8375595,Jakarta_Pusat,Senen,Manslaughter: Voluntary
+353,7/11/2021,5,-6.1815216,106.8376513,Jakarta_Pusat,Senen,Manslaughter: Voluntary
+354,6/18/2021,20,-6.18165911,106.8375897,Jakarta_Pusat,Senen,Harassment
+355,11/5/2021,14,-6.181524699,106.8377281,Jakarta_Pusat,Senen,Harassment
+356,10/26/2021,9,-6.181578736,106.8376894,Jakarta_Pusat,Senen,Murder: First-degree
+357,5/13/2021,21,-6.181608293,106.8376425,Jakarta_Pusat,Senen,Homicide
+358,1/16/2021,7,-6.181608906,106.8374555,Jakarta_Pusat,Senen,Harassment
+359,3/16/2021,0,-6.181600186,106.8376421,Jakarta_Pusat,Senen,Harassment
+360,12/24/2021,17,-6.181565372,106.8375886,Jakarta_Pusat,Senen,Aiding and Abetting / Accessory
+361,9/25/2021,21,-6.181504807,106.8376733,Jakarta_Pusat,Senen,Aggravated Assault
+362,5/20/2021,23,-6.178013682,106.8416947,Jakarta_Pusat,Senen,Forgery
+363,9/23/2021,12,-6.176390745,106.8418254,Jakarta_Pusat,Senen,Kidnapping
+364,9/20/2021,19,-6.177049354,106.841826,Jakarta_Pusat,Senen,Rape
+365,2/18/2021,3,-6.176175559,106.8420994,Jakarta_Pusat,Senen,Statutory Rape
+366,6/28/2021,11,-6.178380985,106.8417954,Jakarta_Pusat,Senen,Manslaughter: Voluntary
+367,10/12/2021,2,-6.176341027,106.8415662,Jakarta_Pusat,Senen,Murder: Second-degree
+368,11/17/2021,16,-6.177937237,106.8414644,Jakarta_Pusat,Senen,Statutory Rape
+369,5/2/2021,11,-6.177017422,106.8420923,Jakarta_Pusat,Senen,Manslaughter: Voluntary
+370,3/30/2021,9,-6.176131879,106.8417357,Jakarta_Pusat,Senen,Attempt
+371,3/25/2021,16,-6.176410414,106.8421276,Jakarta_Pusat,Senen,Robbery
+372,11/16/2021,2,-6.17722429,106.8415404,Jakarta_Pusat,Senen,Kidnapping
+373,7/25/2021,6,-6.210664593,106.8164203,Jakarta_Pusat,Tanah_Abang,Theft
+374,9/30/2021,20,-6.2106172,106.8163769,Jakarta_Pusat,Tanah_Abang,Assault / Battery
+375,12/20/2021,2,-6.210763787,106.8165554,Jakarta_Pusat,Tanah_Abang,Bribery
+376,10/26/2021,21,-6.210571251,106.8165655,Jakarta_Pusat,Tanah_Abang,Attempt
+377,4/20/2021,1,-6.210594385,106.8165338,Jakarta_Pusat,Tanah_Abang,Assault / Battery
+378,12/10/2021,5,-6.21067406,106.8163164,Jakarta_Pusat,Tanah_Abang,Murder: Second-degree
+379,7/24/2021,10,-6.210700318,106.8163922,Jakarta_Pusat,Tanah_Abang,Kidnapping
+380,8/21/2021,8,-6.210601303,106.8162881,Jakarta_Pusat,Tanah_Abang,Statutory Rape
+381,5/4/2021,7,-6.210350331,106.8164863,Jakarta_Pusat,Tanah_Abang,Attempt
+382,9/21/2021,23,-6.210346159,106.816303,Jakarta_Pusat,Tanah_Abang,Manslaughter: Voluntary
+383,8/26/2021,6,-6.210202147,106.8173169,Jakarta_Pusat,Tanah_Abang,Medical Marijuana
+384,4/6/2021,7,-6.207382042,106.817619,Jakarta_Pusat,Tanah_Abang,Statutory Rape
+385,11/10/2021,15,-6.21003294,106.8174698,Jakarta_Pusat,Tanah_Abang,Murder: First-degree
+386,5/23/2021,1,-6.209967232,106.8176267,Jakarta_Pusat,Tanah_Abang,Statutory Rape
+387,12/18/2021,14,-6.210714735,106.8175042,Jakarta_Pusat,Tanah_Abang,Indecent Exposure
+388,7/1/2021,4,-6.209844783,106.8172202,Jakarta_Pusat,Tanah_Abang,Sexual Assault
+389,7/7/2021,22,-6.210032698,106.8176331,Jakarta_Pusat,Tanah_Abang,Robbery
+390,3/1/2021,9,-6.210054913,106.8172511,Jakarta_Pusat,Tanah_Abang,Aggravated Assault
+391,6/10/2021,8,-6.209870781,106.8173947,Jakarta_Pusat,Tanah_Abang,Homicide
+392,10/31/2021,11,-6.21114019,106.817338,Jakarta_Pusat,Tanah_Abang,Homicide
+393,12/20/2021,6,-6.20914186,106.8171518,Jakarta_Pusat,Tanah_Abang,Statutory Rape
+394,8/31/2021,20,-6.209384145,106.8172364,Jakarta_Pusat,Tanah_Abang,Statutory Rape
+395,4/4/2021,13,-6.188201868,106.8148443,Jakarta_Pusat,Tanah_Abang,Kidnapping
+396,7/17/2021,8,-6.188106301,106.8147329,Jakarta_Pusat,Tanah_Abang,Manslaughter: Involuntary
+397,7/6/2021,11,-6.187717123,106.8150496,Jakarta_Pusat,Tanah_Abang,Manslaughter: Voluntary
+398,2/26/2021,11,-6.188239519,106.8148247,Jakarta_Pusat,Tanah_Abang,Kidnapping
+399,3/8/2021,6,-6.187899078,106.81474,Jakarta_Pusat,Tanah_Abang,Aggravated Assault
+400,12/18/2021,13,-6.187799521,106.8150957,Jakarta_Pusat,Tanah_Abang,Perjury
+401,4/19/2021,7,-6.188186974,106.8154293,Jakarta_Pusat,Tanah_Abang,Harassment
+402,9/24/2021,12,-6.188210762,106.8154923,Jakarta_Pusat,Tanah_Abang,Stalking
+403,10/23/2021,17,-6.188077271,106.8151278,Jakarta_Pusat,Tanah_Abang,Manslaughter: Voluntary
+404,1/22/2021,5,-6.187844314,106.8153278,Jakarta_Pusat,Tanah_Abang,Kidnapping
+405,12/25/2021,10,-6.193097484,106.8104472,Jakarta_Pusat,Tanah_Abang,Robbery
+406,4/1/2021,9,-6.192742158,106.8104241,Jakarta_Pusat,Tanah_Abang,Manslaughter: Voluntary
+407,7/21/2021,18,-6.193162842,106.8102262,Jakarta_Pusat,Tanah_Abang,Homicide
+408,4/5/2021,3,-6.192456578,106.8104138,Jakarta_Pusat,Tanah_Abang,Manslaughter: Voluntary
+409,1/24/2021,9,-6.192981263,106.8104391,Jakarta_Pusat,Tanah_Abang,Murder: Second-degree
+410,5/14/2021,0,-6.192348544,106.8103711,Jakarta_Pusat,Tanah_Abang,Stalking
+411,4/21/2021,9,-6.192651519,106.8104837,Jakarta_Pusat,Tanah_Abang,Sexual Assault
+412,7/2/2021,22,-6.192795765,106.8101918,Jakarta_Pusat,Tanah_Abang,Disorderly Conduct
+413,6/4/2021,13,-6.192700431,106.810326,Jakarta_Pusat,Tanah_Abang,Attempt
+414,12/14/2021,8,-6.192887672,106.8103574,Jakarta_Pusat,Tanah_Abang,Statutory Rape
+415,11/15/2021,23,-6.197849583,106.8107192,Jakarta_Pusat,Tanah_Abang,Drug Manufacturing and Cultivation
+416,1/12/2021,8,-6.197743166,106.8106397,Jakarta_Pusat,Tanah_Abang,Aggravated Assault
+417,2/9/2021,5,-6.197859607,106.8105801,Jakarta_Pusat,Tanah_Abang,Public Intoxication
+418,10/17/2021,12,-6.197882281,106.8107379,Jakarta_Pusat,Tanah_Abang,Criminal Contempt of Court
+419,1/29/2021,20,-6.197719199,106.8105487,Jakarta_Pusat,Tanah_Abang,Statutory Rape
+420,2/3/2021,9,-6.197804987,106.8104848,Jakarta_Pusat,Tanah_Abang,Probation Violation
+421,8/12/2021,21,-6.197864078,106.8104312,Jakarta_Pusat,Tanah_Abang,DUI / DWI
+422,1/4/2021,10,-6.197800505,106.810607,Jakarta_Pusat,Tanah_Abang,Sexual Assault
+423,11/22/2021,15,-6.197796093,106.8104755,Jakarta_Pusat,Tanah_Abang,Sexual Assault
+424,7/6/2021,13,-6.197737907,106.8105775,Jakarta_Pusat,Tanah_Abang,Securities Fraud
+425,4/26/2021,22,-6.197882215,106.8106497,Jakarta_Pusat,Tanah_Abang,Statutory Rape
+426,10/23/2021,15,-6.19660801,106.8087243,Jakarta_Pusat,Tanah_Abang,Murder: First-degree
+427,2/19/2021,10,-6.196584383,106.8087064,Jakarta_Pusat,Tanah_Abang,Assault / Battery
+428,2/27/2021,15,-6.196715281,106.8087644,Jakarta_Pusat,Tanah_Abang,Manslaughter: Voluntary
+429,11/8/2021,22,-6.196709027,106.8087463,Jakarta_Pusat,Tanah_Abang,Manslaughter: Involuntary
+430,10/31/2021,11,-6.19671543,106.8086972,Jakarta_Pusat,Tanah_Abang,Securities Fraud
+431,8/13/2021,22,-6.196759703,106.8086699,Jakarta_Pusat,Tanah_Abang,Attempt
+432,1/30/2021,21,-6.196739517,106.8087617,Jakarta_Pusat,Tanah_Abang,Arson
+433,12/26/2021,3,-6.196799626,106.8087625,Jakarta_Pusat,Tanah_Abang,Robbery
+434,3/21/2021,4,-6.196655939,106.8086683,Jakarta_Pusat,Tanah_Abang,Disturbing the Peace
+435,10/7/2021,15,-6.196760641,106.808747,Jakarta_Pusat,Tanah_Abang,Homicide
+436,6/10/2021,19,-6.196768675,106.8087557,Jakarta_Pusat,Tanah_Abang,Assault / Battery
+437,11/14/2021,0,-6.196765397,106.8087203,Jakarta_Pusat,Tanah_Abang,Arson
+438,2/25/2021,4,-6.196317389,106.8087201,Jakarta_Pusat,Tanah_Abang,Conspiracy
+439,5/30/2021,0,-6.194398475,106.8086765,Jakarta_Pusat,Tanah_Abang,Aggravated Assault
+440,1/11/2021,18,-6.196446876,106.8087201,Jakarta_Pusat,Tanah_Abang,Stalking
+441,2/10/2021,18,-6.195469949,106.8086912,Jakarta_Pusat,Tanah_Abang,Insurance Fraud
+442,2/5/2021,14,-6.195178882,106.8086949,Jakarta_Pusat,Tanah_Abang,Aggravated Assault
+443,1/7/2021,3,-6.195419879,106.8087004,Jakarta_Pusat,Tanah_Abang,Theft
+444,10/17/2021,13,-6.195775974,106.8086953,Jakarta_Pusat,Tanah_Abang,Theft
+445,11/7/2021,11,-6.194600129,106.8086766,Jakarta_Pusat,Tanah_Abang,Kidnapping
+446,12/15/2021,20,-6.196936521,106.8086845,Jakarta_Pusat,Tanah_Abang,Statutory Rape
+447,6/9/2021,0,-6.196177889,106.8087166,Jakarta_Pusat,Tanah_Abang,Theft
+448,1/27/2021,21,-6.196978635,106.8087049,Jakarta_Pusat,Tanah_Abang,Homicide
+449,5/29/2021,4,-6.196793199,106.8086978,Jakarta_Pusat,Tanah_Abang,Rape
+450,5/30/2021,6,-6.137124713,106.9548106,Jakarta_Utara,Cilincing,Statutory Rape
+451,12/11/2021,21,-6.136936321,106.9548517,Jakarta_Utara,Cilincing,Telemarketing Fraud
+452,10/3/2021,9,-6.136952206,106.9548711,Jakarta_Utara,Cilincing,Wire Fraud
+453,11/16/2021,0,-6.136693533,106.9548065,Jakarta_Utara,Cilincing,Homicide
+454,5/30/2021,19,-6.136940075,106.9548788,Jakarta_Utara,Cilincing,Arson
+455,6/9/2021,15,-6.135833586,106.9548862,Jakarta_Utara,Cilincing,Theft
+456,12/18/2021,14,-6.136242017,106.9548325,Jakarta_Utara,Cilincing,Aggravated Assault
+457,8/6/2021,14,-6.136630911,106.9548542,Jakarta_Utara,Cilincing,Murder: First-degree
+458,8/13/2021,5,-6.136608155,106.9548541,Jakarta_Utara,Cilincing,Perjury
+459,7/16/2021,15,-6.13727535,106.9548699,Jakarta_Utara,Cilincing,Pyramid Schemes
+460,11/16/2021,12,-6.135418095,106.9548118,Jakarta_Utara,Cilincing,Sexual Assault
+461,12/28/2021,2,-6.132341096,106.9553894,Jakarta_Utara,Cilincing,Assault / Battery
+462,8/7/2021,12,-6.131668687,106.9553946,Jakarta_Utara,Cilincing,Criminal Contempt of Court
+463,12/15/2021,11,-6.132115121,106.9553297,Jakarta_Utara,Cilincing,Murder: First-degree
+464,9/8/2021,4,-6.132452069,106.95534,Jakarta_Utara,Cilincing,Kidnapping
+465,8/16/2021,6,-6.130841184,106.9554087,Jakarta_Utara,Cilincing,Harassment
+466,3/4/2021,6,-6.131600404,106.9553915,Jakarta_Utara,Cilincing,Harassment
+467,11/16/2021,15,-6.130981012,106.9553048,Jakarta_Utara,Cilincing,Homicide
+468,5/1/2021,16,-6.132311875,106.9553699,Jakarta_Utara,Cilincing,Identity Theft
+469,7/15/2021,6,-6.1316346,106.9554113,Jakarta_Utara,Cilincing,Harassment
+470,11/18/2021,11,-6.132255697,106.9552955,Jakarta_Utara,Cilincing,Theft
+471,2/7/2021,15,-6.139639809,106.9553283,Jakarta_Utara,Cilincing,Stalking
+472,11/9/2021,12,-6.140673894,106.9546254,Jakarta_Utara,Cilincing,Drug Trafficking / Distribution
+473,2/10/2021,3,-6.139033502,106.9551971,Jakarta_Utara,Cilincing,Arson
+474,4/28/2021,2,-6.139192128,106.9553315,Jakarta_Utara,Cilincing,Sexual Assault
+475,9/17/2021,17,-6.139160229,106.954772,Jakarta_Utara,Cilincing,Assault / Battery
+476,12/27/2021,20,-6.13953029,106.9551482,Jakarta_Utara,Cilincing,Open Container (of alcohol)
+477,11/11/2021,10,-6.140697048,106.9550862,Jakarta_Utara,Cilincing,Indecent Exposure
+478,6/18/2021,17,-6.138979427,106.9546618,Jakarta_Utara,Cilincing,Kidnapping
+479,11/17/2021,17,-6.139842009,106.9547907,Jakarta_Utara,Cilincing,Statutory Rape
+480,2/5/2021,18,-6.138803277,106.9548351,Jakarta_Utara,Cilincing,Stalking
+481,5/14/2021,22,-6.14787512,106.9559949,Jakarta_Utara,Cilincing,Probation Violation
+482,6/28/2021,10,-6.146427246,106.9559693,Jakarta_Utara,Cilincing,Stalking
+483,12/10/2021,3,-6.147264356,106.9561565,Jakarta_Utara,Cilincing,Attempt
+484,11/13/2021,17,-6.147175971,106.9560698,Jakarta_Utara,Cilincing,Indecent Exposure
+485,6/28/2021,6,-6.1473873,106.956257,Jakarta_Utara,Cilincing,Murder: Second-degree
+486,1/8/2021,23,-6.148159252,106.9559457,Jakarta_Utara,Cilincing,Child Abandonment
+487,5/12/2021,14,-6.147210596,106.9561981,Jakarta_Utara,Cilincing,Kidnapping
+488,9/8/2021,14,-6.146094713,106.9559173,Jakarta_Utara,Cilincing,Assault / Battery
+489,3/16/2021,8,-6.146701675,106.956233,Jakarta_Utara,Cilincing,Wire Fraud
+490,7/31/2021,16,-6.145978817,106.9560585,Jakarta_Utara,Cilincing,Rape
+491,5/2/2021,14,-6.147236989,106.9559996,Jakarta_Utara,Cilincing,Arson
+492,6/11/2021,18,-6.146240831,106.9560429,Jakarta_Utara,Cilincing,Statutory Rape
+493,5/11/2021,18,-6.106583932,106.9641476,Jakarta_Utara,Cilincing,Arson
+494,10/8/2021,4,-6.106891424,106.9640562,Jakarta_Utara,Cilincing,Homicide
+495,1/5/2021,10,-6.106896716,106.9637869,Jakarta_Utara,Cilincing,Bribery
+496,1/15/2021,9,-6.106581536,106.9640465,Jakarta_Utara,Cilincing,Arson
+497,12/22/2021,22,-6.106902982,106.9644202,Jakarta_Utara,Cilincing,Rape
+498,9/6/2021,17,-6.106774553,106.9639715,Jakarta_Utara,Cilincing,Manslaughter: Voluntary
+499,5/6/2021,22,-6.106813083,106.9641227,Jakarta_Utara,Cilincing,Kidnapping
+500,7/8/2021,19,-6.106863397,106.9641925,Jakarta_Utara,Cilincing,Disturbing the Peace
+501,2/21/2021,6,-6.10688964,106.9643248,Jakarta_Utara,Cilincing,Kidnapping
+502,3/6/2021,8,-6.106845281,106.9638472,Jakarta_Utara,Cilincing,Child Pornography
+503,9/28/2021,7,-6.173189027,106.9001506,Jakarta_Utara,Kelapa_Gading,Robbery
+504,8/31/2021,19,-6.173136384,106.9000967,Jakarta_Utara,Kelapa_Gading,Child Pornography
+505,5/15/2021,5,-6.168250001,106.9001727,Jakarta_Utara,Kelapa_Gading,Homicide
+506,9/9/2021,20,-6.173397219,106.8975088,Jakarta_Utara,Kelapa_Gading,Drug Manufacturing and Cultivation
+507,2/21/2021,9,-6.168748975,106.8974765,Jakarta_Utara,Kelapa_Gading,Manslaughter: Voluntary
+508,12/7/2021,1,-6.173042796,106.8981725,Jakarta_Utara,Kelapa_Gading,Manslaughter: Voluntary
+509,9/1/2021,20,-6.173413233,106.8975661,Jakarta_Utara,Kelapa_Gading,Manslaughter: Voluntary
+510,2/4/2021,15,-6.172852582,106.8994986,Jakarta_Utara,Kelapa_Gading,Robbery
+511,4/30/2021,20,-6.168516228,106.8973543,Jakarta_Utara,Kelapa_Gading,Murder: Second-degree
+512,11/11/2021,5,-6.172425165,106.8969851,Jakarta_Utara,Kelapa_Gading,Aggravated Assault
+513,5/20/2021,12,-6.172947017,106.8992436,Jakarta_Utara,Kelapa_Gading,Stalking
+514,2/19/2021,14,-6.176756217,106.9123811,Jakarta_Utara,Kelapa_Gading,Attempt
+515,7/28/2021,0,-6.176702398,106.9125751,Jakarta_Utara,Kelapa_Gading,Attempt
+516,10/12/2021,15,-6.176731471,106.9124521,Jakarta_Utara,Kelapa_Gading,Assault / Battery
+517,8/1/2021,6,-6.176735206,106.9126746,Jakarta_Utara,Kelapa_Gading,Theft
+518,12/18/2021,11,-6.176779872,106.9125856,Jakarta_Utara,Kelapa_Gading,Murder: First-degree
+519,11/28/2021,9,-6.176678131,106.9124598,Jakarta_Utara,Kelapa_Gading,Murder: First-degree
+520,2/18/2021,8,-6.17686215,106.9125588,Jakarta_Utara,Kelapa_Gading,Theft
+521,11/17/2021,22,-6.176855779,106.9126672,Jakarta_Utara,Kelapa_Gading,Robbery
+522,5/8/2021,0,-6.176711942,106.9123246,Jakarta_Utara,Kelapa_Gading,Manslaughter: Voluntary
+523,10/18/2021,1,-6.176850864,106.9124597,Jakarta_Utara,Kelapa_Gading,Statutory Rape
+524,10/22/2021,1,-6.154653515,106.9154171,Jakarta_Utara,Kelapa_Gading,Manslaughter: Voluntary
+525,9/8/2021,6,-6.154659378,106.9156382,Jakarta_Utara,Kelapa_Gading,Racketeering / RICO
+526,9/28/2021,4,-6.154676645,106.9154422,Jakarta_Utara,Kelapa_Gading,Homicide
+527,9/21/2021,20,-6.154681242,106.9157272,Jakarta_Utara,Kelapa_Gading,Statutory Rape
+528,10/15/2021,1,-6.154640971,106.9154427,Jakarta_Utara,Kelapa_Gading,Rape
+529,11/9/2021,16,-6.154642855,106.9155299,Jakarta_Utara,Kelapa_Gading,Prostitution
+530,3/19/2021,8,-6.154681528,106.9157512,Jakarta_Utara,Kelapa_Gading,Manslaughter: Voluntary
+531,2/23/2021,3,-6.154631683,106.9155146,Jakarta_Utara,Kelapa_Gading,Kidnapping
+532,6/29/2021,8,-6.154623504,106.9155298,Jakarta_Utara,Kelapa_Gading,Stalking
+533,2/21/2021,6,-6.154682695,106.9155999,Jakarta_Utara,Kelapa_Gading,Kidnapping
+534,11/8/2021,7,-6.154591823,106.915498,Jakarta_Utara,Kelapa_Gading,Manslaughter: Voluntary
+535,11/7/2021,6,-6.139932214,106.914476,Jakarta_Utara,Kelapa_Gading,Manslaughter: Voluntary
+536,8/15/2021,12,-6.139397503,106.914476,Jakarta_Utara,Kelapa_Gading,Statutory Rape
+537,3/6/2021,11,-6.139624087,106.914476,Jakarta_Utara,Kelapa_Gading,Aggravated Assault
+538,5/31/2021,16,-6.139838379,106.914476,Jakarta_Utara,Kelapa_Gading,Murder: First-degree
+539,7/24/2021,7,-6.139675634,106.914476,Jakarta_Utara,Kelapa_Gading,Sexual Assault
+540,9/8/2021,18,-6.139387687,106.914476,Jakarta_Utara,Kelapa_Gading,Theft
+541,11/4/2021,7,-6.139505055,106.914476,Jakarta_Utara,Kelapa_Gading,Murder: First-degree
+542,8/24/2021,17,-6.139659237,106.914476,Jakarta_Utara,Kelapa_Gading,Identity Theft
+543,12/23/2021,1,-6.139412284,106.914476,Jakarta_Utara,Kelapa_Gading,Computer Crime
+544,6/1/2021,17,-6.139429529,106.914476,Jakarta_Utara,Kelapa_Gading,Attempt
+545,11/25/2021,11,-6.138177782,106.892767,Jakarta_Utara,Kelapa_Gading,Attempt
+546,2/25/2021,13,-6.138222999,106.8926217,Jakarta_Utara,Kelapa_Gading,Theft
+547,6/11/2021,2,-6.138191166,106.8924951,Jakarta_Utara,Kelapa_Gading,Manslaughter: Voluntary
+548,12/20/2021,22,-6.138059492,106.8927566,Jakarta_Utara,Kelapa_Gading,Homicide
+549,4/21/2021,7,-6.138116713,106.8928633,Jakarta_Utara,Kelapa_Gading,Rape
+550,7/4/2021,18,-6.138196444,106.8926352,Jakarta_Utara,Kelapa_Gading,Solicitation
+551,4/23/2021,6,-6.138187503,106.8925213,Jakarta_Utara,Kelapa_Gading,Open Container (of alcohol)
+552,5/4/2021,22,-6.138311632,106.8925965,Jakarta_Utara,Kelapa_Gading,Robbery
+553,11/30/2021,0,-6.138317767,106.8927792,Jakarta_Utara,Kelapa_Gading,Murder: Second-degree
+554,9/25/2021,11,-6.138151236,106.8929856,Jakarta_Utara,Kelapa_Gading,Robbery
+555,3/16/2021,21,-6.138148442,106.892951,Jakarta_Utara,Kelapa_Gading,Attempt
+556,4/10/2021,17,-6.13812309,106.8925918,Jakarta_Utara,Kelapa_Gading,Sexual Assault
+557,8/7/2021,9,-6.12994814,106.9017381,Jakarta_Utara,Koja,Homicide
+558,11/20/2021,7,-6.129984143,106.9017339,Jakarta_Utara,Koja,Murder: Second-degree
+559,1/5/2021,1,-6.130042212,106.9017669,Jakarta_Utara,Koja,Assault / Battery
+560,5/31/2021,7,-6.130023363,106.9018704,Jakarta_Utara,Koja,Robbery
+561,1/4/2021,18,-6.130073352,106.9019895,Jakarta_Utara,Koja,Statutory Rape
+562,8/31/2021,15,-6.129971256,106.9017665,Jakarta_Utara,Koja,Aggravated Assault
+563,7/20/2021,0,-6.130022711,106.9020586,Jakarta_Utara,Koja,Murder: Second-degree
+564,1/4/2021,1,-6.129952995,106.9020699,Jakarta_Utara,Koja,MIP: A Minor in Possession
+565,11/23/2021,18,-6.130062395,106.9018809,Jakarta_Utara,Koja,Assault / Battery
+566,1/23/2021,4,-6.130015029,106.9019222,Jakarta_Utara,Koja,Arson
+567,7/11/2021,3,-6.130504647,106.8944018,Jakarta_Utara,Koja,Theft
+568,3/5/2021,4,-6.12993242,106.8946578,Jakarta_Utara,Koja,Disturbing the Peace
+569,6/22/2021,4,-6.129577935,106.894545,Jakarta_Utara,Koja,Money Laundering
+570,7/13/2021,17,-6.129439133,106.8943847,Jakarta_Utara,Koja,Statutory Rape
+571,3/21/2021,4,-6.130335829,106.894679,Jakarta_Utara,Koja,Murder: First-degree
+572,9/26/2021,18,-6.130119378,106.8946234,Jakarta_Utara,Koja,Hate Crimes
+573,8/14/2021,10,-6.13028091,106.8945067,Jakarta_Utara,Koja,Manslaughter: Involuntary
+574,9/12/2021,19,-6.129697703,106.894721,Jakarta_Utara,Koja,Burglary
+575,8/31/2021,2,-6.130379519,106.8943857,Jakarta_Utara,Koja,Disturbing the Peace
+576,2/7/2021,13,-6.130314966,106.894613,Jakarta_Utara,Koja,White Collar Crimes
+577,8/22/2021,22,-6.125959982,106.9200874,Jakarta_Utara,Koja,Harassment
+578,9/7/2021,22,-6.125823667,106.919538,Jakarta_Utara,Koja,Manslaughter: Involuntary
+579,4/2/2021,2,-6.125822372,106.9192008,Jakarta_Utara,Koja,Murder: Second-degree
+580,2/16/2021,10,-6.125687443,106.9202517,Jakarta_Utara,Koja,Murder: First-degree
+581,5/31/2021,4,-6.125980873,106.9203264,Jakarta_Utara,Koja,Theft
+582,2/22/2021,1,-6.125784029,106.9200374,Jakarta_Utara,Koja,Manslaughter: Voluntary
+583,6/5/2021,15,-6.125714292,106.9199895,Jakarta_Utara,Koja,Murder: First-degree
+584,8/24/2021,6,-6.125818371,106.9198519,Jakarta_Utara,Koja,Robbery
+585,7/21/2021,14,-6.126056042,106.9199936,Jakarta_Utara,Koja,Solicitation
+586,5/30/2021,0,-6.12597108,106.9203174,Jakarta_Utara,Koja,Stalking
+587,6/30/2021,9,-6.125882726,106.9201454,Jakarta_Utara,Koja,Arson
+588,12/1/2021,17,-6.125678931,106.9196756,Jakarta_Utara,Koja,Sexual Assault
+589,11/20/2021,5,-6.125844566,106.9195277,Jakarta_Utara,Koja,Theft
+590,4/26/2021,2,-6.125021581,106.9167928,Jakarta_Utara,Koja,Attempt
+591,7/16/2021,0,-6.123895886,106.9167877,Jakarta_Utara,Koja,Sexual Assault
+592,3/4/2021,7,-6.124723417,106.9167847,Jakarta_Utara,Koja,Harassment
+593,6/30/2021,2,-6.123725403,106.91678,Jakarta_Utara,Koja,Arson
+594,2/12/2021,11,-6.125687333,106.9167864,Jakarta_Utara,Koja,Murder: Second-degree
+595,7/1/2021,11,-6.125603414,106.9167911,Jakarta_Utara,Koja,Sexual Assault
+596,12/1/2021,14,-6.125356163,106.9167848,Jakarta_Utara,Koja,Embezzlement
+597,2/15/2021,6,-6.125158114,106.9167885,Jakarta_Utara,Koja,Open Container (of alcohol)
+598,10/16/2021,4,-6.125885778,106.9167922,Jakarta_Utara,Koja,Rape
+599,8/12/2021,8,-6.123602357,106.9167916,Jakarta_Utara,Koja,Harassment
+600,6/29/2021,5,-6.12500441,106.9167896,Jakarta_Utara,Koja,Arson
+601,12/11/2021,8,-6.125013712,106.9167941,Jakarta_Utara,Koja,Robbery
+602,3/6/2021,15,-6.131409013,106.841175,Jakarta_Utara,Pademangan,Aggravated Assault
+603,5/5/2021,0,-6.131566032,106.8410606,Jakarta_Utara,Pademangan,Rape
+604,12/12/2021,12,-6.131700233,106.8411528,Jakarta_Utara,Pademangan,Stalking
+605,3/30/2021,23,-6.131681434,106.8410312,Jakarta_Utara,Pademangan,Homicide
+606,1/7/2021,14,-6.131447238,106.8411028,Jakarta_Utara,Pademangan,Harassment
+607,10/13/2021,6,-6.131524704,106.841445,Jakarta_Utara,Pademangan,Open Container (of alcohol)
+608,9/2/2021,6,-6.131567935,106.8411173,Jakarta_Utara,Pademangan,Aggravated Assault
+609,11/9/2021,6,-6.131661836,106.8414152,Jakarta_Utara,Pademangan,Kidnapping
+610,8/6/2021,23,-6.131491014,106.8413825,Jakarta_Utara,Pademangan,Statutory Rape
+611,10/2/2021,16,-6.131447361,106.841016,Jakarta_Utara,Pademangan,Harassment
+612,1/22/2021,19,-6.131575548,106.8414672,Jakarta_Utara,Pademangan,Murder: First-degree
+613,5/29/2021,6,-6.131341221,106.8412298,Jakarta_Utara,Pademangan,Manslaughter: Voluntary
+614,5/4/2021,6,-6.131404983,106.8486254,Jakarta_Utara,Pademangan,Stalking
+615,4/30/2021,1,-6.131341622,106.8483905,Jakarta_Utara,Pademangan,Robbery
+616,1/10/2021,17,-6.131145197,106.8491596,Jakarta_Utara,Pademangan,Murder: Second-degree
+617,1/21/2021,13,-6.131409296,106.8485737,Jakarta_Utara,Pademangan,Fraud
+618,9/24/2021,17,-6.131414496,106.8487255,Jakarta_Utara,Pademangan,Fraud
+619,10/9/2021,20,-6.131279962,106.848611,Jakarta_Utara,Pademangan,Manslaughter: Voluntary
+620,2/12/2021,17,-6.131036634,106.8491691,Jakarta_Utara,Pademangan,Manslaughter: Involuntary
+621,12/23/2021,12,-6.131097373,106.8484083,Jakarta_Utara,Pademangan,White Collar Crimes
+622,10/18/2021,19,-6.13137872,106.8492743,Jakarta_Utara,Pademangan,Stalking
+623,12/14/2021,3,-6.131451281,106.8484696,Jakarta_Utara,Pademangan,Murder: First-degree
+624,10/29/2021,0,-6.131382064,106.8487855,Jakarta_Utara,Pademangan,Stalking
+625,3/4/2021,18,-6.139731267,106.8329885,Jakarta_Utara,Pademangan,Arson
+626,11/20/2021,20,-6.140172121,106.8329777,Jakarta_Utara,Pademangan,Fraud
+627,12/5/2021,13,-6.138566322,106.8329984,Jakarta_Utara,Pademangan,Disturbing the Peace
+628,7/26/2021,20,-6.13988513,106.8327916,Jakarta_Utara,Pademangan,Solicitation
+629,3/18/2021,18,-6.139549929,106.8328721,Jakarta_Utara,Pademangan,Sexual Assault
+630,11/1/2021,0,-6.139163556,106.832923,Jakarta_Utara,Pademangan,Disorderly Conduct
+631,10/10/2021,18,-6.139400182,106.8328556,Jakarta_Utara,Pademangan,Homicide
+632,3/21/2021,0,-6.139841895,106.8330343,Jakarta_Utara,Pademangan,Attempt
+633,11/30/2021,23,-6.138941396,106.8329571,Jakarta_Utara,Pademangan,Arson
+634,11/20/2021,15,-6.138362856,106.8327953,Jakarta_Utara,Pademangan,Cyberbullying
+635,1/13/2021,0,-6.128884947,106.8190849,Jakarta_Utara,Pademangan,Murder: First-degree
+636,9/28/2021,16,-6.128903423,106.8190894,Jakarta_Utara,Pademangan,Robbery
+637,6/26/2021,11,-6.128902157,106.8190874,Jakarta_Utara,Pademangan,Theft
+638,4/15/2021,8,-6.128922135,106.8190845,Jakarta_Utara,Pademangan,Robbery
+639,5/4/2021,10,-6.128877388,106.8190734,Jakarta_Utara,Pademangan,Burglary
+640,7/26/2021,20,-6.128870013,106.8190579,Jakarta_Utara,Pademangan,Assault / Battery
+641,3/4/2021,21,-6.128884806,106.8190807,Jakarta_Utara,Pademangan,Manslaughter: Voluntary
+642,2/23/2021,11,-6.128882458,106.819065,Jakarta_Utara,Pademangan,Kidnapping
+643,5/15/2021,20,-6.128867234,106.819034,Jakarta_Utara,Pademangan,Disorderly Conduct
+644,8/17/2021,20,-6.128913402,106.819058,Jakarta_Utara,Pademangan,Aggravated Assault
+645,2/13/2021,19,-6.128901382,106.8190791,Jakarta_Utara,Pademangan,Insurance Fraud
+646,1/1/2021,18,-6.136276151,106.7928591,Jakarta_Utara,Penjaringan,Murder: Second-degree
+647,12/17/2021,12,-6.135626969,106.7929645,Jakarta_Utara,Penjaringan,Manslaughter: Involuntary
+648,9/23/2021,13,-6.136545012,106.7928811,Jakarta_Utara,Penjaringan,Arson
+649,9/30/2021,1,-6.136770722,106.7930139,Jakarta_Utara,Penjaringan,Kidnapping
+650,9/3/2021,1,-6.135906563,106.7929404,Jakarta_Utara,Penjaringan,Stalking
+651,12/13/2021,15,-6.136301602,106.7929295,Jakarta_Utara,Penjaringan,Murder: First-degree
+652,10/28/2021,14,-6.136637901,106.7928712,Jakarta_Utara,Penjaringan,Robbery
+653,5/11/2021,18,-6.135461702,106.7930088,Jakarta_Utara,Penjaringan,Theft
+654,3/14/2021,11,-6.13607402,106.7928273,Jakarta_Utara,Penjaringan,Aggravated Assault
+655,9/18/2021,1,-6.135307775,106.7928319,Jakarta_Utara,Penjaringan,Robbery
+656,10/5/2021,15,-6.135006089,106.7930099,Jakarta_Utara,Penjaringan,Theft
+657,7/30/2021,7,-6.109961648,106.8015946,Jakarta_Utara,Penjaringan,Attempt
+658,7/20/2021,2,-6.109745652,106.8012923,Jakarta_Utara,Penjaringan,Arson
+659,5/4/2021,3,-6.109864638,106.8007661,Jakarta_Utara,Penjaringan,Manslaughter: Voluntary
+660,7/9/2021,21,-6.10997087,106.8016791,Jakarta_Utara,Penjaringan,Robbery
+661,10/17/2021,7,-6.10995538,106.8014649,Jakarta_Utara,Penjaringan,Telemarketing Fraud
+662,7/28/2021,20,-6.109817801,106.8017909,Jakarta_Utara,Penjaringan,Assault / Battery
+663,5/9/2021,20,-6.109988703,106.8013308,Jakarta_Utara,Penjaringan,Hate Crimes
+664,12/22/2021,20,-6.109857842,106.8016548,Jakarta_Utara,Penjaringan,Attempt
+665,6/10/2021,12,-6.125819085,106.7529733,Jakarta_Utara,Penjaringan,Arson
+666,7/18/2021,22,-6.13010681,106.7527743,Jakarta_Utara,Penjaringan,Probation Violation
+667,12/22/2021,14,-6.129119759,106.7526501,Jakarta_Utara,Penjaringan,Disorderly Conduct
+668,7/18/2021,5,-6.130166982,106.7528557,Jakarta_Utara,Penjaringan,Disorderly Conduct
+669,3/23/2021,8,-6.128039945,106.7527855,Jakarta_Utara,Penjaringan,Tax Evasion / Fraud
+670,10/2/2021,3,-6.126161115,106.7526489,Jakarta_Utara,Penjaringan,White Collar Crimes
+671,7/28/2021,8,-6.126306246,106.7527978,Jakarta_Utara,Penjaringan,Aggravated Assault
+672,2/5/2021,13,-6.126969538,106.7526426,Jakarta_Utara,Penjaringan,Prostitution
+673,6/3/2021,2,-6.129259964,106.7528492,Jakarta_Utara,Penjaringan,Tax Evasion / Fraud
+674,11/2/2021,23,-6.129561202,106.7526501,Jakarta_Utara,Penjaringan,Aggravated Assault
+675,2/25/2021,15,-6.151524108,106.8717334,Jakarta_Utara,Tanjung_Priok,Stalking
+676,12/4/2021,7,-6.151476258,106.8717437,Jakarta_Utara,Tanjung_Priok,Disorderly Conduct
+677,5/25/2021,18,-6.151543049,106.8717421,Jakarta_Utara,Tanjung_Priok,Stalking
+678,9/13/2021,1,-6.15153828,106.8717322,Jakarta_Utara,Tanjung_Priok,Open Container (of alcohol)
+679,1/21/2021,8,-6.151528695,106.8717522,Jakarta_Utara,Tanjung_Priok,Stalking
+680,4/22/2021,11,-6.151505215,106.8717434,Jakarta_Utara,Tanjung_Priok,Murder: First-degree
+681,4/22/2021,0,-6.151509105,106.8717303,Jakarta_Utara,Tanjung_Priok,Forgery
+682,1/8/2021,3,-6.151510992,106.8717414,Jakarta_Utara,Tanjung_Priok,Murder: Second-degree
+683,10/23/2021,12,-6.151503128,106.871743,Jakarta_Utara,Tanjung_Priok,Theft
+684,12/1/2021,12,-6.145746336,106.8747231,Jakarta_Utara,Tanjung_Priok,Homicide
+685,1/2/2021,12,-6.146859919,106.8745982,Jakarta_Utara,Tanjung_Priok,Attempt
+686,7/24/2021,15,-6.146523774,106.8747882,Jakarta_Utara,Tanjung_Priok,Robbery
+687,11/6/2021,0,-6.146180276,106.8747457,Jakarta_Utara,Tanjung_Priok,Theft
+688,7/14/2021,15,-6.145796312,106.8746636,Jakarta_Utara,Tanjung_Priok,Rape
+689,7/13/2021,19,-6.146870916,106.874869,Jakarta_Utara,Tanjung_Priok,Aiding and Abetting / Accessory
+690,7/13/2021,12,-6.145882228,106.8745075,Jakarta_Utara,Tanjung_Priok,Homicide
+691,3/5/2021,14,-6.146949075,106.8746229,Jakarta_Utara,Tanjung_Priok,Attempt
+692,10/23/2021,0,-6.14633759,106.8746392,Jakarta_Utara,Tanjung_Priok,Statutory Rape
+693,9/3/2021,13,-6.145867864,106.8692666,Jakarta_Utara,Tanjung_Priok,Conspiracy
+694,6/14/2021,6,-6.146343703,106.8704315,Jakarta_Utara,Tanjung_Priok,Murder: Second-degree
+695,2/27/2021,19,-6.14584534,106.8718531,Jakarta_Utara,Tanjung_Priok,Assault / Battery
+696,9/19/2021,8,-6.146594562,106.8734255,Jakarta_Utara,Tanjung_Priok,Securities Fraud
+697,6/11/2021,3,-6.146529553,106.8697184,Jakarta_Utara,Tanjung_Priok,Arson
+698,12/5/2021,14,-6.146217061,106.8740355,Jakarta_Utara,Tanjung_Priok,Disorderly Conduct
+699,2/12/2021,21,-6.146483352,106.8696908,Jakarta_Utara,Tanjung_Priok,Manslaughter: Voluntary
+700,7/31/2021,19,-6.14628189,106.8748227,Jakarta_Utara,Tanjung_Priok,Kidnapping
+701,12/5/2021,17,-6.146325677,106.870325,Jakarta_Utara,Tanjung_Priok,Stalking
+702,4/30/2021,5,-6.146485179,106.8719563,Jakarta_Utara,Tanjung_Priok,Stalking
+703,4/7/2021,14,-6.138229428,106.876848,Jakarta_Utara,Tanjung_Priok,Kidnapping
+704,10/10/2021,12,-6.138218656,106.8768779,Jakarta_Utara,Tanjung_Priok,Pyramid Schemes
+705,9/24/2021,12,-6.138194326,106.8768424,Jakarta_Utara,Tanjung_Priok,Harassment
+706,11/5/2021,2,-6.13814134,106.8768371,Jakarta_Utara,Tanjung_Priok,Harassment
+707,8/12/2021,11,-6.138150548,106.8769078,Jakarta_Utara,Tanjung_Priok,Manslaughter: Voluntary
+708,1/24/2021,12,-6.138199333,106.8768206,Jakarta_Utara,Tanjung_Priok,Assault / Battery
+709,9/13/2021,19,-6.138167998,106.8768348,Jakarta_Utara,Tanjung_Priok,Harassment
+710,9/7/2021,19,-6.138127007,106.8768255,Jakarta_Utara,Tanjung_Priok,Robbery
+711,6/22/2021,14,-6.13823552,106.8769723,Jakarta_Utara,Tanjung_Priok,Fraud
+712,5/11/2021,21,-6.138188501,106.8769752,Jakarta_Utara,Tanjung_Priok,Attempt
+713,8/27/2021,3,-6.127342436,106.8651101,Jakarta_Utara,Tanjung_Priok,Aggravated Assault
+714,4/26/2021,15,-6.127070506,106.8652239,Jakarta_Utara,Tanjung_Priok,Child Abandonment
+715,5/28/2021,14,-6.126607935,106.8648041,Jakarta_Utara,Tanjung_Priok,Manslaughter: Voluntary
+716,1/7/2021,0,-6.126712725,106.865074,Jakarta_Utara,Tanjung_Priok,Robbery
+717,8/4/2021,1,-6.126548979,106.8636984,Jakarta_Utara,Tanjung_Priok,Attempt
+718,10/7/2021,15,-6.126768795,106.8634815,Jakarta_Utara,Tanjung_Priok,Solicitation
+719,9/12/2021,16,-6.126842507,106.8638793,Jakarta_Utara,Tanjung_Priok,Arson
+720,6/11/2021,8,-6.127299837,106.848777,Jakarta_Utara,Tanjung_Priok,Attempt
+721,6/4/2021,1,-6.127313845,106.849178,Jakarta_Utara,Tanjung_Priok,Sexual Assault
+722,2/21/2021,1,-6.127424821,106.8488487,Jakarta_Utara,Tanjung_Priok,Rape
+723,3/15/2021,22,-6.127327607,106.8485461,Jakarta_Utara,Tanjung_Priok,Manslaughter: Involuntary
+724,6/6/2021,17,-6.127437061,106.8492032,Jakarta_Utara,Tanjung_Priok,Kidnapping
+725,11/29/2021,3,-6.119372058,106.8660645,Jakarta_Utara,Tanjung_Priok,Rape
+726,1/15/2021,1,-6.119969015,106.8657271,Jakarta_Utara,Tanjung_Priok,Sexual Assault
+727,3/20/2021,19,-6.120117545,106.8672278,Jakarta_Utara,Tanjung_Priok,Child Abandonment
+728,10/13/2021,11,-6.120160593,106.8661688,Jakarta_Utara,Tanjung_Priok,Harassment
+729,11/26/2021,9,-6.119259472,106.8672136,Jakarta_Utara,Tanjung_Priok,Harassment
+730,5/6/2021,13,-6.119547576,106.8672937,Jakarta_Utara,Tanjung_Priok,Manslaughter: Voluntary
+731,11/27/2021,3,-6.119168262,106.8668367,Jakarta_Utara,Tanjung_Priok,Disorderly Conduct
+732,11/17/2021,15,-6.119435837,106.8657455,Jakarta_Utara,Tanjung_Priok,Theft
+733,5/1/2021,14,-6.119542033,106.8663972,Jakarta_Utara,Tanjung_Priok,Cyberbullying
+734,12/18/2021,1,-6.119167292,106.8661206,Jakarta_Utara,Tanjung_Priok,Kidnapping
+735,5/30/2021,1,-6.106624942,106.8837215,Jakarta_Utara,Tanjung_Priok,Attempt
+736,12/19/2021,2,-6.106770275,106.8836202,Jakarta_Utara,Tanjung_Priok,Disturbing the Peace
+737,4/14/2021,11,-6.106529276,106.8836305,Jakarta_Utara,Tanjung_Priok,Manslaughter: Involuntary
+738,5/30/2021,7,-6.106622892,106.8835985,Jakarta_Utara,Tanjung_Priok,Murder: Second-degree
+739,8/5/2021,3,-6.10637345,106.8835834,Jakarta_Utara,Tanjung_Priok,Murder: First-degree
+740,7/6/2021,23,-6.106777323,106.8836137,Jakarta_Utara,Tanjung_Priok,Statutory Rape
+741,3/15/2021,21,-6.106583125,106.8837415,Jakarta_Utara,Tanjung_Priok,Manslaughter: Voluntary
+742,2/2/2021,4,-6.10633827,106.883682,Jakarta_Utara,Tanjung_Priok,Forgery
+743,2/8/2021,0,-6.151513719,106.8717518,Jakarta_Utara,Tanjung_Priok,Robbery
+744,4/17/2021,2,-6.151499882,106.8717295,Jakarta_Utara,Tanjung_Priok,Sexual Assault
+745,12/15/2021,14,-6.151477994,106.8717363,Jakarta_Utara,Tanjung_Priok,Disorderly Conduct
+746,9/22/2021,18,-6.151481408,106.8717577,Jakarta_Utara,Tanjung_Priok,Aggravated Assault
+747,5/20/2021,17,-6.151501344,106.8717579,Jakarta_Utara,Tanjung_Priok,Murder: First-degree
+748,4/19/2021,19,-6.151482554,106.8717586,Jakarta_Utara,Tanjung_Priok,Cyberbullying
+749,6/14/2021,19,-6.151521799,106.8717392,Jakarta_Utara,Tanjung_Priok,Murder: First-degree
+750,2/4/2021,1,-6.151482088,106.8717399,Jakarta_Utara,Tanjung_Priok,Robbery
+751,3/20/2021,18,-6.151549788,106.8717286,Jakarta_Utara,Tanjung_Priok,Stalking
+752,2/25/2021,10,-6.151538245,106.8717311,Jakarta_Utara,Tanjung_Priok,Statutory Rape
+753,9/7/2021,20,-6.15151168,106.8717471,Jakarta_Utara,Tanjung_Priok,Homicide
+754,2/24/2021,22,-6.151494967,106.8717391,Jakarta_Utara,Tanjung_Priok,Rape
+755,1/1/2021,19,-6.204549544,106.964591,Jakarta_Timur,Cakung,Assault / Battery
+756,6/16/2021,13,-6.203811788,106.9623307,Jakarta_Timur,Cakung,Forgery
+757,12/8/2021,23,-6.201298876,106.9645853,Jakarta_Timur,Cakung,Racketeering / RICO
+758,9/9/2021,8,-6.202712218,106.9626924,Jakarta_Timur,Cakung,Statutory Rape
+759,8/22/2021,6,-6.202007933,106.9622831,Jakarta_Timur,Cakung,Assault / Battery
+760,7/17/2021,12,-6.201506234,106.9624062,Jakarta_Timur,Cakung,Disturbing the Peace
+761,3/26/2021,1,-6.202232034,106.9651232,Jakarta_Timur,Cakung,Robbery
+762,10/17/2021,2,-6.200797851,106.9642638,Jakarta_Timur,Cakung,Attempt
+763,9/3/2021,1,-6.209892681,106.9531693,Jakarta_Timur,Cakung,Murder: Second-degree
+764,10/25/2021,5,-6.2099631,106.9531136,Jakarta_Timur,Cakung,Stalking
+765,8/10/2021,0,-6.209734374,106.9530701,Jakarta_Timur,Cakung,Stalking
+766,4/15/2021,14,-6.209866856,106.9526599,Jakarta_Timur,Cakung,Rape
+767,9/27/2021,5,-6.209474657,106.9529149,Jakarta_Timur,Cakung,Robbery
+768,10/24/2021,10,-6.210290784,106.9530244,Jakarta_Timur,Cakung,Child Pornography
+769,10/25/2021,22,-6.21028001,106.9531054,Jakarta_Timur,Cakung,Murder: Second-degree
+770,4/10/2021,11,-6.210301372,106.9527575,Jakarta_Timur,Cakung,Rape
+771,10/24/2021,23,-6.209565782,106.9526599,Jakarta_Timur,Cakung,Assault / Battery
+772,5/31/2021,22,-6.186143875,106.9525496,Jakarta_Timur,Cakung,Medical Marijuana
+773,8/11/2021,8,-6.186304854,106.9519695,Jakarta_Timur,Cakung,Kidnapping
+774,9/29/2021,18,-6.186337979,106.953477,Jakarta_Timur,Cakung,Murder: First-degree
+775,2/22/2021,2,-6.185990976,106.9518134,Jakarta_Timur,Cakung,White Collar Crimes
+776,3/23/2021,12,-6.186349732,106.9528768,Jakarta_Timur,Cakung,Child Pornography
+777,10/6/2021,12,-6.186049189,106.9520254,Jakarta_Timur,Cakung,Kidnapping
+778,4/5/2021,15,-6.186219037,106.9523039,Jakarta_Timur,Cakung,Manslaughter: Involuntary
+779,9/4/2021,23,-6.186093968,106.9532994,Jakarta_Timur,Cakung,Harassment
+780,1/8/2021,20,-6.186105624,106.953643,Jakarta_Timur,Cakung,Aggravated Assault
+781,4/3/2021,10,-6.171023358,106.9442933,Jakarta_Timur,Cakung,Burglary
+782,11/3/2021,3,-6.171006938,106.9449221,Jakarta_Timur,Cakung,Rape
+783,9/16/2021,2,-6.171014902,106.9451087,Jakarta_Timur,Cakung,Theft
+784,10/28/2021,15,-6.171008724,106.9461489,Jakarta_Timur,Cakung,Harassment
+785,4/25/2021,21,-6.171022544,106.9470834,Jakarta_Timur,Cakung,Sexual Assault
+786,12/19/2021,13,-6.171022811,106.9451715,Jakarta_Timur,Cakung,Murder: First-degree
+787,7/30/2021,14,-6.171014365,106.9452194,Jakarta_Timur,Cakung,Robbery
+788,9/1/2021,17,-6.171018935,106.9455924,Jakarta_Timur,Cakung,Sexual Assault
+789,4/30/2021,10,-6.17100046,106.9458388,Jakarta_Timur,Cakung,Rape
+790,2/19/2021,14,-6.171002793,106.9450246,Jakarta_Timur,Cakung,Manslaughter: Involuntary
+791,4/7/2021,15,-6.171035753,106.9450208,Jakarta_Timur,Cakung,Homicide
+792,9/10/2021,1,-6.288665833,106.9058621,Jakarta_Timur,Cipayung,Disorderly Conduct
+793,7/22/2021,9,-6.287717324,106.9059072,Jakarta_Timur,Cipayung,Attempt
+794,4/9/2021,11,-6.288011768,106.9059143,Jakarta_Timur,Cipayung,Forgery
+795,4/15/2021,12,-6.288252216,106.9059707,Jakarta_Timur,Cipayung,Homicide
+796,8/5/2021,20,-6.289043988,106.9057572,Jakarta_Timur,Cipayung,Rape
+797,4/6/2021,17,-6.290993323,106.9059081,Jakarta_Timur,Cipayung,Murder: Second-degree
+798,9/7/2021,15,-6.290185839,106.9058911,Jakarta_Timur,Cipayung,DUI / DWI
+799,6/25/2021,7,-6.289164221,106.9058874,Jakarta_Timur,Cipayung,Murder: First-degree
+800,10/4/2021,4,-6.289066548,106.9058556,Jakarta_Timur,Cipayung,Homicide
+801,4/11/2021,4,-6.299472492,106.9108703,Jakarta_Timur,Cipayung,Embezzlement
+802,8/28/2021,21,-6.301257512,106.9103134,Jakarta_Timur,Cipayung,Arson
+803,3/4/2021,12,-6.300980551,106.9127691,Jakarta_Timur,Cipayung,Rape
+804,5/22/2021,18,-6.301218127,106.9101748,Jakarta_Timur,Cipayung,Robbery
+805,3/17/2021,8,-6.298671934,106.9046701,Jakarta_Timur,Cipayung,Medical Marijuana
+806,3/30/2021,2,-6.297823821,106.9099806,Jakarta_Timur,Cipayung,Statutory Rape
+807,3/31/2021,9,-6.29885358,106.9112986,Jakarta_Timur,Cipayung,Attempt
+808,5/9/2021,6,-6.301602352,106.9049256,Jakarta_Timur,Cipayung,Homicide
+809,3/23/2021,13,-6.301018641,106.9093364,Jakarta_Timur,Cipayung,Statutory Rape
+810,8/31/2021,7,-6.301285197,106.9092868,Jakarta_Timur,Cipayung,Disturbing the Peace
+811,2/19/2021,21,-6.299651719,106.9126934,Jakarta_Timur,Cipayung,Manslaughter: Involuntary
+812,11/29/2021,3,-6.317885413,106.8987174,Jakarta_Timur,Cipayung,Harassment
+813,1/21/2021,17,-6.319604345,106.8993121,Jakarta_Timur,Cipayung,Stalking
+814,12/20/2021,5,-6.316007909,106.9005928,Jakarta_Timur,Cipayung,Harassment
+815,6/4/2021,3,-6.318332316,106.8992646,Jakarta_Timur,Cipayung,Tax Evasion / Fraud
+816,5/19/2021,12,-6.319497045,106.9018475,Jakarta_Timur,Cipayung,Stalking
+817,8/15/2021,13,-6.315937414,106.8988232,Jakarta_Timur,Cipayung,Attempt
+818,12/17/2021,2,-6.318502161,106.9016756,Jakarta_Timur,Cipayung,Homicide
+819,12/3/2021,2,-6.319191119,106.9008757,Jakarta_Timur,Cipayung,Statutory Rape
+820,9/30/2021,2,-6.317557788,106.8989913,Jakarta_Timur,Cipayung,Statutory Rape
+821,3/20/2021,13,-6.324019967,106.8885944,Jakarta_Timur,Cipayung,Murder: Second-degree
+822,12/30/2021,9,-6.325286272,106.8884786,Jakarta_Timur,Cipayung,Computer Crime
+823,5/10/2021,3,-6.322783543,106.8892735,Jakarta_Timur,Cipayung,Homicide
+824,6/11/2021,19,-6.322425593,106.8895069,Jakarta_Timur,Cipayung,Attempt
+825,4/8/2021,11,-6.321797116,106.8886006,Jakarta_Timur,Cipayung,Rape
+826,3/18/2021,17,-6.325326231,106.8880623,Jakarta_Timur,Cipayung,Manslaughter: Voluntary
+827,5/15/2021,23,-6.325642653,106.8885565,Jakarta_Timur,Cipayung,Attempt
+828,10/24/2021,18,-6.325494726,106.9016363,Jakarta_Timur,Cipayung,Prostitution
+829,7/21/2021,19,-6.324623483,106.9026191,Jakarta_Timur,Cipayung,Kidnapping
+830,4/10/2021,18,-6.319001674,106.9078048,Jakarta_Timur,Cipayung,Theft
+831,1/2/2021,17,-6.321326003,106.9058725,Jakarta_Timur,Cipayung,Homicide
+832,9/23/2021,15,-6.321576644,106.9079976,Jakarta_Timur,Cipayung,Robbery
+833,4/16/2021,22,-6.326624235,106.9048218,Jakarta_Timur,Cipayung,Manslaughter: Voluntary
+834,3/18/2021,9,-6.325227217,106.9070102,Jakarta_Timur,Cipayung,Aggravated Assault
+835,10/2/2021,14,-6.324584175,106.9051196,Jakarta_Timur,Cipayung,Stalking
+836,1/22/2021,16,-6.325409056,106.9070625,Jakarta_Timur,Cipayung,Sexual Assault
+837,2/14/2021,23,-6.359027739,106.9090713,Jakarta_Timur,Cipayung,Aggravated Assault
+838,4/4/2021,14,-6.357860602,106.9074539,Jakarta_Timur,Cipayung,Computer Crime
+839,10/3/2021,22,-6.353959806,106.9072226,Jakarta_Timur,Cipayung,Theft
+840,10/24/2021,12,-6.356389257,106.9044786,Jakarta_Timur,Cipayung,Attempt
+841,11/23/2021,13,-6.354931346,106.9053976,Jakarta_Timur,Cipayung,Robbery
+842,9/29/2021,13,-6.359169612,106.9058597,Jakarta_Timur,Cipayung,Criminal Contempt of Court
+843,9/23/2021,11,-6.35540996,106.9043678,Jakarta_Timur,Cipayung,Murder: Second-degree
+844,2/25/2021,8,-6.357374798,106.9039285,Jakarta_Timur,Cipayung,Murder: Second-degree
+845,12/8/2021,4,-6.355279626,106.9081765,Jakarta_Timur,Cipayung,Aggravated Assault
+846,6/27/2021,9,-6.310110333,106.8632,Jakarta_Timur,Ciracas,Homicide
+847,10/11/2021,16,-6.305478645,106.8654711,Jakarta_Timur,Ciracas,Statutory Rape
+848,2/12/2021,9,-6.307845509,106.8632373,Jakarta_Timur,Ciracas,Embezzlement
+849,4/10/2021,14,-6.307225363,106.8652164,Jakarta_Timur,Ciracas,Assault / Battery
+850,3/9/2021,17,-6.30672708,106.8644279,Jakarta_Timur,Ciracas,Statutory Rape
+851,1/31/2021,13,-6.309818615,106.8640567,Jakarta_Timur,Ciracas,Aggravated Assault
+852,9/30/2021,16,-6.310920877,106.8831824,Jakarta_Timur,Ciracas,Assault / Battery
+853,6/3/2021,5,-6.309969106,106.8838489,Jakarta_Timur,Ciracas,Drug Possession
+854,1/4/2021,10,-6.31118355,106.8828574,Jakarta_Timur,Ciracas,Medical Marijuana
+855,1/24/2021,2,-6.308892971,106.882885,Jakarta_Timur,Ciracas,Vandalism
+856,7/26/2021,14,-6.3093089,106.8819114,Jakarta_Timur,Ciracas,Racketeering / RICO
+857,11/25/2021,12,-6.308913669,106.8823935,Jakarta_Timur,Ciracas,Assault / Battery
+858,5/17/2021,10,-6.309404912,106.8819039,Jakarta_Timur,Ciracas,Robbery
+859,7/26/2021,14,-6.309063982,106.8823007,Jakarta_Timur,Ciracas,Theft
+860,1/22/2021,11,-6.360278888,106.8852238,Jakarta_Timur,Ciracas,Assault / Battery
+861,10/26/2021,18,-6.360347048,106.8851213,Jakarta_Timur,Ciracas,Sexual Assault
+862,9/14/2021,7,-6.360623622,106.8857058,Jakarta_Timur,Ciracas,Sexual Assault
+863,5/11/2021,17,-6.360101164,106.8858672,Jakarta_Timur,Ciracas,Attempt
+864,2/16/2021,0,-6.360116283,106.8844618,Jakarta_Timur,Ciracas,Arson
+865,6/9/2021,15,-6.360299128,106.8840608,Jakarta_Timur,Ciracas,Harassment
+866,9/1/2021,10,-6.360364207,106.8836073,Jakarta_Timur,Ciracas,Probation Violation
+867,11/20/2021,1,-6.360810548,106.8850438,Jakarta_Timur,Ciracas,Sexual Assault
+868,6/29/2021,20,-6.360661312,106.8855328,Jakarta_Timur,Ciracas,Homicide
+869,1/21/2021,20,-6.360548385,106.8851176,Jakarta_Timur,Ciracas,Murder: Second-degree
+870,5/9/2021,20,-6.360280525,106.8855561,Jakarta_Timur,Ciracas,Robbery
+871,4/12/2021,16,-6.347892022,106.8882069,Jakarta_Timur,Ciracas,Computer Crime
+872,4/19/2021,17,-6.347687989,106.8886444,Jakarta_Timur,Ciracas,Murder: First-degree
+873,10/12/2021,6,-6.347441461,106.8891211,Jakarta_Timur,Ciracas,Robbery
+874,10/2/2021,11,-6.347907238,106.8888833,Jakarta_Timur,Ciracas,Arson
+875,3/26/2021,9,-6.347842288,106.8892144,Jakarta_Timur,Ciracas,Murder: First-degree
+876,3/13/2021,17,-6.347589182,106.8893462,Jakarta_Timur,Ciracas,Credit / Debit Card Fraud
+877,12/12/2021,19,-6.347632137,106.8878981,Jakarta_Timur,Ciracas,Rape
+878,9/7/2021,13,-6.347544969,106.8890395,Jakarta_Timur,Ciracas,Arson
+879,9/6/2021,19,-6.347949171,106.8890018,Jakarta_Timur,Ciracas,Robbery
+880,6/24/2021,8,-6.347766698,106.889034,Jakarta_Timur,Ciracas,Child Abuse
+881,6/4/2021,16,-6.34742505,106.8892545,Jakarta_Timur,Ciracas,Rape
+882,12/18/2021,3,-6.347464029,106.8893878,Jakarta_Timur,Ciracas,Murder: Second-degree
+883,9/27/2021,11,-6.229999675,106.8959444,Jakarta_Timur,Duren_Sawit,Hate Crimes
+884,3/14/2021,21,-6.230108207,106.8990715,Jakarta_Timur,Duren_Sawit,Robbery
+885,3/5/2021,1,-6.229962327,106.9024761,Jakarta_Timur,Duren_Sawit,Assault / Battery
+886,4/14/2021,21,-6.229960806,106.8962558,Jakarta_Timur,Duren_Sawit,Stalking
+887,8/5/2021,8,-6.230323637,106.8985476,Jakarta_Timur,Duren_Sawit,Theft
+888,1/8/2021,14,-6.230187376,106.8943382,Jakarta_Timur,Duren_Sawit,Pyramid Schemes
+889,10/7/2021,11,-6.23104443,106.8985422,Jakarta_Timur,Duren_Sawit,Wire Fraud
+890,6/7/2021,1,-6.230164592,106.8944197,Jakarta_Timur,Duren_Sawit,Statutory Rape
+891,11/12/2021,22,-6.230742997,106.8968178,Jakarta_Timur,Duren_Sawit,Robbery
+892,8/19/2021,22,-6.230023022,106.8978865,Jakarta_Timur,Duren_Sawit,Manslaughter: Voluntary
+893,2/11/2021,9,-6.227242968,106.9375956,Jakarta_Timur,Duren_Sawit,Identity Theft
+894,3/21/2021,22,-6.22719194,106.9356494,Jakarta_Timur,Duren_Sawit,Theft
+895,10/9/2021,7,-6.227191722,106.9305992,Jakarta_Timur,Duren_Sawit,Arson
+896,10/5/2021,8,-6.227041703,106.9360488,Jakarta_Timur,Duren_Sawit,Drug Possession
+897,1/30/2021,1,-6.227047083,106.9382836,Jakarta_Timur,Duren_Sawit,Sexual Assault
+898,3/6/2021,11,-6.227034769,106.9382197,Jakarta_Timur,Duren_Sawit,Sexual Assault
+899,4/18/2021,18,-6.227242471,106.9328132,Jakarta_Timur,Duren_Sawit,Attempt
+900,10/18/2021,8,-6.227059402,106.9301654,Jakarta_Timur,Duren_Sawit,Statutory Rape
+901,1/30/2021,3,-6.227418602,106.9394396,Jakarta_Timur,Duren_Sawit,Medical Marijuana
+902,12/7/2021,12,-6.226814508,106.9376593,Jakarta_Timur,Duren_Sawit,DUI / DWI
+903,7/15/2021,22,-6.220383419,106.9468047,Jakarta_Timur,Duren_Sawit,Identity Theft
+904,9/21/2021,9,-6.221502723,106.9473865,Jakarta_Timur,Duren_Sawit,Disorderly Conduct
+905,12/13/2021,17,-6.219428781,106.9473687,Jakarta_Timur,Duren_Sawit,Assault / Battery
+906,7/22/2021,15,-6.219579271,106.9464704,Jakarta_Timur,Duren_Sawit,Extortion
+907,12/30/2021,17,-6.221947553,106.9473279,Jakarta_Timur,Duren_Sawit,Embezzlement
+908,3/22/2021,12,-6.220201192,106.9464062,Jakarta_Timur,Duren_Sawit,Murder: First-degree
+909,7/28/2021,22,-6.219939836,106.9473754,Jakarta_Timur,Duren_Sawit,Burglary
+910,2/20/2021,1,-6.220877687,106.9460004,Jakarta_Timur,Duren_Sawit,Statutory Rape
+911,6/26/2021,18,-6.22144346,106.9135601,Jakarta_Timur,Duren_Sawit,Sexual Assault
+912,6/30/2021,0,-6.220459976,106.9123635,Jakarta_Timur,Duren_Sawit,Stalking
+913,11/2/2021,7,-6.220522343,106.9092077,Jakarta_Timur,Duren_Sawit,Manslaughter: Involuntary
+914,8/4/2021,6,-6.221356925,106.9143164,Jakarta_Timur,Duren_Sawit,Murder: Second-degree
+915,2/26/2021,4,-6.220767905,106.9135296,Jakarta_Timur,Duren_Sawit,Theft
+916,12/25/2021,19,-6.221253791,106.9149539,Jakarta_Timur,Duren_Sawit,Open Container (of alcohol)
+917,9/9/2021,3,-6.220603083,106.9077574,Jakarta_Timur,Duren_Sawit,Assault / Battery
+918,4/27/2021,6,-6.221394099,106.9133296,Jakarta_Timur,Duren_Sawit,Theft
+919,5/27/2021,1,-6.220689669,106.907474,Jakarta_Timur,Duren_Sawit,Embezzlement
+920,5/27/2021,10,-6.221412839,106.915061,Jakarta_Timur,Duren_Sawit,Sexual Assault
+921,1/30/2021,8,-6.221552293,106.9127395,Jakarta_Timur,Duren_Sawit,Aggravated Assault
+922,5/5/2021,8,-6.220724994,106.9065878,Jakarta_Timur,Duren_Sawit,Aggravated Assault
+923,4/18/2021,4,-6.221464899,106.9157288,Jakarta_Timur,Duren_Sawit,Homicide
+924,11/6/2021,3,-6.221479807,106.8996012,Jakarta_Timur,Duren_Sawit,Kidnapping
+925,12/4/2021,0,-6.220067846,106.8993872,Jakarta_Timur,Duren_Sawit,Arson
+926,12/16/2021,19,-6.221880916,106.8993948,Jakarta_Timur,Duren_Sawit,Disorderly Conduct
+927,5/31/2021,6,-6.218465336,106.8993412,Jakarta_Timur,Duren_Sawit,Attempt
+928,3/11/2021,5,-6.221436401,106.8995811,Jakarta_Timur,Duren_Sawit,Rape
+929,7/29/2021,11,-6.219829238,106.8995483,Jakarta_Timur,Duren_Sawit,Kidnapping
+930,3/14/2021,11,-6.218821227,106.8994444,Jakarta_Timur,Duren_Sawit,Aiding and Abetting / Accessory
+931,6/15/2021,22,-6.238680592,106.8985955,Jakarta_Timur,Duren_Sawit,Arson
+932,12/8/2021,23,-6.237867335,106.899286,Jakarta_Timur,Duren_Sawit,Manslaughter: Voluntary
+933,7/16/2021,11,-6.236767499,106.8997793,Jakarta_Timur,Duren_Sawit,Rape
+934,7/14/2021,23,-6.239564999,106.900281,Jakarta_Timur,Duren_Sawit,Murder: Second-degree
+935,12/18/2021,4,-6.239377755,106.8986878,Jakarta_Timur,Duren_Sawit,Sexual Assault
+936,7/29/2021,23,-6.238870541,106.8998871,Jakarta_Timur,Duren_Sawit,Homicide
+937,8/14/2021,7,-6.239500274,106.9003979,Jakarta_Timur,Duren_Sawit,Assault / Battery
+938,7/25/2021,11,-6.239781873,106.8985623,Jakarta_Timur,Duren_Sawit,Assault / Battery
+939,6/12/2021,14,-6.236825707,106.89846,Jakarta_Timur,Duren_Sawit,Public Intoxication
+940,5/20/2021,2,-6.239909053,106.8985191,Jakarta_Timur,Duren_Sawit,Wire Fraud
+941,7/8/2021,13,-6.237965058,106.9002978,Jakarta_Timur,Duren_Sawit,Stalking
+942,9/19/2021,4,-6.236596055,106.8859901,Jakarta_Timur,Jatinegara,Murder: First-degree
+943,10/5/2021,22,-6.236259963,106.8863967,Jakarta_Timur,Jatinegara,Assault / Battery
+944,3/28/2021,20,-6.235850313,106.8863784,Jakarta_Timur,Jatinegara,Attempt
+945,1/4/2021,14,-6.235782579,106.8867643,Jakarta_Timur,Jatinegara,Stalking
+946,3/9/2021,4,-6.236743575,106.8867871,Jakarta_Timur,Jatinegara,Attempt
+947,6/25/2021,22,-6.236324437,106.8862848,Jakarta_Timur,Jatinegara,Theft
+948,1/22/2021,21,-6.236507755,106.887058,Jakarta_Timur,Jatinegara,Homicide
+949,5/2/2021,23,-6.242795207,106.8690403,Jakarta_Timur,Jatinegara,Drug Possession
+950,1/21/2021,2,-6.241676881,106.8692892,Jakarta_Timur,Jatinegara,Theft
+951,12/4/2021,6,-6.241720974,106.8691813,Jakarta_Timur,Jatinegara,Pyramid Schemes
+952,3/11/2021,21,-6.241484517,106.869144,Jakarta_Timur,Jatinegara,Stalking
+953,8/17/2021,3,-6.242549421,106.8691872,Jakarta_Timur,Jatinegara,Theft
+954,6/23/2021,9,-6.24295507,106.8691862,Jakarta_Timur,Jatinegara,Drug Manufacturing and Cultivation
+955,8/22/2021,2,-6.240565007,106.8692267,Jakarta_Timur,Jatinegara,Drug Possession
+956,3/31/2021,17,-6.241716267,106.8691558,Jakarta_Timur,Jatinegara,Stalking
+957,10/4/2021,16,-6.240224729,106.8692671,Jakarta_Timur,Jatinegara,Kidnapping
+958,2/24/2021,21,-6.228892948,106.8674788,Jakarta_Timur,Jatinegara,Statutory Rape
+959,5/8/2021,14,-6.228429322,106.8673374,Jakarta_Timur,Jatinegara,Stalking
+960,8/5/2021,15,-6.229225851,106.8673517,Jakarta_Timur,Jatinegara,Aggravated Assault
+961,7/22/2021,19,-6.225713467,106.8674772,Jakarta_Timur,Jatinegara,Homicide
+962,12/5/2021,3,-6.229929579,106.8672747,Jakarta_Timur,Jatinegara,Theft
+963,12/25/2021,15,-6.229618409,106.8671741,Jakarta_Timur,Jatinegara,Rape
+964,8/15/2021,11,-6.228135074,106.8672674,Jakarta_Timur,Jatinegara,Manslaughter: Involuntary
+965,5/22/2021,20,-6.227127599,106.8802311,Jakarta_Timur,Jatinegara,Money Laundering
+966,3/5/2021,12,-6.227078271,106.8824454,Jakarta_Timur,Jatinegara,Harassment
+967,1/24/2021,21,-6.227869388,106.8806992,Jakarta_Timur,Jatinegara,Aggravated Assault
+968,6/2/2021,3,-6.227297585,106.8802581,Jakarta_Timur,Jatinegara,Probation Violation
+969,1/25/2021,10,-6.227759529,106.8822709,Jakarta_Timur,Jatinegara,Assault / Battery
+970,2/12/2021,8,-6.227439066,106.8819733,Jakarta_Timur,Jatinegara,Statutory Rape
+971,10/24/2021,19,-6.226541411,106.881436,Jakarta_Timur,Jatinegara,Manslaughter: Voluntary
+972,10/21/2021,2,-6.227958527,106.8833075,Jakarta_Timur,Jatinegara,Arson
+973,11/20/2021,12,-6.227437997,106.8799828,Jakarta_Timur,Jatinegara,Murder: First-degree
+974,2/6/2021,5,-6.218116587,106.8673105,Jakarta_Timur,Jatinegara,Attempt
+975,11/19/2021,12,-6.219122743,106.8670075,Jakarta_Timur,Jatinegara,Stalking
+976,1/16/2021,17,-6.21770904,106.8671532,Jakarta_Timur,Jatinegara,Manslaughter: Voluntary
+977,7/26/2021,10,-6.217943157,106.86727,Jakarta_Timur,Jatinegara,Attempt
+978,1/12/2021,18,-6.218386641,106.8674913,Jakarta_Timur,Jatinegara,Sexual Assault
+979,1/11/2021,19,-6.218351646,106.8675409,Jakarta_Timur,Jatinegara,Statutory Rape
+980,5/6/2021,2,-6.21804873,106.8678247,Jakarta_Timur,Jatinegara,Statutory Rape
+981,1/25/2021,10,-6.218697457,106.8674394,Jakarta_Timur,Jatinegara,Theft
+982,7/4/2021,11,-6.217874091,106.8677642,Jakarta_Timur,Jatinegara,Murder: Second-degree
+983,12/19/2021,16,-6.218352876,106.8670501,Jakarta_Timur,Jatinegara,Attempt
+984,8/12/2021,16,-6.215263025,106.8639264,Jakarta_Timur,Jatinegara,Stalking
+985,9/11/2021,1,-6.214963068,106.8663746,Jakarta_Timur,Jatinegara,Kidnapping
+986,5/6/2021,6,-6.215427007,106.8656653,Jakarta_Timur,Jatinegara,Attempt
+987,3/19/2021,20,-6.215647319,106.8632636,Jakarta_Timur,Jatinegara,Sexual Assault
+988,10/14/2021,12,-6.214948401,106.8662537,Jakarta_Timur,Jatinegara,Medical Marijuana
+989,4/6/2021,14,-6.21555511,106.8659547,Jakarta_Timur,Jatinegara,Assault / Battery
+990,10/9/2021,12,-6.215440536,106.8666818,Jakarta_Timur,Jatinegara,Harassment
+991,12/5/2021,18,-6.216469403,106.8666222,Jakarta_Timur,Jatinegara,Manslaughter: Involuntary
+992,6/22/2021,9,-6.214276125,106.8630114,Jakarta_Timur,Jatinegara,Arson
+993,6/10/2021,2,-6.21486859,106.8655387,Jakarta_Timur,Jatinegara,Indecent Exposure
+994,10/4/2021,12,-6.215489379,106.8652759,Jakarta_Timur,Jatinegara,Rape
+995,2/17/2021,15,-6.21640654,106.8639884,Jakarta_Timur,Jatinegara,Kidnapping
+996,5/4/2021,16,-6.216556849,106.8655828,Jakarta_Timur,Jatinegara,Kidnapping
+997,8/15/2021,9,-6.216443094,106.8662329,Jakarta_Timur,Jatinegara,Public Intoxication
+998,3/3/2021,1,-6.278124704,106.8550225,Jakarta_Timur,Kramat_Jati,Stalking
+999,9/4/2021,2,-6.276084245,106.8551655,Jakarta_Timur,Kramat_Jati,Rape
+1000,8/7/2021,14,-6.27755035,106.855862,Jakarta_Timur,Kramat_Jati,Harassment
+1001,6/13/2021,19,-6.280813889,106.8558633,Jakarta_Timur,Kramat_Jati,Medical Marijuana
+1002,3/27/2021,5,-6.275327454,106.8553017,Jakarta_Timur,Kramat_Jati,Drug Manufacturing and Cultivation
+1003,9/4/2021,17,-6.276520641,106.8554103,Jakarta_Timur,Kramat_Jati,Drug Possession
+1004,2/7/2021,12,-6.276217299,106.8552825,Jakarta_Timur,Kramat_Jati,Homicide
+1005,12/13/2021,19,-6.277740543,106.8554579,Jakarta_Timur,Kramat_Jati,Embezzlement
+1006,6/3/2021,23,-6.28006077,106.855701,Jakarta_Timur,Kramat_Jati,Disorderly Conduct
+1007,5/20/2021,20,-6.275458434,106.8552015,Jakarta_Timur,Kramat_Jati,Aggravated Assault
+1008,5/11/2021,21,-6.276947058,106.8558826,Jakarta_Timur,Kramat_Jati,Assault / Battery
+1009,3/26/2021,15,-6.27090824,106.8558102,Jakarta_Timur,Kramat_Jati,Rape
+1010,9/23/2021,4,-6.275365881,106.8582303,Jakarta_Timur,Kramat_Jati,Stalking
+1011,3/11/2021,18,-6.275464241,106.8562098,Jakarta_Timur,Kramat_Jati,Pyramid Schemes
+1012,12/19/2021,12,-6.271180919,106.8565659,Jakarta_Timur,Kramat_Jati,Rape
+1013,7/9/2021,20,-6.276579742,106.8568822,Jakarta_Timur,Kramat_Jati,Medical Marijuana
+1014,7/28/2021,2,-6.273280705,106.8557128,Jakarta_Timur,Kramat_Jati,Disturbing the Peace
+1015,8/21/2021,18,-6.271433808,106.8551899,Jakarta_Timur,Kramat_Jati,Sexual Assault
+1016,9/4/2021,0,-6.270992865,106.8561234,Jakarta_Timur,Kramat_Jati,Arson
+1017,9/2/2021,16,-6.272152379,106.8553608,Jakarta_Timur,Kramat_Jati,Robbery
+1018,2/17/2021,10,-6.270961213,106.8568837,Jakarta_Timur,Kramat_Jati,Manslaughter: Voluntary
+1019,7/27/2021,22,-6.276117057,106.855615,Jakarta_Timur,Kramat_Jati,Perjury
+1020,5/3/2021,6,-6.274496116,106.8584723,Jakarta_Timur,Kramat_Jati,Murder: Second-degree
+1021,1/31/2021,11,-6.272682439,106.8582435,Jakarta_Timur,Kramat_Jati,Sexual Assault
+1022,5/19/2021,11,-6.271969333,106.8569214,Jakarta_Timur,Kramat_Jati,Assault / Battery
+1023,10/30/2021,5,-6.274759383,106.8582608,Jakarta_Timur,Kramat_Jati,Arson
+1024,12/23/2021,14,-6.260755501,106.8685176,Jakarta_Timur,Kramat_Jati,Manslaughter: Involuntary
+1025,1/1/2021,4,-6.262217469,106.8684703,Jakarta_Timur,Kramat_Jati,Statutory Rape
+1026,6/8/2021,1,-6.261541545,106.867089,Jakarta_Timur,Kramat_Jati,Theft
+1027,2/9/2021,14,-6.261411911,106.8679087,Jakarta_Timur,Kramat_Jati,Public Intoxication
+1028,6/1/2021,4,-6.25963148,106.8687816,Jakarta_Timur,Kramat_Jati,Money Laundering
+1029,1/12/2021,3,-6.261456411,106.8666007,Jakarta_Timur,Kramat_Jati,Bribery
+1030,5/8/2021,4,-6.261593159,106.8667392,Jakarta_Timur,Kramat_Jati,Computer Crime
+1031,3/31/2021,21,-6.261179094,106.8674096,Jakarta_Timur,Kramat_Jati,Harassment
+1032,10/10/2021,4,-6.262073967,106.8687215,Jakarta_Timur,Kramat_Jati,Manslaughter: Voluntary
+1033,10/24/2021,10,-6.259291663,106.8676741,Jakarta_Timur,Kramat_Jati,Kidnapping
+1034,2/8/2021,8,-6.249861188,106.8668479,Jakarta_Timur,Kramat_Jati,Embezzlement
+1035,5/5/2021,18,-6.246677263,106.8660725,Jakarta_Timur,Kramat_Jati,Child Abuse
+1036,10/10/2021,21,-6.248509519,106.8666743,Jakarta_Timur,Kramat_Jati,Disturbing the Peace
+1037,10/14/2021,20,-6.245977141,106.8659933,Jakarta_Timur,Kramat_Jati,Child Abandonment
+1038,4/19/2021,15,-6.250036649,106.8669147,Jakarta_Timur,Kramat_Jati,Tax Evasion / Fraud
+1039,9/21/2021,18,-6.24688495,106.8667669,Jakarta_Timur,Kramat_Jati,Forgery
+1040,6/11/2021,23,-6.24944441,106.8667606,Jakarta_Timur,Kramat_Jati,Harassment
+1041,8/1/2021,12,-6.247849575,106.866412,Jakarta_Timur,Kramat_Jati,Murder: First-degree
+1042,10/11/2021,13,-6.25056048,106.8657022,Jakarta_Timur,Kramat_Jati,Aggravated Assault
+1043,8/10/2021,18,-6.248654759,106.8655639,Jakarta_Timur,Kramat_Jati,Theft
+1044,5/7/2021,19,-6.24801736,106.8747158,Jakarta_Timur,Kramat_Jati,Shoplifting
+1045,10/28/2021,17,-6.247731728,106.8744134,Jakarta_Timur,Kramat_Jati,Manslaughter: Voluntary
+1046,1/4/2021,15,-6.248002595,106.8745034,Jakarta_Timur,Kramat_Jati,Robbery
+1047,2/12/2021,4,-6.247611364,106.8747286,Jakarta_Timur,Kramat_Jati,Rape
+1048,6/27/2021,12,-6.247368485,106.8744682,Jakarta_Timur,Kramat_Jati,Arson
+1049,9/13/2021,6,-6.247841874,106.8747841,Jakarta_Timur,Kramat_Jati,Kidnapping
+1050,3/26/2021,6,-6.247808553,106.8747583,Jakarta_Timur,Kramat_Jati,Theft
+1051,5/4/2021,11,-6.247499864,106.8745881,Jakarta_Timur,Kramat_Jati,Manslaughter: Involuntary
+1052,8/4/2021,10,-6.248200178,106.874404,Jakarta_Timur,Kramat_Jati,Theft
+1053,9/13/2021,6,-6.278228733,106.8640733,Jakarta_Timur,Kramat_Jati,Statutory Rape
+1054,3/28/2021,11,-6.279961702,106.8628522,Jakarta_Timur,Kramat_Jati,Theft
+1055,10/26/2021,4,-6.277482688,106.8607943,Jakarta_Timur,Kramat_Jati,Medical Marijuana
+1056,10/26/2021,6,-6.277118887,106.8635501,Jakarta_Timur,Kramat_Jati,Hate Crimes
+1057,1/8/2021,13,-6.278756171,106.8608054,Jakarta_Timur,Kramat_Jati,Kidnapping
+1058,10/24/2021,1,-6.278500153,106.8612572,Jakarta_Timur,Kramat_Jati,Arson
+1059,1/6/2021,4,-6.278080017,106.8611413,Jakarta_Timur,Kramat_Jati,Domestic Violence
+1060,9/7/2021,18,-6.280013093,106.86274,Jakarta_Timur,Kramat_Jati,Robbery
+1061,8/10/2021,15,-6.277491437,106.8629483,Jakarta_Timur,Kramat_Jati,Arson
+1062,1/5/2021,6,-6.277156996,106.863672,Jakarta_Timur,Kramat_Jati,Arson
+1063,10/14/2021,8,-6.279689018,106.8607396,Jakarta_Timur,Kramat_Jati,Manslaughter: Voluntary
+1064,4/6/2021,22,-6.277860556,106.8622527,Jakarta_Timur,Kramat_Jati,Robbery
+1065,7/12/2021,14,-6.279048685,106.861321,Jakarta_Timur,Kramat_Jati,Theft
+1066,1/2/2021,16,-6.278367414,106.8617319,Jakarta_Timur,Kramat_Jati,Homicide
+1067,9/25/2021,0,-6.278519471,106.8633496,Jakarta_Timur,Kramat_Jati,Forgery
+1068,7/19/2021,19,-6.278010555,106.8495614,Jakarta_Timur,Kramat_Jati,Murder: Second-degree
+1069,4/14/2021,13,-6.278361639,106.8501284,Jakarta_Timur,Kramat_Jati,Rape
+1070,6/5/2021,8,-6.278420007,106.8497269,Jakarta_Timur,Kramat_Jati,Sexual Assault
+1071,6/22/2021,2,-6.278359349,106.8498459,Jakarta_Timur,Kramat_Jati,Bribery
+1072,5/10/2021,3,-6.278317108,106.8494456,Jakarta_Timur,Kramat_Jati,Manslaughter: Voluntary
+1073,10/3/2021,11,-6.278812785,106.8509749,Jakarta_Timur,Kramat_Jati,Kidnapping
+1074,1/29/2021,9,-6.278677688,106.8510324,Jakarta_Timur,Kramat_Jati,Stalking
+1075,11/3/2021,12,-6.2782247,106.849841,Jakarta_Timur,Kramat_Jati,Sexual Assault
+1076,6/10/2021,18,-6.278774667,106.8495966,Jakarta_Timur,Kramat_Jati,Robbery
+1077,2/24/2021,17,-6.278136519,106.8506016,Jakarta_Timur,Kramat_Jati,Attempt
+1078,3/19/2021,23,-6.278807379,106.8506931,Jakarta_Timur,Kramat_Jati,Aggravated Assault
+1079,9/9/2021,5,-6.278026995,106.8505078,Jakarta_Timur,Kramat_Jati,Tax Evasion / Fraud
+1080,3/19/2021,0,-6.286131698,106.8488472,Jakarta_Timur,Kramat_Jati,Murder: First-degree
+1081,9/12/2021,12,-6.28530287,106.8488672,Jakarta_Timur,Kramat_Jati,Arson
+1082,8/6/2021,23,-6.286269858,106.8488421,Jakarta_Timur,Kramat_Jati,Murder: Second-degree
+1083,6/9/2021,2,-6.286388443,106.8488706,Jakarta_Timur,Kramat_Jati,Homicide
+1084,5/3/2021,7,-6.284737731,106.8488413,Jakarta_Timur,Kramat_Jati,Open Container (of alcohol)
+1085,4/17/2021,3,-6.284877104,106.8488556,Jakarta_Timur,Kramat_Jati,Manslaughter: Involuntary
+1086,1/22/2021,20,-6.284867673,106.8488627,Jakarta_Timur,Kramat_Jati,Manslaughter: Voluntary
+1087,9/15/2021,5,-6.284802768,106.8488584,Jakarta_Timur,Kramat_Jati,Criminal Contempt of Court
+1088,10/12/2021,5,-6.284632249,106.8488478,Jakarta_Timur,Kramat_Jati,Stalking
+1089,12/25/2021,10,-6.284935635,106.8488567,Jakarta_Timur,Kramat_Jati,Murder: Second-degree
+1090,1/24/2021,18,-6.286580704,106.8488504,Jakarta_Timur,Kramat_Jati,Criminal Contempt of Court
+1091,5/18/2021,4,-6.284486591,106.8488359,Jakarta_Timur,Kramat_Jati,Assault / Battery
+1092,2/7/2021,18,-6.284540889,106.8488629,Jakarta_Timur,Kramat_Jati,Kidnapping
+1093,7/12/2021,19,-6.257613221,106.8788056,Jakarta_Timur,Makasar,Rape
+1094,10/24/2021,11,-6.257590038,106.8788028,Jakarta_Timur,Makasar,Theft
+1095,4/16/2021,13,-6.257176451,106.8787393,Jakarta_Timur,Makasar,Attempt
+1096,2/6/2021,13,-6.258258377,106.8787418,Jakarta_Timur,Makasar,Assault / Battery
+1097,7/15/2021,5,-6.258937132,106.8787186,Jakarta_Timur,Makasar,Kidnapping
+1098,6/2/2021,10,-6.256777021,106.8787615,Jakarta_Timur,Makasar,Murder: Second-degree
+1099,11/8/2021,10,-6.257358916,106.8787864,Jakarta_Timur,Makasar,Attempt
+1100,10/10/2021,4,-6.257447263,106.8787319,Jakarta_Timur,Makasar,Murder: First-degree
+1101,11/2/2021,1,-6.257790228,106.8787879,Jakarta_Timur,Makasar,Harassment
+1102,12/12/2021,13,-6.258987769,106.8787832,Jakarta_Timur,Makasar,Aggravated Assault
+1103,3/28/2021,18,-6.295548852,106.8865462,Jakarta_Timur,Makasar,Statutory Rape
+1104,1/23/2021,16,-6.296224243,106.8877198,Jakarta_Timur,Makasar,Robbery
+1105,12/17/2021,13,-6.29552802,106.8875758,Jakarta_Timur,Makasar,Kidnapping
+1106,1/26/2021,14,-6.295266148,106.8878665,Jakarta_Timur,Makasar,Criminal Contempt of Court
+1107,12/5/2021,0,-6.295131181,106.8874942,Jakarta_Timur,Makasar,Sexual Assault
+1108,4/27/2021,8,-6.295034844,106.8864604,Jakarta_Timur,Makasar,Kidnapping
+1109,7/1/2021,0,-6.295148986,106.8878808,Jakarta_Timur,Makasar,Stalking
+1110,10/19/2021,16,-6.29439502,106.8865417,Jakarta_Timur,Makasar,Robbery
+1111,5/26/2021,1,-6.294953534,106.8882474,Jakarta_Timur,Makasar,Aggravated Assault
+1112,7/11/2021,4,-6.295109139,106.8872827,Jakarta_Timur,Makasar,Homicide
+1113,1/23/2021,22,-6.294750692,106.888281,Jakarta_Timur,Makasar,Assault / Battery
+1114,12/5/2021,11,-6.20140239,106.8543503,Jakarta_Timur,Matraman,Aggravated Assault
+1115,2/22/2021,1,-6.201665285,106.8540174,Jakarta_Timur,Matraman,Child Abandonment
+1116,6/25/2021,6,-6.201233869,106.8547399,Jakarta_Timur,Matraman,Probation Violation
+1117,2/25/2021,2,-6.201289804,106.8532201,Jakarta_Timur,Matraman,Harassment
+1118,11/29/2021,5,-6.201576119,106.8542552,Jakarta_Timur,Matraman,Attempt
+1119,8/17/2021,18,-6.201155513,106.8538218,Jakarta_Timur,Matraman,Wire Fraud
+1120,8/1/2021,1,-6.201425039,106.854543,Jakarta_Timur,Matraman,Drug Possession
+1121,7/2/2021,11,-6.201138825,106.8535798,Jakarta_Timur,Matraman,Sexual Assault
+1122,11/14/2021,13,-6.201716709,106.8541381,Jakarta_Timur,Matraman,White Collar Crimes
+1123,3/27/2021,10,-6.201496003,106.8544661,Jakarta_Timur,Matraman,Statutory Rape
+1124,6/17/2021,20,-6.201650005,106.8536968,Jakarta_Timur,Matraman,Assault / Battery
+1125,1/23/2021,22,-6.207970421,106.8512689,Jakarta_Timur,Matraman,Stalking
+1126,7/31/2021,4,-6.207172708,106.8526137,Jakarta_Timur,Matraman,Murder: First-degree
+1127,2/13/2021,9,-6.207557055,106.8524319,Jakarta_Timur,Matraman,Statutory Rape
+1128,9/5/2021,11,-6.208509894,106.8520168,Jakarta_Timur,Matraman,Aggravated Assault
+1129,12/4/2021,4,-6.208174929,106.8530064,Jakarta_Timur,Matraman,Theft
+1130,1/19/2021,15,-6.207816103,106.8524148,Jakarta_Timur,Matraman,Sexual Assault
+1131,2/13/2021,3,-6.207542036,106.8518111,Jakarta_Timur,Matraman,White Collar Crimes
+1132,12/23/2021,18,-6.196680215,106.8668724,Jakarta_Timur,Matraman,Manslaughter: Involuntary
+1133,8/28/2021,21,-6.195691321,106.8668914,Jakarta_Timur,Matraman,Arson
+1134,1/13/2021,6,-6.195893153,106.866277,Jakarta_Timur,Matraman,Statutory Rape
+1135,2/16/2021,2,-6.196878729,106.8661953,Jakarta_Timur,Matraman,Stalking
+1136,5/12/2021,6,-6.196009228,106.8663631,Jakarta_Timur,Matraman,Homicide
+1137,10/30/2021,4,-6.197417685,106.8667126,Jakarta_Timur,Matraman,Extortion
+1138,12/16/2021,22,-6.197268653,106.8663709,Jakarta_Timur,Matraman,Theft
+1139,6/2/2021,2,-6.197350382,106.8666021,Jakarta_Timur,Matraman,Pyramid Schemes
+1140,6/16/2021,23,-6.196764423,106.86668,Jakarta_Timur,Matraman,Assault / Battery
+1141,1/1/2021,17,-6.19533792,106.866163,Jakarta_Timur,Matraman,Aggravated Assault
+1142,5/15/2021,23,-6.193235131,106.8726021,Jakarta_Timur,Matraman,Vandalism
+1143,4/29/2021,14,-6.193230029,106.871211,Jakarta_Timur,Matraman,Disorderly Conduct
+1144,11/19/2021,1,-6.193208766,106.8717334,Jakarta_Timur,Matraman,Murder: First-degree
+1145,8/10/2021,18,-6.193216258,106.8718371,Jakarta_Timur,Matraman,Perjury
+1146,2/15/2021,21,-6.193281415,106.8729268,Jakarta_Timur,Matraman,Sexual Assault
+1147,3/5/2021,3,-6.193285008,106.8732211,Jakarta_Timur,Matraman,Criminal Contempt of Court
+1148,7/11/2021,20,-6.193279051,106.8701307,Jakarta_Timur,Matraman,Attempt
+1149,10/15/2021,5,-6.193219395,106.8707172,Jakarta_Timur,Matraman,Assault / Battery
+1150,7/24/2021,9,-6.193247603,106.8725615,Jakarta_Timur,Matraman,Murder: First-degree
+1151,8/20/2021,15,-6.193217632,106.8714504,Jakarta_Timur,Matraman,Murder: First-degree
+1152,1/20/2021,17,-6.193289338,106.8710268,Jakarta_Timur,Matraman,Racketeering / RICO
+1153,3/30/2021,11,-6.213120625,106.8728634,Jakarta_Timur,Matraman,Aggravated Assault
+1154,8/19/2021,20,-6.213886535,106.8728618,Jakarta_Timur,Matraman,Attempt
+1155,9/20/2021,1,-6.212636097,106.8728595,Jakarta_Timur,Matraman,Statutory Rape
+1156,12/27/2021,22,-6.212779003,106.8729205,Jakarta_Timur,Matraman,Aggravated Assault
+1157,3/20/2021,9,-6.212783475,106.8729671,Jakarta_Timur,Matraman,Murder: First-degree
+1158,8/31/2021,22,-6.212262889,106.8729682,Jakarta_Timur,Matraman,Homicide
+1159,12/16/2021,5,-6.212260818,106.872851,Jakarta_Timur,Matraman,Extortion
+1160,2/17/2021,12,-6.213576705,106.8728561,Jakarta_Timur,Matraman,Pyramid Schemes
+1161,4/25/2021,7,-6.212830905,106.8728425,Jakarta_Timur,Matraman,Hate Crimes
+1162,2/16/2021,10,-6.206713543,106.8684428,Jakarta_Timur,Matraman,Assault / Battery
+1163,5/14/2021,13,-6.207251519,106.8685824,Jakarta_Timur,Matraman,Attempt
+1164,12/19/2021,20,-6.205684835,106.8682245,Jakarta_Timur,Matraman,Forgery
+1165,5/4/2021,13,-6.209626461,106.8684151,Jakarta_Timur,Matraman,Murder: First-degree
+1166,9/28/2021,23,-6.204798875,106.8683431,Jakarta_Timur,Matraman,Assault / Battery
+1167,9/17/2021,10,-6.209098667,106.8683292,Jakarta_Timur,Matraman,Arson
+1168,2/15/2021,0,-6.208061342,106.8680848,Jakarta_Timur,Matraman,Murder: First-degree
+1169,6/30/2021,3,-6.205374781,106.8681606,Jakarta_Timur,Matraman,Arson
+1170,5/17/2021,9,-6.208345687,106.8684765,Jakarta_Timur,Matraman,Medical Marijuana
+1171,1/28/2021,19,-6.208744361,106.8683396,Jakarta_Timur,Matraman,Credit / Debit Card Fraud
+1172,3/23/2021,18,-6.209578964,106.868211,Jakarta_Timur,Matraman,Theft
+1173,5/13/2021,7,-6.20518881,106.8682285,Jakarta_Timur,Matraman,Solicitation
+1174,3/20/2021,23,-6.209493034,106.8682074,Jakarta_Timur,Matraman,Kidnapping
+1175,2/5/2021,20,-6.196792971,106.8687406,Jakarta_Timur,Matraman,Insurance Fraud
+1176,11/21/2021,19,-6.198235224,106.8684243,Jakarta_Timur,Matraman,Aiding and Abetting / Accessory
+1177,11/17/2021,6,-6.196060689,106.8685421,Jakarta_Timur,Matraman,Theft
+1178,1/4/2021,0,-6.194719161,106.8687457,Jakarta_Timur,Matraman,Assault / Battery
+1179,8/26/2021,10,-6.195043917,106.868897,Jakarta_Timur,Matraman,Sexual Assault
+1180,8/30/2021,16,-6.19599214,106.8687897,Jakarta_Timur,Matraman,Murder: First-degree
+1181,5/26/2021,13,-6.19527597,106.8688701,Jakarta_Timur,Matraman,Aggravated Assault
+1182,5/16/2021,17,-6.195739271,106.8685634,Jakarta_Timur,Matraman,Securities Fraud
+1183,10/22/2021,23,-6.196430686,106.8686025,Jakarta_Timur,Matraman,Harassment
+1184,6/19/2021,8,-6.197508615,106.8688266,Jakarta_Timur,Matraman,Homicide
+1185,9/22/2021,11,-6.195787972,106.8688275,Jakarta_Timur,Matraman,Cyberbullying
+1186,5/30/2021,23,-6.197800254,106.8685657,Jakarta_Timur,Matraman,Aggravated Assault
+1187,7/13/2021,22,-6.29895491,106.8559578,Jakarta_Timur,Pasar_Rebo,Disorderly Conduct
+1188,8/14/2021,7,-6.297890731,106.8559794,Jakarta_Timur,Pasar_Rebo,Cyberbullying
+1189,5/20/2021,5,-6.29693476,106.8560884,Jakarta_Timur,Pasar_Rebo,Assault / Battery
+1190,11/30/2021,0,-6.298944496,106.8560412,Jakarta_Timur,Pasar_Rebo,Disturbing the Peace
+1191,2/15/2021,15,-6.296388986,106.855932,Jakarta_Timur,Pasar_Rebo,Attempt
+1192,10/25/2021,12,-6.299164901,106.8560342,Jakarta_Timur,Pasar_Rebo,Murder: Second-degree
+1193,1/14/2021,11,-6.299209167,106.8559299,Jakarta_Timur,Pasar_Rebo,Fraud
+1194,12/2/2021,19,-6.297862244,106.8559183,Jakarta_Timur,Pasar_Rebo,Murder: Second-degree
+1195,6/10/2021,22,-6.299149958,106.8560536,Jakarta_Timur,Pasar_Rebo,Forgery
+1196,5/23/2021,11,-6.296177778,106.8559015,Jakarta_Timur,Pasar_Rebo,Cyberbullying
+1197,11/19/2021,9,-6.297521859,106.8559989,Jakarta_Timur,Pasar_Rebo,Arson
+1198,8/4/2021,2,-6.298661751,106.8559041,Jakarta_Timur,Pasar_Rebo,Computer Crime
+1199,1/15/2021,7,-6.297200133,106.8628899,Jakarta_Timur,Pasar_Rebo,Murder: First-degree
+1200,9/7/2021,0,-6.298352897,106.8628595,Jakarta_Timur,Pasar_Rebo,Murder: First-degree
+1201,8/6/2021,20,-6.296262118,106.8628938,Jakarta_Timur,Pasar_Rebo,Aggravated Assault
+1202,4/17/2021,9,-6.298186538,106.86286,Jakarta_Timur,Pasar_Rebo,Homicide
+1203,6/17/2021,21,-6.297672293,106.8628615,Jakarta_Timur,Pasar_Rebo,Manslaughter: Voluntary
+1204,7/9/2021,7,-6.297848043,106.8628572,Jakarta_Timur,Pasar_Rebo,Stalking
+1205,4/25/2021,19,-6.296493978,106.862875,Jakarta_Timur,Pasar_Rebo,Disturbing the Peace
+1206,6/2/2021,1,-6.316328391,106.8600799,Jakarta_Timur,Pasar_Rebo,Harassment
+1207,8/28/2021,8,-6.315925174,106.8589434,Jakarta_Timur,Pasar_Rebo,Kidnapping
+1208,4/2/2021,19,-6.315400827,106.8598878,Jakarta_Timur,Pasar_Rebo,Harassment
+1209,11/5/2021,19,-6.315859597,106.8574659,Jakarta_Timur,Pasar_Rebo,Murder: Second-degree
+1210,2/2/2021,2,-6.31570882,106.8579573,Jakarta_Timur,Pasar_Rebo,Medical Marijuana
+1211,11/19/2021,17,-6.316700128,106.8588305,Jakarta_Timur,Pasar_Rebo,Forgery
+1212,2/4/2021,6,-6.316783076,106.8588979,Jakarta_Timur,Pasar_Rebo,Rape
+1213,9/27/2021,0,-6.314700221,106.8578353,Jakarta_Timur,Pasar_Rebo,Wire Fraud
+1214,9/8/2021,22,-6.31417153,106.859137,Jakarta_Timur,Pasar_Rebo,Theft
+1215,6/14/2021,5,-6.314624869,106.8584135,Jakarta_Timur,Pasar_Rebo,Arson
+1216,9/13/2021,17,-6.327962296,106.8579642,Jakarta_Timur,Pasar_Rebo,Money Laundering
+1217,8/27/2021,17,-6.327231541,106.8575825,Jakarta_Timur,Pasar_Rebo,Homicide
+1218,10/2/2021,21,-6.327821848,106.8578572,Jakarta_Timur,Pasar_Rebo,Manslaughter: Involuntary
+1219,10/1/2021,12,-6.328290266,106.8571103,Jakarta_Timur,Pasar_Rebo,Harassment
+1220,2/2/2021,11,-6.327466965,106.8576028,Jakarta_Timur,Pasar_Rebo,Manslaughter: Voluntary
+1221,12/17/2021,16,-6.326684141,106.8570191,Jakarta_Timur,Pasar_Rebo,Manslaughter: Voluntary
+1222,10/19/2021,15,-6.327041627,106.8574461,Jakarta_Timur,Pasar_Rebo,Murder: First-degree
+1223,6/25/2021,15,-6.326670085,106.8581834,Jakarta_Timur,Pasar_Rebo,Assault / Battery
+1224,6/17/2021,8,-6.328519987,106.8576268,Jakarta_Timur,Pasar_Rebo,Murder: First-degree
+1225,5/14/2021,9,-6.326935911,106.8570219,Jakarta_Timur,Pasar_Rebo,Stalking
+1226,4/13/2021,4,-6.327607134,106.8568985,Jakarta_Timur,Pasar_Rebo,Murder: Second-degree
+1227,4/2/2021,4,-6.338411619,106.8435055,Jakarta_Timur,Pasar_Rebo,Harassment
+1228,2/20/2021,0,-6.337925778,106.8437652,Jakarta_Timur,Pasar_Rebo,Manslaughter: Voluntary
+1229,1/18/2021,2,-6.337701162,106.8436958,Jakarta_Timur,Pasar_Rebo,Assault / Battery
+1230,6/1/2021,13,-6.338465673,106.8433674,Jakarta_Timur,Pasar_Rebo,Murder: First-degree
+1231,9/8/2021,1,-6.338319793,106.8437876,Jakarta_Timur,Pasar_Rebo,Assault / Battery
+1232,2/9/2021,4,-6.338207864,106.8435016,Jakarta_Timur,Pasar_Rebo,Homicide
+1233,12/28/2021,13,-6.337466939,106.8437324,Jakarta_Timur,Pasar_Rebo,Statutory Rape
+1234,6/23/2021,16,-6.336998705,106.8434406,Jakarta_Timur,Pasar_Rebo,Manslaughter: Voluntary
+1235,9/6/2021,16,-6.338098506,106.8435164,Jakarta_Timur,Pasar_Rebo,Theft
+1236,5/23/2021,16,-6.337296304,106.8435092,Jakarta_Timur,Pasar_Rebo,Rape
+1237,7/8/2021,16,-6.33846388,106.843595,Jakarta_Timur,Pasar_Rebo,Murder: Second-degree
+1238,10/16/2021,1,-6.337747192,106.843503,Jakarta_Timur,Pasar_Rebo,Robbery
+1239,11/28/2021,19,-6.337022443,106.8434658,Jakarta_Timur,Pasar_Rebo,Murder: First-degree
+1240,2/25/2021,0,-6.348394731,106.8646091,Jakarta_Timur,Pasar_Rebo,Rape
+1241,3/13/2021,23,-6.350070044,106.8653158,Jakarta_Timur,Pasar_Rebo,Money Laundering
+1242,11/27/2021,13,-6.348390871,106.8656412,Jakarta_Timur,Pasar_Rebo,Arson
+1243,11/9/2021,20,-6.34891833,106.8657321,Jakarta_Timur,Pasar_Rebo,Attempt
+1244,1/4/2021,13,-6.347318187,106.8651066,Jakarta_Timur,Pasar_Rebo,Manslaughter: Voluntary
+1245,6/28/2021,3,-6.346921483,106.8663912,Jakarta_Timur,Pasar_Rebo,Manslaughter: Voluntary
+1246,6/10/2021,4,-6.347365193,106.8656711,Jakarta_Timur,Pasar_Rebo,Rape
+1247,5/11/2021,0,-6.350559051,106.8661233,Jakarta_Timur,Pasar_Rebo,Arson
+1248,3/11/2021,23,-6.349061524,106.8652699,Jakarta_Timur,Pasar_Rebo,Murder: First-degree
+1249,3/1/2021,20,-6.34765791,106.8663769,Jakarta_Timur,Pasar_Rebo,Manslaughter: Voluntary
+1250,6/15/2021,0,-6.347242691,106.8664412,Jakarta_Timur,Pasar_Rebo,Statutory Rape
+1251,3/15/2021,20,-6.34896015,106.8664692,Jakarta_Timur,Pasar_Rebo,Statutory Rape
+1252,3/27/2021,15,-6.18161387,106.9033242,Jakarta_Timur,Pulo_Gadung,Manslaughter: Involuntary
+1253,4/11/2021,16,-6.182788499,106.9035362,Jakarta_Timur,Pulo_Gadung,Murder: Second-degree
+1254,7/6/2021,1,-6.183208414,106.9039463,Jakarta_Timur,Pulo_Gadung,Harassment
+1255,5/26/2021,11,-6.182919596,106.9036155,Jakarta_Timur,Pulo_Gadung,Kidnapping
+1256,12/2/2021,8,-6.183428265,106.9034039,Jakarta_Timur,Pulo_Gadung,Criminal Contempt of Court
+1257,11/11/2021,0,-6.181976237,106.9040722,Jakarta_Timur,Pulo_Gadung,Harassment
+1258,7/15/2021,22,-6.183898838,106.9042246,Jakarta_Timur,Pulo_Gadung,Kidnapping
+1259,4/15/2021,2,-6.181445763,106.904086,Jakarta_Timur,Pulo_Gadung,Theft
+1260,7/5/2021,10,-6.182226148,106.9037371,Jakarta_Timur,Pulo_Gadung,Bribery
+1261,9/12/2021,1,-6.184953285,106.8982046,Jakarta_Timur,Pulo_Gadung,Manslaughter: Voluntary
+1262,12/12/2021,21,-6.184981781,106.8986338,Jakarta_Timur,Pulo_Gadung,Identity Theft
+1263,2/14/2021,15,-6.184176743,106.8986379,Jakarta_Timur,Pulo_Gadung,Kidnapping
+1264,1/22/2021,4,-6.184325353,106.8987107,Jakarta_Timur,Pulo_Gadung,Open Container (of alcohol)
+1265,1/26/2021,7,-6.182839339,106.8988776,Jakarta_Timur,Pulo_Gadung,Wire Fraud
+1266,7/14/2021,7,-6.184847439,106.8982955,Jakarta_Timur,Pulo_Gadung,Attempt
+1267,2/18/2021,3,-6.184322465,106.8985701,Jakarta_Timur,Pulo_Gadung,Theft
+1268,8/18/2021,22,-6.21075384,106.8915603,Jakarta_Timur,Pulo_Gadung,Murder: Second-degree
+1269,6/21/2021,14,-6.211063723,106.8934747,Jakarta_Timur,Pulo_Gadung,Murder: Second-degree
+1270,4/15/2021,17,-6.211033343,106.8951023,Jakarta_Timur,Pulo_Gadung,Aggravated Assault
+1271,6/8/2021,22,-6.211181499,106.8948464,Jakarta_Timur,Pulo_Gadung,Insurance Fraud
+1272,10/12/2021,16,-6.211515599,106.8927117,Jakarta_Timur,Pulo_Gadung,Disturbing the Peace
+1273,10/10/2021,15,-6.210789988,106.8922446,Jakarta_Timur,Pulo_Gadung,Harassment
+1274,7/23/2021,1,-6.210694761,106.893901,Jakarta_Timur,Pulo_Gadung,Aggravated Assault
+1275,5/14/2021,16,-6.211524188,106.8937047,Jakarta_Timur,Pulo_Gadung,Attempt
+1276,5/19/2021,3,-6.211176648,106.892876,Jakarta_Timur,Pulo_Gadung,Stalking
+1277,10/19/2021,21,-6.210649525,106.8918294,Jakarta_Timur,Pulo_Gadung,Assault / Battery
+1278,8/2/2021,8,-6.210596836,106.8917675,Jakarta_Timur,Pulo_Gadung,Attempt
+1279,5/4/2021,20,-6.21067099,106.8954057,Jakarta_Timur,Pulo_Gadung,Stalking
+1280,2/2/2021,20,-6.207377573,106.8794647,Jakarta_Timur,Pulo_Gadung,Aggravated Assault
+1281,6/1/2021,2,-6.207621128,106.8799587,Jakarta_Timur,Pulo_Gadung,Theft
+1282,7/8/2021,11,-6.208504254,106.8796607,Jakarta_Timur,Pulo_Gadung,Attempt
+1283,1/8/2021,0,-6.207696029,106.8792588,Jakarta_Timur,Pulo_Gadung,Homicide
+1284,12/21/2021,21,-6.20783383,106.8787853,Jakarta_Timur,Pulo_Gadung,Manslaughter: Voluntary
+1285,11/2/2021,0,-6.207544994,106.8784781,Jakarta_Timur,Pulo_Gadung,Assault / Battery
+1286,10/21/2021,23,-6.208524279,106.8798356,Jakarta_Timur,Pulo_Gadung,Rape
+1287,12/23/2021,14,-6.207964045,106.8791075,Jakarta_Timur,Pulo_Gadung,Harassment
+1288,3/22/2021,12,-6.207425841,106.8792923,Jakarta_Timur,Pulo_Gadung,Manslaughter: Voluntary
+1289,4/5/2021,2,-6.199393494,106.8860113,Jakarta_Timur,Pulo_Gadung,Disorderly Conduct
+1290,4/18/2021,23,-6.196816119,106.886015,Jakarta_Timur,Pulo_Gadung,Public Intoxication
+1291,12/17/2021,5,-6.19641295,106.8860309,Jakarta_Timur,Pulo_Gadung,Sexual Assault
+1292,2/10/2021,22,-6.195340917,106.8860114,Jakarta_Timur,Pulo_Gadung,Homicide
+1293,5/28/2021,15,-6.198452658,106.885995,Jakarta_Timur,Pulo_Gadung,Drug Possession
+1294,5/18/2021,2,-6.196196132,106.8860274,Jakarta_Timur,Pulo_Gadung,Attempt
+1295,9/25/2021,17,-6.197915964,106.8860139,Jakarta_Timur,Pulo_Gadung,Robbery
+1296,2/3/2021,6,-6.197740897,106.8860008,Jakarta_Timur,Pulo_Gadung,Domestic Violence
+1297,3/14/2021,21,-6.195851162,106.8860169,Jakarta_Timur,Pulo_Gadung,Manslaughter: Involuntary
+1298,6/25/2021,9,-6.198416014,106.8860281,Jakarta_Timur,Pulo_Gadung,Rape
+1299,3/18/2021,10,-6.195602505,106.8860011,Jakarta_Timur,Pulo_Gadung,Telemarketing Fraud
+1300,2/12/2021,14,-6.187935867,106.90037,Jakarta_Timur,Pulo_Gadung,Attempt
+1301,12/12/2021,12,-6.187393547,106.8979003,Jakarta_Timur,Pulo_Gadung,Harassment
+1302,4/29/2021,13,-6.187715825,106.8969294,Jakarta_Timur,Pulo_Gadung,Murder: Second-degree
+1303,6/7/2021,1,-6.187085678,106.9020048,Jakarta_Timur,Pulo_Gadung,Shoplifting
+1304,11/12/2021,11,-6.187409087,106.8978028,Jakarta_Timur,Pulo_Gadung,Theft
+1305,8/8/2021,21,-6.187655307,106.8971191,Jakarta_Timur,Pulo_Gadung,Harassment
+1306,12/9/2021,4,-6.187729157,106.8962794,Jakarta_Timur,Pulo_Gadung,Robbery
+1307,12/9/2021,0,-6.18765962,106.9001491,Jakarta_Timur,Pulo_Gadung,Murder: Second-degree
+1308,10/27/2021,10,-6.187711562,106.898234,Jakarta_Timur,Pulo_Gadung,Child Pornography
+1309,1/29/2021,21,-6.187619644,106.8987972,Jakarta_Timur,Pulo_Gadung,Child Abuse
+1310,7/17/2021,7,-6.187427884,106.8991009,Jakarta_Timur,Pulo_Gadung,Robbery
+1311,1/17/2021,7,-6.187903515,106.8993786,Jakarta_Timur,Pulo_Gadung,Statutory Rape
+1312,2/18/2021,2,-6.187514387,106.8962631,Jakarta_Timur,Pulo_Gadung,Theft
+1313,1/8/2021,18,-6.306481083,106.7939431,Jakarta_Selatan,Cilandak,Aggravated Assault
+1314,4/23/2021,20,-6.305630793,106.7937849,Jakarta_Selatan,Cilandak,Kidnapping
+1315,6/7/2021,6,-6.305828551,106.7941476,Jakarta_Selatan,Cilandak,Arson
+1316,7/8/2021,12,-6.306112553,106.7939378,Jakarta_Selatan,Cilandak,Arson
+1317,11/9/2021,5,-6.306811432,106.7938472,Jakarta_Selatan,Cilandak,Manslaughter: Voluntary
+1318,5/4/2021,1,-6.305728622,106.7941685,Jakarta_Selatan,Cilandak,Aggravated Assault
+1319,3/28/2021,1,-6.306604619,106.7939359,Jakarta_Selatan,Cilandak,Child Pornography
+1320,2/9/2021,13,-6.30642775,106.7940827,Jakarta_Selatan,Cilandak,Insurance Fraud
+1321,8/18/2021,2,-6.306731,106.7940344,Jakarta_Selatan,Cilandak,Murder: First-degree
+1322,2/18/2021,12,-6.305728372,106.7939067,Jakarta_Selatan,Cilandak,Identity Theft
+1323,1/20/2021,10,-6.306319234,106.7938121,Jakarta_Selatan,Cilandak,Drug Trafficking / Distribution
+1324,12/20/2021,10,-6.303543135,106.7814607,Jakarta_Selatan,Cilandak,Murder: First-degree
+1325,7/23/2021,21,-6.302697428,106.7810846,Jakarta_Selatan,Cilandak,Stalking
+1326,11/27/2021,18,-6.302374461,106.7811053,Jakarta_Selatan,Cilandak,Conspiracy
+1327,2/13/2021,18,-6.304974159,106.7813413,Jakarta_Selatan,Cilandak,Murder: First-degree
+1328,3/11/2021,6,-6.305056289,106.7812807,Jakarta_Selatan,Cilandak,Harassment
+1329,2/18/2021,8,-6.302063285,106.7817142,Jakarta_Selatan,Cilandak,Robbery
+1330,2/24/2021,3,-6.303342201,106.7814937,Jakarta_Selatan,Cilandak,Telemarketing Fraud
+1331,12/11/2021,21,-6.303839622,106.7814446,Jakarta_Selatan,Cilandak,Murder: Second-degree
+1332,8/31/2021,8,-6.292801328,106.7797964,Jakarta_Selatan,Cilandak,Attempt
+1333,3/1/2021,23,-6.296955799,106.776669,Jakarta_Selatan,Cilandak,Drug Possession
+1334,10/23/2021,17,-6.296712068,106.7773505,Jakarta_Selatan,Cilandak,Indecent Exposure
+1335,11/16/2021,3,-6.293188993,106.7765559,Jakarta_Selatan,Cilandak,Murder: First-degree
+1336,9/23/2021,14,-6.293019136,106.7791139,Jakarta_Selatan,Cilandak,Theft
+1337,11/4/2021,9,-6.296973268,106.7789906,Jakarta_Selatan,Cilandak,Statutory Rape
+1338,8/24/2021,2,-6.294355523,106.7799769,Jakarta_Selatan,Cilandak,Public Intoxication
+1339,12/15/2021,17,-6.293051089,106.778529,Jakarta_Selatan,Cilandak,Rape
+1340,1/4/2021,2,-6.295897904,106.7766462,Jakarta_Selatan,Cilandak,Credit / Debit Card Fraud
+1341,6/1/2021,16,-6.297034467,106.7775049,Jakarta_Selatan,Cilandak,Statutory Rape
+1342,7/8/2021,19,-6.295079743,106.7789399,Jakarta_Selatan,Cilandak,Rape
+1343,1/14/2021,6,-6.282529513,106.796371,Jakarta_Selatan,Cilandak,Solicitation
+1344,9/13/2021,14,-6.283852861,106.7963688,Jakarta_Selatan,Cilandak,Forgery
+1345,3/24/2021,1,-6.283762524,106.7961792,Jakarta_Selatan,Cilandak,Wire Fraud
+1346,3/29/2021,1,-6.280077811,106.7962601,Jakarta_Selatan,Cilandak,Murder: Second-degree
+1347,1/7/2021,17,-6.282578615,106.7968359,Jakarta_Selatan,Cilandak,Aggravated Assault
+1348,3/14/2021,3,-6.280413106,106.7965573,Jakarta_Selatan,Cilandak,Aggravated Assault
+1349,11/1/2021,0,-6.281955146,106.7967088,Jakarta_Selatan,Cilandak,Indecent Exposure
+1350,2/5/2021,14,-6.281278791,106.7958823,Jakarta_Selatan,Cilandak,Murder: First-degree
+1351,5/30/2021,3,-6.281324538,106.7968368,Jakarta_Selatan,Cilandak,Drug Manufacturing and Cultivation
+1352,5/2/2021,3,-6.283342909,106.7965629,Jakarta_Selatan,Cilandak,Arson
+1353,8/14/2021,20,-6.280970315,106.796764,Jakarta_Selatan,Cilandak,Aggravated Assault
+1354,6/10/2021,12,-6.280595061,106.7958224,Jakarta_Selatan,Cilandak,Rape
+1355,3/8/2021,5,-6.269769257,106.8085319,Jakarta_Selatan,Cilandak,Homicide
+1356,1/30/2021,23,-6.275274131,106.8085048,Jakarta_Selatan,Cilandak,Hate Crimes
+1357,7/12/2021,2,-6.27481951,106.8085288,Jakarta_Selatan,Cilandak,Aggravated Assault
+1358,11/10/2021,2,-6.27671322,106.8083488,Jakarta_Selatan,Cilandak,Murder: First-degree
+1359,11/4/2021,20,-6.276600675,106.8084122,Jakarta_Selatan,Cilandak,Kidnapping
+1360,2/13/2021,8,-6.275685683,106.8085941,Jakarta_Selatan,Cilandak,Prostitution
+1361,4/13/2021,12,-6.276264506,106.8084019,Jakarta_Selatan,Cilandak,Insurance Fraud
+1362,6/25/2021,13,-6.271558098,106.8085414,Jakarta_Selatan,Cilandak,Harassment
+1363,6/10/2021,23,-6.274204261,106.8086183,Jakarta_Selatan,Cilandak,Aggravated Assault
+1364,3/13/2021,6,-6.272157968,106.8084684,Jakarta_Selatan,Cilandak,Rape
+1365,9/23/2021,20,-6.273119727,106.8083997,Jakarta_Selatan,Cilandak,Assault / Battery
+1366,11/29/2021,17,-6.272123871,106.8085948,Jakarta_Selatan,Cilandak,Assault / Battery
+1367,2/7/2021,18,-6.271903088,106.8083717,Jakarta_Selatan,Cilandak,Domestic Violence
+1368,9/24/2021,18,-6.2760359,106.8085331,Jakarta_Selatan,Cilandak,Homicide
+1369,10/20/2021,4,-6.364086244,106.7983675,Jakarta_Selatan,Jagakarsa,Sexual Assault
+1370,9/17/2021,9,-6.363849655,106.7990549,Jakarta_Selatan,Jagakarsa,Wire Fraud
+1371,10/30/2021,4,-6.363853896,106.7985057,Jakarta_Selatan,Jagakarsa,Sexual Assault
+1372,12/27/2021,0,-6.363994645,106.7993481,Jakarta_Selatan,Jagakarsa,Stalking
+1373,12/4/2021,22,-6.363799954,106.7995569,Jakarta_Selatan,Jagakarsa,Robbery
+1374,12/26/2021,22,-6.363695992,106.7995294,Jakarta_Selatan,Jagakarsa,Murder: Second-degree
+1375,11/29/2021,11,-6.363767974,106.7992568,Jakarta_Selatan,Jagakarsa,Manslaughter: Voluntary
+1376,3/19/2021,5,-6.364022582,106.7983599,Jakarta_Selatan,Jagakarsa,Statutory Rape
+1377,3/6/2021,10,-6.363841465,106.7995465,Jakarta_Selatan,Jagakarsa,Theft
+1378,2/6/2021,2,-6.364167315,106.7983571,Jakarta_Selatan,Jagakarsa,Aggravated Assault
+1379,1/30/2021,1,-6.36413123,106.7991395,Jakarta_Selatan,Jagakarsa,Hate Crimes
+1380,2/14/2021,11,-6.356865629,106.8007813,Jakarta_Selatan,Jagakarsa,Murder: First-degree
+1381,8/14/2021,17,-6.356115754,106.8010455,Jakarta_Selatan,Jagakarsa,Harassment
+1382,7/2/2021,10,-6.357450145,106.8009358,Jakarta_Selatan,Jagakarsa,Homicide
+1383,1/17/2021,17,-6.356602222,106.8006541,Jakarta_Selatan,Jagakarsa,Robbery
+1384,7/2/2021,17,-6.356618293,106.8007739,Jakarta_Selatan,Jagakarsa,Extortion
+1385,6/12/2021,9,-6.356286338,106.8008489,Jakarta_Selatan,Jagakarsa,Rape
+1386,10/14/2021,7,-6.357768994,106.8007528,Jakarta_Selatan,Jagakarsa,Assault / Battery
+1387,7/29/2021,14,-6.356117423,106.8006734,Jakarta_Selatan,Jagakarsa,Arson
+1388,2/20/2021,15,-6.356384151,106.8009284,Jakarta_Selatan,Jagakarsa,Attempt
+1389,7/21/2021,14,-6.356454009,106.800939,Jakarta_Selatan,Jagakarsa,Kidnapping
+1390,5/29/2021,3,-6.35759788,106.8007016,Jakarta_Selatan,Jagakarsa,Robbery
+1391,12/12/2021,1,-6.35724489,106.8009527,Jakarta_Selatan,Jagakarsa,Aggravated Assault
+1392,10/24/2021,2,-6.344913518,106.8076599,Jakarta_Selatan,Jagakarsa,Statutory Rape
+1393,7/11/2021,12,-6.345064051,106.8078951,Jakarta_Selatan,Jagakarsa,Pyramid Schemes
+1394,11/8/2021,21,-6.344894045,106.8072156,Jakarta_Selatan,Jagakarsa,Homicide
+1395,2/16/2021,19,-6.344891177,106.8064977,Jakarta_Selatan,Jagakarsa,Aggravated Assault
+1396,5/1/2021,14,-6.345045189,106.8071644,Jakarta_Selatan,Jagakarsa,Indecent Exposure
+1397,8/24/2021,11,-6.345036088,106.8081204,Jakarta_Selatan,Jagakarsa,Robbery
+1398,3/10/2021,6,-6.344960479,106.807245,Jakarta_Selatan,Jagakarsa,Harassment
+1399,6/26/2021,10,-6.345066123,106.8066442,Jakarta_Selatan,Jagakarsa,Probation Violation
+1400,6/15/2021,6,-6.344874834,106.8075648,Jakarta_Selatan,Jagakarsa,Medical Marijuana
+1401,5/3/2021,7,-6.344898772,106.8068991,Jakarta_Selatan,Jagakarsa,Sexual Assault
+1402,1/27/2021,18,-6.326308286,106.8193088,Jakarta_Selatan,Jagakarsa,Theft
+1403,6/6/2021,15,-6.326444804,106.8192759,Jakarta_Selatan,Jagakarsa,Murder: Second-degree
+1404,9/7/2021,4,-6.326496632,106.8198205,Jakarta_Selatan,Jagakarsa,Securities Fraud
+1405,1/1/2021,16,-6.327090603,106.8194118,Jakarta_Selatan,Jagakarsa,Probation Violation
+1406,1/11/2021,4,-6.327203086,106.819195,Jakarta_Selatan,Jagakarsa,Rape
+1407,11/24/2021,2,-6.326704087,106.8194282,Jakarta_Selatan,Jagakarsa,Sexual Assault
+1408,1/20/2021,10,-6.326608536,106.8190709,Jakarta_Selatan,Jagakarsa,Attempt
+1409,7/26/2021,7,-6.312633701,106.8258754,Jakarta_Selatan,Jagakarsa,Assault / Battery
+1410,5/16/2021,6,-6.312975308,106.8254687,Jakarta_Selatan,Jagakarsa,Manslaughter: Voluntary
+1411,1/24/2021,13,-6.312841444,106.8255584,Jakarta_Selatan,Jagakarsa,Conspiracy
+1412,6/10/2021,16,-6.311932033,106.8255151,Jakarta_Selatan,Jagakarsa,Attempt
+1413,3/24/2021,16,-6.312459315,106.8258887,Jakarta_Selatan,Jagakarsa,Manslaughter: Voluntary
+1414,3/21/2021,20,-6.313737062,106.8259876,Jakarta_Selatan,Jagakarsa,Public Intoxication
+1415,11/5/2021,23,-6.312224792,106.8258884,Jakarta_Selatan,Jagakarsa,Theft
+1416,5/10/2021,10,-6.313551142,106.8256119,Jakarta_Selatan,Jagakarsa,Arson
+1417,11/8/2021,2,-6.31262391,106.8258446,Jakarta_Selatan,Jagakarsa,Attempt
+1418,5/15/2021,6,-6.312828022,106.8255225,Jakarta_Selatan,Jagakarsa,Probation Violation
+1419,4/4/2021,22,-6.311676449,106.825666,Jakarta_Selatan,Jagakarsa,Rape
+1420,6/28/2021,9,-6.313123666,106.8255918,Jakarta_Selatan,Jagakarsa,Harassment
+1421,5/29/2021,13,-6.242445606,106.7984042,Jakarta_Selatan,Kebayoran_Baru,Aiding and Abetting / Accessory
+1422,2/17/2021,9,-6.242561186,106.7983773,Jakarta_Selatan,Kebayoran_Baru,Theft
+1423,1/11/2021,19,-6.242273342,106.7983737,Jakarta_Selatan,Kebayoran_Baru,Stalking
+1424,1/5/2021,8,-6.24239437,106.7983675,Jakarta_Selatan,Kebayoran_Baru,Manslaughter: Voluntary
+1425,3/8/2021,8,-6.242333269,106.7983652,Jakarta_Selatan,Kebayoran_Baru,Kidnapping
+1426,8/5/2021,23,-6.242289735,106.7983995,Jakarta_Selatan,Kebayoran_Baru,Manslaughter: Voluntary
+1427,2/12/2021,9,-6.242566865,106.7983936,Jakarta_Selatan,Kebayoran_Baru,Medical Marijuana
+1428,2/21/2021,19,-6.242476941,106.798392,Jakarta_Selatan,Kebayoran_Baru,Sexual Assault
+1429,11/3/2021,15,-6.242330243,106.7983726,Jakarta_Selatan,Kebayoran_Baru,Stalking
+1430,9/21/2021,14,-6.24231263,106.7983717,Jakarta_Selatan,Kebayoran_Baru,Statutory Rape
+1431,9/13/2021,15,-6.24233078,106.7983639,Jakarta_Selatan,Kebayoran_Baru,Murder: First-degree
+1432,6/30/2021,12,-6.242310873,106.7983717,Jakarta_Selatan,Kebayoran_Baru,Rape
+1433,11/18/2021,8,-6.244667599,106.8033535,Jakarta_Selatan,Kebayoran_Baru,Harassment
+1434,6/30/2021,1,-6.245721908,106.8034706,Jakarta_Selatan,Kebayoran_Baru,Manslaughter: Voluntary
+1435,1/20/2021,14,-6.244176762,106.8036788,Jakarta_Selatan,Kebayoran_Baru,Domestic Violence
+1436,2/19/2021,20,-6.245423771,106.8034575,Jakarta_Selatan,Kebayoran_Baru,Kidnapping
+1437,2/5/2021,11,-6.244353856,106.8041623,Jakarta_Selatan,Kebayoran_Baru,Stalking
+1438,12/11/2021,5,-6.24460359,106.8038689,Jakarta_Selatan,Kebayoran_Baru,Aiding and Abetting / Accessory
+1439,9/7/2021,5,-6.243944663,106.8036945,Jakarta_Selatan,Kebayoran_Baru,Murder: First-degree
+1440,4/2/2021,7,-6.243913791,106.8042256,Jakarta_Selatan,Kebayoran_Baru,Hate Crimes
+1441,11/21/2021,17,-6.245280127,106.8035542,Jakarta_Selatan,Kebayoran_Baru,Theft
+1442,12/6/2021,5,-6.245505209,106.8034091,Jakarta_Selatan,Kebayoran_Baru,Arson
+1443,1/5/2021,18,-6.244161929,106.8034707,Jakarta_Selatan,Kebayoran_Baru,Sexual Assault
+1444,7/11/2021,12,-6.230650035,106.8075917,Jakarta_Selatan,Kebayoran_Baru,Kidnapping
+1445,2/25/2021,20,-6.230660706,106.8077432,Jakarta_Selatan,Kebayoran_Baru,Aggravated Assault
+1446,5/25/2021,7,-6.230661355,106.8076782,Jakarta_Selatan,Kebayoran_Baru,Theft
+1447,4/13/2021,18,-6.230646716,106.8076478,Jakarta_Selatan,Kebayoran_Baru,Sexual Assault
+1448,3/12/2021,5,-6.230642984,106.8077209,Jakarta_Selatan,Kebayoran_Baru,Theft
+1449,11/1/2021,5,-6.230659487,106.8076462,Jakarta_Selatan,Kebayoran_Baru,Rape
+1450,9/1/2021,9,-6.230640949,106.8075713,Jakarta_Selatan,Kebayoran_Baru,Robbery
+1451,3/12/2021,19,-6.230644109,106.8076585,Jakarta_Selatan,Kebayoran_Baru,Harassment
+1452,6/28/2021,12,-6.23064467,106.8076724,Jakarta_Selatan,Kebayoran_Baru,Harassment
+1453,2/23/2021,21,-6.230653451,106.8076556,Jakarta_Selatan,Kebayoran_Baru,Drug Possession
+1454,4/17/2021,14,-6.230648436,106.8076402,Jakarta_Selatan,Kebayoran_Baru,Robbery
+1455,10/1/2021,0,-6.238702855,106.8147896,Jakarta_Selatan,Kebayoran_Baru,Child Pornography
+1456,12/9/2021,18,-6.238262372,106.8148174,Jakarta_Selatan,Kebayoran_Baru,Conspiracy
+1457,5/9/2021,8,-6.238571614,106.8147009,Jakarta_Selatan,Kebayoran_Baru,Murder: First-degree
+1458,6/11/2021,6,-6.238867479,106.8149103,Jakarta_Selatan,Kebayoran_Baru,Statutory Rape
+1459,2/5/2021,9,-6.238348219,106.8147434,Jakarta_Selatan,Kebayoran_Baru,Aggravated Assault
+1460,9/10/2021,16,-6.238886717,106.814689,Jakarta_Selatan,Kebayoran_Baru,Child Pornography
+1461,7/26/2021,8,-6.23844296,106.8148709,Jakarta_Selatan,Kebayoran_Baru,Rape
+1462,4/17/2021,10,-6.238728194,106.8147306,Jakarta_Selatan,Kebayoran_Baru,Cyberbullying
+1463,7/25/2021,12,-6.238605127,106.8148408,Jakarta_Selatan,Kebayoran_Baru,Securities Fraud
+1464,1/4/2021,8,-6.238844942,106.8147522,Jakarta_Selatan,Kebayoran_Baru,Public Intoxication
+1465,12/11/2021,7,-6.232182308,106.7927431,Jakarta_Selatan,Kebayoran_Baru,Robbery
+1466,6/11/2021,10,-6.23191346,106.792603,Jakarta_Selatan,Kebayoran_Baru,Disorderly Conduct
+1467,8/24/2021,3,-6.231925473,106.792425,Jakarta_Selatan,Kebayoran_Baru,Hate Crimes
+1468,11/16/2021,8,-6.231981479,106.7927463,Jakarta_Selatan,Kebayoran_Baru,Drug Possession
+1469,7/21/2021,11,-6.232226002,106.7923529,Jakarta_Selatan,Kebayoran_Baru,Homicide
+1470,10/21/2021,7,-6.23195157,106.7920274,Jakarta_Selatan,Kebayoran_Baru,Rape
+1471,12/15/2021,12,-6.231994708,106.7918815,Jakarta_Selatan,Kebayoran_Baru,Arson
+1472,2/15/2021,6,-6.232066478,106.7922402,Jakarta_Selatan,Kebayoran_Baru,Identity Theft
+1473,9/28/2021,4,-6.232158022,106.7918279,Jakarta_Selatan,Kebayoran_Baru,Disorderly Conduct
+1474,8/2/2021,8,-6.232007911,106.7921321,Jakarta_Selatan,Kebayoran_Baru,Manslaughter: Voluntary
+1475,10/20/2021,18,-6.232146004,106.7923373,Jakarta_Selatan,Kebayoran_Baru,Drug Manufacturing and Cultivation
+1476,6/6/2021,0,-6.231933236,106.7917706,Jakarta_Selatan,Kebayoran_Baru,Murder: First-degree
+1477,6/13/2021,16,-6.22207708,106.7842871,Jakarta_Selatan,Kebayoran_Lama,Assault / Battery
+1478,6/30/2021,19,-6.22120203,106.7835764,Jakarta_Selatan,Kebayoran_Lama,Stalking
+1479,5/22/2021,14,-6.22114994,106.783917,Jakarta_Selatan,Kebayoran_Lama,White Collar Crimes
+1480,6/23/2021,11,-6.22236105,106.7823412,Jakarta_Selatan,Kebayoran_Lama,Murder: First-degree
+1481,7/2/2021,4,-6.221581527,106.7838816,Jakarta_Selatan,Kebayoran_Lama,Aggravated Assault
+1482,7/15/2021,18,-6.2211029,106.7827735,Jakarta_Selatan,Kebayoran_Lama,Drug Possession
+1483,4/22/2021,2,-6.221588181,106.7824293,Jakarta_Selatan,Kebayoran_Lama,Domestic Violence
+1484,5/14/2021,12,-6.222438509,106.7847511,Jakarta_Selatan,Kebayoran_Lama,Theft
+1485,6/8/2021,9,-6.221934677,106.7846422,Jakarta_Selatan,Kebayoran_Lama,Rape
+1486,6/18/2021,7,-6.221051125,106.7843584,Jakarta_Selatan,Kebayoran_Lama,Homicide
+1487,6/14/2021,8,-6.214216967,106.7877349,Jakarta_Selatan,Kebayoran_Lama,Kidnapping
+1488,5/5/2021,5,-6.215912002,106.7877557,Jakarta_Selatan,Kebayoran_Lama,Attempt
+1489,4/11/2021,21,-6.213944199,106.7877369,Jakarta_Selatan,Kebayoran_Lama,Robbery
+1490,2/3/2021,7,-6.21412455,106.7877398,Jakarta_Selatan,Kebayoran_Lama,Insurance Fraud
+1491,5/5/2021,8,-6.214407843,106.7877458,Jakarta_Selatan,Kebayoran_Lama,Homicide
+1492,4/24/2021,15,-6.216394562,106.7877372,Jakarta_Selatan,Kebayoran_Lama,Homicide
+1493,6/7/2021,4,-6.216444406,106.7877436,Jakarta_Selatan,Kebayoran_Lama,Harassment
+1494,8/21/2021,12,-6.216234981,106.787763,Jakarta_Selatan,Kebayoran_Lama,Child Pornography
+1495,11/24/2021,18,-6.215206704,106.7877289,Jakarta_Selatan,Kebayoran_Lama,Stalking
+1496,6/19/2021,5,-6.216660218,106.7877318,Jakarta_Selatan,Kebayoran_Lama,Murder: Second-degree
+1497,2/20/2021,5,-6.232230509,106.7801618,Jakarta_Selatan,Kebayoran_Lama,Aggravated Assault
+1498,8/30/2021,17,-6.233236128,106.7797479,Jakarta_Selatan,Kebayoran_Lama,Assault / Battery
+1499,5/13/2021,8,-6.23086794,106.7797234,Jakarta_Selatan,Kebayoran_Lama,Harassment
+1500,5/6/2021,13,-6.235731822,106.7795557,Jakarta_Selatan,Kebayoran_Lama,Theft
+1501,6/19/2021,20,-6.234779047,106.7794079,Jakarta_Selatan,Kebayoran_Lama,Murder: Second-degree
+1502,4/4/2021,16,-6.230178904,106.779882,Jakarta_Selatan,Kebayoran_Lama,Robbery
+1503,9/23/2021,19,-6.233422185,106.7799867,Jakarta_Selatan,Kebayoran_Lama,Sexual Assault
+1504,12/16/2021,3,-6.230184177,106.779793,Jakarta_Selatan,Kebayoran_Lama,Arson
+1505,3/1/2021,7,-6.23608535,106.7821998,Jakarta_Selatan,Kebayoran_Lama,Kidnapping
+1506,12/29/2021,19,-6.238342445,106.7827345,Jakarta_Selatan,Kebayoran_Lama,Assault / Battery
+1507,7/21/2021,8,-6.237187007,106.7821583,Jakarta_Selatan,Kebayoran_Lama,Attempt
+1508,8/15/2021,5,-6.23833391,106.7825478,Jakarta_Selatan,Kebayoran_Lama,Bribery
+1509,12/28/2021,23,-6.237760343,106.7819858,Jakarta_Selatan,Kebayoran_Lama,Assault / Battery
+1510,6/3/2021,18,-6.237530921,106.782142,Jakarta_Selatan,Kebayoran_Lama,Homicide
+1511,1/7/2021,10,-6.238256576,106.7827811,Jakarta_Selatan,Kebayoran_Lama,Manslaughter: Voluntary
+1512,4/1/2021,14,-6.235698384,106.7825722,Jakarta_Selatan,Kebayoran_Lama,Statutory Rape
+1513,5/4/2021,0,-6.23783744,106.7822499,Jakarta_Selatan,Kebayoran_Lama,Aiding and Abetting / Accessory
+1514,4/1/2021,15,-6.236201118,106.7820979,Jakarta_Selatan,Kebayoran_Lama,Robbery
+1515,5/19/2021,6,-6.238268153,106.7770977,Jakarta_Selatan,Kebayoran_Lama,Disorderly Conduct
+1516,11/30/2021,1,-6.238223391,106.7752592,Jakarta_Selatan,Kebayoran_Lama,Theft
+1517,12/13/2021,11,-6.238195024,106.7761977,Jakarta_Selatan,Kebayoran_Lama,Embezzlement
+1518,12/16/2021,9,-6.23826834,106.7738635,Jakarta_Selatan,Kebayoran_Lama,Homicide
+1519,4/14/2021,19,-6.238161845,106.7769088,Jakarta_Selatan,Kebayoran_Lama,Criminal Contempt of Court
+1520,11/19/2021,4,-6.238218194,106.7746044,Jakarta_Selatan,Kebayoran_Lama,Aggravated Assault
+1521,3/4/2021,21,-6.238260204,106.7754769,Jakarta_Selatan,Kebayoran_Lama,Pyramid Schemes
+1522,10/30/2021,3,-6.23823838,106.7740976,Jakarta_Selatan,Kebayoran_Lama,Criminal Contempt of Court
+1523,3/24/2021,5,-6.238155038,106.7747047,Jakarta_Selatan,Kebayoran_Lama,Bribery
+1524,12/29/2021,21,-6.265359361,106.7754624,Jakarta_Selatan,Kebayoran_Lama,Assault / Battery
+1525,3/8/2021,15,-6.262336589,106.7754541,Jakarta_Selatan,Kebayoran_Lama,Insurance Fraud
+1526,7/22/2021,21,-6.265826625,106.7756054,Jakarta_Selatan,Kebayoran_Lama,Manslaughter: Voluntary
+1527,1/6/2021,16,-6.265458829,106.7750588,Jakarta_Selatan,Kebayoran_Lama,Theft
+1528,10/31/2021,11,-6.261888469,106.7753541,Jakarta_Selatan,Kebayoran_Lama,Statutory Rape
+1529,9/16/2021,7,-6.265075252,106.7750635,Jakarta_Selatan,Kebayoran_Lama,Theft
+1530,3/3/2021,16,-6.266910865,106.7751591,Jakarta_Selatan,Kebayoran_Lama,Extortion
+1531,6/10/2021,11,-6.264509676,106.77561,Jakarta_Selatan,Kebayoran_Lama,Murder: First-degree
+1532,1/2/2021,17,-6.261263147,106.7752886,Jakarta_Selatan,Kebayoran_Lama,Aggravated Assault
+1533,4/17/2021,10,-6.266343754,106.7823493,Jakarta_Selatan,Kebayoran_Lama,Attempt
+1534,10/13/2021,12,-6.264565713,106.7820197,Jakarta_Selatan,Kebayoran_Lama,Sexual Assault
+1535,4/12/2021,10,-6.264470606,106.7795141,Jakarta_Selatan,Kebayoran_Lama,Manslaughter: Involuntary
+1536,11/27/2021,11,-6.265500235,106.780323,Jakarta_Selatan,Kebayoran_Lama,Stalking
+1537,12/15/2021,8,-6.266419365,106.7792262,Jakarta_Selatan,Kebayoran_Lama,Manslaughter: Voluntary
+1538,1/25/2021,20,-6.264922071,106.7812572,Jakarta_Selatan,Kebayoran_Lama,Homicide
+1539,1/29/2021,12,-6.264305327,106.7815927,Jakarta_Selatan,Kebayoran_Lama,Criminal Contempt of Court
+1540,6/3/2021,18,-6.266995287,106.7825902,Jakarta_Selatan,Kebayoran_Lama,Credit / Debit Card Fraud
+1541,11/7/2021,0,-6.265791405,106.7807825,Jakarta_Selatan,Kebayoran_Lama,Theft
+1542,9/24/2021,11,-6.264339944,106.7811968,Jakarta_Selatan,Kebayoran_Lama,Pyramid Schemes
+1543,11/21/2021,2,-6.265738419,106.7825282,Jakarta_Selatan,Kebayoran_Lama,Shoplifting
+1544,11/3/2021,0,-6.240164755,106.8246466,Jakarta_Selatan,Mampang_Prapatan,Murder: Second-degree
+1545,2/17/2021,3,-6.240196161,106.8250572,Jakarta_Selatan,Mampang_Prapatan,Murder: Second-degree
+1546,8/12/2021,1,-6.240169486,106.8235395,Jakarta_Selatan,Mampang_Prapatan,Murder: Second-degree
+1547,8/28/2021,6,-6.240204932,106.8246336,Jakarta_Selatan,Mampang_Prapatan,Manslaughter: Voluntary
+1548,7/21/2021,7,-6.240197866,106.8249828,Jakarta_Selatan,Mampang_Prapatan,Statutory Rape
+1549,7/18/2021,7,-6.240235067,106.8244774,Jakarta_Selatan,Mampang_Prapatan,Harassment
+1550,10/24/2021,20,-6.240164388,106.8246171,Jakarta_Selatan,Mampang_Prapatan,Open Container (of alcohol)
+1551,9/30/2021,14,-6.240193225,106.8228427,Jakarta_Selatan,Mampang_Prapatan,Solicitation
+1552,12/12/2021,21,-6.240181836,106.823668,Jakarta_Selatan,Mampang_Prapatan,Manslaughter: Voluntary
+1553,11/30/2021,0,-6.244348316,106.8264066,Jakarta_Selatan,Mampang_Prapatan,Theft
+1554,11/30/2021,17,-6.242876682,106.8257093,Jakarta_Selatan,Mampang_Prapatan,Assault / Battery
+1555,5/11/2021,8,-6.247838516,106.826445,Jakarta_Selatan,Mampang_Prapatan,Drug Manufacturing and Cultivation
+1556,4/3/2021,14,-6.24744632,106.8262644,Jakarta_Selatan,Mampang_Prapatan,Murder: First-degree
+1557,7/21/2021,19,-6.243857805,106.8264347,Jakarta_Selatan,Mampang_Prapatan,Stalking
+1558,3/16/2021,21,-6.249631121,106.8261198,Jakarta_Selatan,Mampang_Prapatan,Kidnapping
+1559,7/19/2021,16,-6.245655456,106.8266845,Jakarta_Selatan,Mampang_Prapatan,Kidnapping
+1560,7/15/2021,3,-6.245318761,106.8265973,Jakarta_Selatan,Mampang_Prapatan,Theft
+1561,12/17/2021,16,-6.24302847,106.8255999,Jakarta_Selatan,Mampang_Prapatan,Theft
+1562,12/18/2021,21,-6.242748237,106.8259186,Jakarta_Selatan,Mampang_Prapatan,Aggravated Assault
+1563,10/14/2021,23,-6.257393818,106.8183561,Jakarta_Selatan,Mampang_Prapatan,Identity Theft
+1564,6/14/2021,21,-6.257346354,106.8173523,Jakarta_Selatan,Mampang_Prapatan,Stalking
+1565,4/20/2021,1,-6.257164411,106.8198936,Jakarta_Selatan,Mampang_Prapatan,Theft
+1566,1/17/2021,22,-6.257510117,106.8197056,Jakarta_Selatan,Mampang_Prapatan,Child Pornography
+1567,9/11/2021,5,-6.25714274,106.8192744,Jakarta_Selatan,Mampang_Prapatan,Theft
+1568,10/15/2021,4,-6.257285176,106.819096,Jakarta_Selatan,Mampang_Prapatan,Drug Manufacturing and Cultivation
+1569,7/8/2021,16,-6.257472504,106.8189344,Jakarta_Selatan,Mampang_Prapatan,Wire Fraud
+1570,3/31/2021,9,-6.25748386,106.8191414,Jakarta_Selatan,Mampang_Prapatan,Rape
+1571,10/19/2021,13,-6.257547814,106.8189499,Jakarta_Selatan,Mampang_Prapatan,Theft
+1572,6/18/2021,7,-6.257225967,106.8167398,Jakarta_Selatan,Mampang_Prapatan,Medical Marijuana
+1573,10/16/2021,18,-6.257580252,106.817101,Jakarta_Selatan,Mampang_Prapatan,Statutory Rape
+1574,8/30/2021,13,-6.257231622,106.8175194,Jakarta_Selatan,Mampang_Prapatan,Murder: First-degree
+1575,2/14/2021,20,-6.257214015,106.8192093,Jakarta_Selatan,Mampang_Prapatan,Sexual Assault
+1576,10/9/2021,1,-6.257237899,106.818717,Jakarta_Selatan,Mampang_Prapatan,Disorderly Conduct
+1577,6/28/2021,11,-6.257484664,106.8182286,Jakarta_Selatan,Mampang_Prapatan,Public Intoxication
+1578,1/13/2021,3,-6.265720208,106.8159806,Jakarta_Selatan,Mampang_Prapatan,Arson
+1579,7/3/2021,17,-6.265699637,106.8159606,Jakarta_Selatan,Mampang_Prapatan,Criminal Contempt of Court
+1580,11/6/2021,22,-6.26565299,106.8159637,Jakarta_Selatan,Mampang_Prapatan,Aiding and Abetting / Accessory
+1581,9/23/2021,9,-6.266033018,106.815956,Jakarta_Selatan,Mampang_Prapatan,Stalking
+1582,7/2/2021,13,-6.2658355,106.8159651,Jakarta_Selatan,Mampang_Prapatan,Theft
+1583,10/17/2021,23,-6.265900674,106.8159595,Jakarta_Selatan,Mampang_Prapatan,Manslaughter: Voluntary
+1584,9/8/2021,16,-6.265737205,106.8159828,Jakarta_Selatan,Mampang_Prapatan,Tax Evasion / Fraud
+1585,11/4/2021,8,-6.266052494,106.8159778,Jakarta_Selatan,Mampang_Prapatan,Aggravated Assault
+1586,7/19/2021,4,-6.265744977,106.8159573,Jakarta_Selatan,Mampang_Prapatan,Rape
+1587,5/19/2021,20,-6.266074079,106.8159709,Jakarta_Selatan,Mampang_Prapatan,Sexual Assault
+1588,3/25/2021,0,-6.246869915,106.8151814,Jakarta_Selatan,Mampang_Prapatan,Murder: Second-degree
+1589,7/10/2021,5,-6.247674026,106.8150357,Jakarta_Selatan,Mampang_Prapatan,Robbery
+1590,1/21/2021,9,-6.247544751,106.8151863,Jakarta_Selatan,Mampang_Prapatan,Solicitation
+1591,11/5/2021,0,-6.246901792,106.8152195,Jakarta_Selatan,Mampang_Prapatan,Harassment
+1592,8/3/2021,15,-6.247574631,106.814971,Jakarta_Selatan,Mampang_Prapatan,Robbery
+1593,12/20/2021,11,-6.246523293,106.8153193,Jakarta_Selatan,Mampang_Prapatan,Statutory Rape
+1594,7/22/2021,4,-6.247629366,106.8152752,Jakarta_Selatan,Mampang_Prapatan,Murder: First-degree
+1595,4/26/2021,12,-6.245676153,106.8151864,Jakarta_Selatan,Mampang_Prapatan,Theft
+1596,9/9/2021,12,-6.247076264,106.8152869,Jakarta_Selatan,Mampang_Prapatan,Attempt
+1597,9/25/2021,6,-6.245914207,106.8152702,Jakarta_Selatan,Mampang_Prapatan,Harassment
+1598,3/24/2021,14,-6.246928756,106.8151552,Jakarta_Selatan,Mampang_Prapatan,Stalking
+1599,10/25/2021,11,-6.247608417,106.8152841,Jakarta_Selatan,Mampang_Prapatan,Theft
+1600,1/3/2021,9,-6.245623671,106.8154372,Jakarta_Selatan,Mampang_Prapatan,Arson
+1601,9/5/2021,22,-6.26232422,106.829903,Jakarta_Selatan,Pancoran,Rape
+1602,7/14/2021,6,-6.260130354,106.8293811,Jakarta_Selatan,Pancoran,Murder: First-degree
+1603,9/19/2021,2,-6.262508863,106.8305847,Jakarta_Selatan,Pancoran,Assault / Battery
+1604,11/27/2021,5,-6.261040998,106.8303111,Jakarta_Selatan,Pancoran,Homicide
+1605,11/5/2021,4,-6.260570115,106.8292463,Jakarta_Selatan,Pancoran,Robbery
+1606,9/16/2021,15,-6.261628075,106.828908,Jakarta_Selatan,Pancoran,Arson
+1607,12/20/2021,12,-6.262224002,106.830404,Jakarta_Selatan,Pancoran,Securities Fraud
+1608,8/8/2021,4,-6.262594695,106.8296334,Jakarta_Selatan,Pancoran,Harassment
+1609,9/10/2021,13,-6.260349432,106.8290456,Jakarta_Selatan,Pancoran,Pyramid Schemes
+1610,4/27/2021,16,-6.261951688,106.8296584,Jakarta_Selatan,Pancoran,Aggravated Assault
+1611,1/12/2021,17,-6.262115114,106.8299584,Jakarta_Selatan,Pancoran,Aggravated Assault
+1612,1/10/2021,21,-6.258824406,106.836195,Jakarta_Selatan,Pancoran,Open Container (of alcohol)
+1613,12/5/2021,9,-6.258892204,106.8346906,Jakarta_Selatan,Pancoran,Rape
+1614,11/12/2021,15,-6.258818108,106.8364593,Jakarta_Selatan,Pancoran,Rape
+1615,9/14/2021,10,-6.258912311,106.8364009,Jakarta_Selatan,Pancoran,Probation Violation
+1616,10/25/2021,22,-6.258878339,106.8348558,Jakarta_Selatan,Pancoran,Kidnapping
+1617,9/9/2021,20,-6.258820386,106.8342592,Jakarta_Selatan,Pancoran,Sexual Assault
+1618,7/21/2021,10,-6.25882661,106.8343456,Jakarta_Selatan,Pancoran,Aggravated Assault
+1619,9/21/2021,9,-6.255577906,106.8461385,Jakarta_Selatan,Pancoran,Harassment
+1620,2/23/2021,9,-6.255520774,106.8430825,Jakarta_Selatan,Pancoran,Sexual Assault
+1621,3/22/2021,13,-6.255530731,106.8456282,Jakarta_Selatan,Pancoran,Kidnapping
+1622,9/13/2021,21,-6.255542716,106.8462518,Jakarta_Selatan,Pancoran,Attempt
+1623,5/23/2021,7,-6.25553152,106.8454985,Jakarta_Selatan,Pancoran,Arson
+1624,6/5/2021,16,-6.255526801,106.8454409,Jakarta_Selatan,Pancoran,Theft
+1625,1/5/2021,22,-6.25555505,106.8462876,Jakarta_Selatan,Pancoran,Rape
+1626,3/28/2021,13,-6.255561017,106.8430801,Jakarta_Selatan,Pancoran,Homicide
+1627,5/31/2021,22,-6.255509471,106.8442271,Jakarta_Selatan,Pancoran,Vandalism
+1628,9/17/2021,19,-6.255567238,106.8440175,Jakarta_Selatan,Pancoran,Disturbing the Peace
+1629,10/31/2021,11,-6.245644246,106.842952,Jakarta_Selatan,Pancoran,Homicide
+1630,4/30/2021,16,-6.249324266,106.8431253,Jakarta_Selatan,Pancoran,Medical Marijuana
+1631,4/20/2021,23,-6.246640493,106.8428355,Jakarta_Selatan,Pancoran,Cyberbullying
+1632,12/8/2021,15,-6.245217331,106.8427091,Jakarta_Selatan,Pancoran,Robbery
+1633,10/6/2021,0,-6.244184245,106.8431535,Jakarta_Selatan,Pancoran,Manslaughter: Voluntary
+1634,7/24/2021,18,-6.246258654,106.8431184,Jakarta_Selatan,Pancoran,Disorderly Conduct
+1635,6/13/2021,16,-6.249441446,106.8431363,Jakarta_Selatan,Pancoran,Arson
+1636,2/28/2021,18,-6.247731633,106.8432858,Jakarta_Selatan,Pancoran,Solicitation
+1637,9/9/2021,12,-6.248407524,106.842949,Jakarta_Selatan,Pancoran,Harassment
+1638,6/16/2021,18,-6.250450532,106.8430227,Jakarta_Selatan,Pancoran,Theft
+1639,8/6/2021,18,-6.285143249,106.8438624,Jakarta_Selatan,Pasar_Minggu,Kidnapping
+1640,1/27/2021,18,-6.282560338,106.8441675,Jakarta_Selatan,Pasar_Minggu,Fraud
+1641,1/21/2021,6,-6.284690713,106.8438974,Jakarta_Selatan,Pasar_Minggu,Aggravated Assault
+1642,11/26/2021,8,-6.282731916,106.8440311,Jakarta_Selatan,Pasar_Minggu,Harassment
+1643,10/2/2021,14,-6.283155577,106.8444808,Jakarta_Selatan,Pasar_Minggu,Assault / Battery
+1644,12/14/2021,11,-6.282035617,106.844396,Jakarta_Selatan,Pasar_Minggu,Stalking
+1645,9/29/2021,0,-6.283118307,106.8444923,Jakarta_Selatan,Pasar_Minggu,Robbery
+1646,9/14/2021,21,-6.283806132,106.8440738,Jakarta_Selatan,Pasar_Minggu,Statutory Rape
+1647,12/13/2021,3,-6.290311965,106.842689,Jakarta_Selatan,Pasar_Minggu,Hate Crimes
+1648,3/27/2021,16,-6.292931709,106.8415116,Jakarta_Selatan,Pasar_Minggu,Embezzlement
+1649,3/1/2021,22,-6.291728956,106.8418767,Jakarta_Selatan,Pasar_Minggu,Manslaughter: Involuntary
+1650,2/24/2021,2,-6.29285942,106.8415796,Jakarta_Selatan,Pasar_Minggu,Telemarketing Fraud
+1651,8/15/2021,18,-6.290367566,106.8423585,Jakarta_Selatan,Pasar_Minggu,Medical Marijuana
+1652,10/14/2021,23,-6.291995213,106.8427655,Jakarta_Selatan,Pasar_Minggu,Harassment
+1653,5/14/2021,20,-6.291823668,106.8426866,Jakarta_Selatan,Pasar_Minggu,Murder: Second-degree
+1654,3/16/2021,18,-6.293346166,106.8427279,Jakarta_Selatan,Pasar_Minggu,Arson
+1655,10/2/2021,8,-6.29102562,106.8415456,Jakarta_Selatan,Pasar_Minggu,Tax Evasion / Fraud
+1656,2/11/2021,0,-6.290792558,106.8416491,Jakarta_Selatan,Pasar_Minggu,Manslaughter: Voluntary
+1657,2/19/2021,10,-6.302247486,106.8399752,Jakarta_Selatan,Pasar_Minggu,Theft
+1658,11/24/2021,5,-6.302160657,106.8398672,Jakarta_Selatan,Pasar_Minggu,Murder: Second-degree
+1659,12/6/2021,6,-6.301162452,106.8398746,Jakarta_Selatan,Pasar_Minggu,Kidnapping
+1660,5/10/2021,10,-6.301608925,106.8399524,Jakarta_Selatan,Pasar_Minggu,Manslaughter: Voluntary
+1661,6/1/2021,19,-6.302040398,106.8400088,Jakarta_Selatan,Pasar_Minggu,Assault / Battery
+1662,10/27/2021,2,-6.301623393,106.8399795,Jakarta_Selatan,Pasar_Minggu,Homicide
+1663,11/19/2021,5,-6.300189835,106.8398994,Jakarta_Selatan,Pasar_Minggu,Stalking
+1664,12/25/2021,1,-6.299248949,106.8361439,Jakarta_Selatan,Pasar_Minggu,Hate Crimes
+1665,2/21/2021,5,-6.300067289,106.836164,Jakarta_Selatan,Pasar_Minggu,Theft
+1666,2/1/2021,18,-6.299323568,106.8362335,Jakarta_Selatan,Pasar_Minggu,Statutory Rape
+1667,6/22/2021,20,-6.29990412,106.8362269,Jakarta_Selatan,Pasar_Minggu,Theft
+1668,6/22/2021,13,-6.299774838,106.8361651,Jakarta_Selatan,Pasar_Minggu,Manslaughter: Voluntary
+1669,5/1/2021,4,-6.299178148,106.8362024,Jakarta_Selatan,Pasar_Minggu,Homicide
+1670,9/19/2021,4,-6.299811327,106.8361492,Jakarta_Selatan,Pasar_Minggu,Sexual Assault
+1671,9/9/2021,19,-6.299444616,106.8362017,Jakarta_Selatan,Pasar_Minggu,Manslaughter: Involuntary
+1672,12/12/2021,13,-6.299815745,106.8361589,Jakarta_Selatan,Pasar_Minggu,Robbery
+1673,10/5/2021,22,-6.299605417,106.8362271,Jakarta_Selatan,Pasar_Minggu,Attempt
+1674,5/1/2021,22,-6.300177652,106.8362436,Jakarta_Selatan,Pasar_Minggu,Aggravated Assault
+1675,7/2/2021,16,-6.2996532,106.8362385,Jakarta_Selatan,Pasar_Minggu,Telemarketing Fraud
+1676,1/28/2021,15,-6.290166296,106.8444467,Jakarta_Selatan,Pasar_Minggu,Murder: First-degree
+1677,4/27/2021,13,-6.292240157,106.8441092,Jakarta_Selatan,Pasar_Minggu,Kidnapping
+1678,10/16/2021,10,-6.292152866,106.8439192,Jakarta_Selatan,Pasar_Minggu,Kidnapping
+1679,9/10/2021,1,-6.292326604,106.8439295,Jakarta_Selatan,Pasar_Minggu,Money Laundering
+1680,3/12/2021,8,-6.29243624,106.8443498,Jakarta_Selatan,Pasar_Minggu,Statutory Rape
+1681,2/19/2021,8,-6.291767017,106.8442354,Jakarta_Selatan,Pasar_Minggu,Harassment
+1682,5/10/2021,7,-6.290151453,106.8445946,Jakarta_Selatan,Pasar_Minggu,Homicide
+1683,7/15/2021,13,-6.292176891,106.8442195,Jakarta_Selatan,Pasar_Minggu,Aggravated Assault
+1684,6/2/2021,15,-6.290969101,106.8439564,Jakarta_Selatan,Pasar_Minggu,Sexual Assault
+1685,6/13/2021,23,-6.280090079,106.8429793,Jakarta_Selatan,Pasar_Minggu,Child Abuse
+1686,1/20/2021,1,-6.280098749,106.8423284,Jakarta_Selatan,Pasar_Minggu,Wire Fraud
+1687,3/26/2021,3,-6.280086013,106.8437659,Jakarta_Selatan,Pasar_Minggu,Assault / Battery
+1688,5/16/2021,10,-6.280085773,106.8420648,Jakarta_Selatan,Pasar_Minggu,Extortion
+1689,8/30/2021,2,-6.280096267,106.8424007,Jakarta_Selatan,Pasar_Minggu,Arson
+1690,1/2/2021,18,-6.280096496,106.8416985,Jakarta_Selatan,Pasar_Minggu,Theft
+1691,3/19/2021,18,-6.280085612,106.8423637,Jakarta_Selatan,Pasar_Minggu,Rape
+1692,8/12/2021,20,-6.28009768,106.8427636,Jakarta_Selatan,Pasar_Minggu,Rape
+1693,1/31/2021,12,-6.280103906,106.8426962,Jakarta_Selatan,Pasar_Minggu,Robbery
+1694,8/28/2021,6,-6.285322032,106.8411498,Jakarta_Selatan,Pasar_Minggu,Manslaughter: Voluntary
+1695,3/18/2021,21,-6.285427778,106.8399328,Jakarta_Selatan,Pasar_Minggu,Vandalism
+1696,7/31/2021,7,-6.285431511,106.8415067,Jakarta_Selatan,Pasar_Minggu,Probation Violation
+1697,12/24/2021,19,-6.28533961,106.8404828,Jakarta_Selatan,Pasar_Minggu,Homicide
+1698,12/12/2021,12,-6.285398465,106.8416451,Jakarta_Selatan,Pasar_Minggu,Statutory Rape
+1699,7/18/2021,6,-6.285401661,106.8418709,Jakarta_Selatan,Pasar_Minggu,Stalking
+1700,1/31/2021,5,-6.285383935,106.84027,Jakarta_Selatan,Pasar_Minggu,Arson
+1701,10/29/2021,21,-6.285165393,106.8394573,Jakarta_Selatan,Pasar_Minggu,Manslaughter: Voluntary
+1702,7/9/2021,3,-6.285316478,106.8424667,Jakarta_Selatan,Pasar_Minggu,Sexual Assault
+1703,9/17/2021,21,-6.285207858,106.838597,Jakarta_Selatan,Pasar_Minggu,Attempt
+1704,7/15/2021,14,-6.236635775,106.7522122,Jakarta_Selatan,Pesanggrahan,Homicide
+1705,1/3/2021,11,-6.236539835,106.7508085,Jakarta_Selatan,Pesanggrahan,Sexual Assault
+1706,4/22/2021,16,-6.23667561,106.74788,Jakarta_Selatan,Pesanggrahan,Kidnapping
+1707,5/23/2021,20,-6.236744694,106.747941,Jakarta_Selatan,Pesanggrahan,Public Intoxication
+1708,8/21/2021,2,-6.23645727,106.7525461,Jakarta_Selatan,Pesanggrahan,Assault / Battery
+1709,6/26/2021,22,-6.236775877,106.7484483,Jakarta_Selatan,Pesanggrahan,Murder: First-degree
+1710,2/22/2021,22,-6.236705941,106.7474705,Jakarta_Selatan,Pesanggrahan,Stalking
+1711,7/29/2021,1,-6.236548183,106.7511035,Jakarta_Selatan,Pesanggrahan,Homicide
+1712,10/22/2021,3,-6.236563297,106.7483374,Jakarta_Selatan,Pesanggrahan,Harassment
+1713,9/15/2021,9,-6.236494698,106.7524718,Jakarta_Selatan,Pesanggrahan,Harassment
+1714,10/16/2021,6,-6.241187705,106.7566193,Jakarta_Selatan,Pesanggrahan,Stalking
+1715,8/22/2021,6,-6.242748066,106.7566317,Jakarta_Selatan,Pesanggrahan,Arson
+1716,6/28/2021,13,-6.239839887,106.7566363,Jakarta_Selatan,Pesanggrahan,Vandalism
+1717,1/18/2021,21,-6.243692424,106.7569368,Jakarta_Selatan,Pesanggrahan,Rape
+1718,12/28/2021,9,-6.241153139,106.756894,Jakarta_Selatan,Pesanggrahan,Harassment
+1719,11/24/2021,17,-6.242685912,106.7567971,Jakarta_Selatan,Pesanggrahan,Attempt
+1720,12/1/2021,7,-6.244269922,106.756665,Jakarta_Selatan,Pesanggrahan,Aggravated Assault
+1721,12/5/2021,16,-6.240884938,106.7566746,Jakarta_Selatan,Pesanggrahan,Murder: First-degree
+1722,1/26/2021,18,-6.241960851,106.7569599,Jakarta_Selatan,Pesanggrahan,Sexual Assault
+1723,11/1/2021,3,-6.241858383,106.7567164,Jakarta_Selatan,Pesanggrahan,Manslaughter: Voluntary
+1724,3/16/2021,11,-6.226406887,106.7446515,Jakarta_Selatan,Pesanggrahan,Rape
+1725,5/4/2021,14,-6.226895111,106.7445269,Jakarta_Selatan,Pesanggrahan,Arson
+1726,7/10/2021,23,-6.226677948,106.7447992,Jakarta_Selatan,Pesanggrahan,Aggravated Assault
+1727,8/9/2021,9,-6.227467231,106.7447515,Jakarta_Selatan,Pesanggrahan,Rape
+1728,2/28/2021,2,-6.226927231,106.7449707,Jakarta_Selatan,Pesanggrahan,Aggravated Assault
+1729,6/26/2021,15,-6.225720833,106.7605818,Jakarta_Selatan,Pesanggrahan,Disturbing the Peace
+1730,10/27/2021,19,-6.226407786,106.7606623,Jakarta_Selatan,Pesanggrahan,Sexual Assault
+1731,10/15/2021,22,-6.22461302,106.7605929,Jakarta_Selatan,Pesanggrahan,Rape
+1732,8/17/2021,5,-6.224777989,106.7606114,Jakarta_Selatan,Pesanggrahan,Stalking
+1733,11/12/2021,14,-6.225389135,106.7606324,Jakarta_Selatan,Pesanggrahan,Kidnapping
+1734,6/5/2021,4,-6.225900855,106.760617,Jakarta_Selatan,Pesanggrahan,Attempt
+1735,3/29/2021,2,-6.224754333,106.7606452,Jakarta_Selatan,Pesanggrahan,Rape
+1736,1/31/2021,3,-6.226512512,106.7606035,Jakarta_Selatan,Pesanggrahan,Theft
+1737,8/11/2021,3,-6.224825545,106.7605822,Jakarta_Selatan,Pesanggrahan,Theft
+1738,3/21/2021,13,-6.22608489,106.7606349,Jakarta_Selatan,Pesanggrahan,Aggravated Assault
+1739,4/17/2021,15,-6.225366409,106.7606084,Jakarta_Selatan,Pesanggrahan,Harassment
+1740,7/7/2021,23,-6.243875977,106.7655004,Jakarta_Selatan,Pesanggrahan,Sexual Assault
+1741,3/6/2021,2,-6.242240408,106.7668868,Jakarta_Selatan,Pesanggrahan,Open Container (of alcohol)
+1742,7/22/2021,9,-6.242703667,106.7658627,Jakarta_Selatan,Pesanggrahan,Statutory Rape
+1743,4/20/2021,23,-6.244870519,106.765475,Jakarta_Selatan,Pesanggrahan,Criminal Contempt of Court
+1744,6/26/2021,4,-6.242398908,106.7649853,Jakarta_Selatan,Pesanggrahan,Homicide
+1745,6/14/2021,8,-6.243450109,106.7665725,Jakarta_Selatan,Pesanggrahan,Theft
+1746,12/15/2021,9,-6.24429589,106.7657676,Jakarta_Selatan,Pesanggrahan,Murder: First-degree
+1747,7/2/2021,9,-6.244552999,106.7655925,Jakarta_Selatan,Pesanggrahan,Assault / Battery
+1748,2/7/2021,6,-6.249543566,106.7639977,Jakarta_Selatan,Pesanggrahan,Attempt
+1749,1/14/2021,12,-6.249039356,106.7647872,Jakarta_Selatan,Pesanggrahan,White Collar Crimes
+1750,8/29/2021,12,-6.248477373,106.7637663,Jakarta_Selatan,Pesanggrahan,Burglary
+1751,5/11/2021,23,-6.248898511,106.764017,Jakarta_Selatan,Pesanggrahan,Aiding and Abetting / Accessory
+1752,4/16/2021,6,-6.248652696,106.7635942,Jakarta_Selatan,Pesanggrahan,Theft
+1753,4/22/2021,14,-6.249590538,106.76322,Jakarta_Selatan,Pesanggrahan,Kidnapping
+1754,5/3/2021,0,-6.249426697,106.7647765,Jakarta_Selatan,Pesanggrahan,Securities Fraud
+1755,6/25/2021,17,-6.249532066,106.7634114,Jakarta_Selatan,Pesanggrahan,Theft
+1756,3/28/2021,10,-6.249147239,106.7641237,Jakarta_Selatan,Pesanggrahan,Stalking
+1757,8/13/2021,3,-6.248411202,106.7632861,Jakarta_Selatan,Pesanggrahan,Kidnapping
+1758,11/16/2021,17,-6.248807224,106.7646845,Jakarta_Selatan,Pesanggrahan,Sexual Assault
+1759,4/28/2021,16,-6.2490282,106.7644871,Jakarta_Selatan,Pesanggrahan,Aggravated Assault
+1760,1/31/2021,9,-6.248958871,106.7642782,Jakarta_Selatan,Pesanggrahan,Kidnapping
+1761,10/12/2021,1,-6.249446501,106.7647065,Jakarta_Selatan,Pesanggrahan,Assault / Battery
+1762,7/21/2021,22,-6.205453259,106.8287719,Jakarta_Selatan,Setiabudi,White Collar Crimes
+1763,5/19/2021,0,-6.211130669,106.8291588,Jakarta_Selatan,Setiabudi,Homicide
+1764,6/18/2021,11,-6.210588304,106.8299868,Jakarta_Selatan,Setiabudi,Homicide
+1765,1/17/2021,19,-6.208549961,106.8301927,Jakarta_Selatan,Setiabudi,Assault / Battery
+1766,7/5/2021,16,-6.210044281,106.8281426,Jakarta_Selatan,Setiabudi,Attempt
+1767,10/8/2021,22,-6.2122553,106.8289621,Jakarta_Selatan,Setiabudi,Sexual Assault
+1768,8/17/2021,17,-6.205684939,106.8298494,Jakarta_Selatan,Setiabudi,Robbery
+1769,2/9/2021,5,-6.20531232,106.8296296,Jakarta_Selatan,Setiabudi,Harassment
+1770,2/20/2021,16,-6.206223595,106.8303975,Jakarta_Selatan,Setiabudi,Theft
+1771,7/10/2021,17,-6.210985493,106.8295077,Jakarta_Selatan,Setiabudi,Wire Fraud
+1772,10/24/2021,0,-6.213847001,106.8443409,Jakarta_Selatan,Setiabudi,Murder: First-degree
+1773,8/22/2021,6,-6.213613181,106.8441283,Jakarta_Selatan,Setiabudi,Arson
+1774,7/10/2021,9,-6.214844633,106.8441244,Jakarta_Selatan,Setiabudi,Murder: First-degree
+1775,7/30/2021,5,-6.213815519,106.8435914,Jakarta_Selatan,Setiabudi,Homicide
+1776,8/13/2021,11,-6.211431281,106.8443285,Jakarta_Selatan,Setiabudi,Aggravated Assault
+1777,4/1/2021,10,-6.213584942,106.8442505,Jakarta_Selatan,Setiabudi,Probation Violation
+1778,12/25/2021,5,-6.212399503,106.8440408,Jakarta_Selatan,Setiabudi,Public Intoxication
+1779,6/12/2021,22,-6.212188724,106.844273,Jakarta_Selatan,Setiabudi,Assault / Battery
+1780,7/25/2021,12,-6.213800612,106.8441258,Jakarta_Selatan,Setiabudi,Murder: Second-degree
+1781,8/25/2021,11,-6.213175704,106.844125,Jakarta_Selatan,Setiabudi,Attempt
+1782,9/18/2021,20,-6.21170501,106.8442801,Jakarta_Selatan,Setiabudi,Manslaughter: Voluntary
+1783,4/30/2021,20,-6.214199976,106.8386783,Jakarta_Selatan,Setiabudi,Harassment
+1784,4/10/2021,23,-6.215159812,106.8394081,Jakarta_Selatan,Setiabudi,MIP: A Minor in Possession
+1785,8/15/2021,12,-6.215294627,106.8394453,Jakarta_Selatan,Setiabudi,Manslaughter: Voluntary
+1786,8/23/2021,19,-6.214329186,106.8390402,Jakarta_Selatan,Setiabudi,Aiding and Abetting / Accessory
+1787,5/16/2021,13,-6.213148442,106.8393702,Jakarta_Selatan,Setiabudi,Harassment
+1788,4/11/2021,5,-6.215372801,106.8380361,Jakarta_Selatan,Setiabudi,Embezzlement
+1789,10/27/2021,6,-6.213610852,106.8385857,Jakarta_Selatan,Setiabudi,Aggravated Assault
+1790,9/7/2021,8,-6.212418443,106.838348,Jakarta_Selatan,Setiabudi,Assault / Battery
+1791,5/22/2021,2,-6.212559324,106.8395177,Jakarta_Selatan,Setiabudi,Manslaughter: Voluntary
+1792,9/2/2021,5,-6.215054725,106.8380267,Jakarta_Selatan,Setiabudi,Harassment
+1793,8/18/2021,4,-6.212269229,106.8386799,Jakarta_Selatan,Setiabudi,Conspiracy
+1794,10/10/2021,16,-6.214838826,106.8385867,Jakarta_Selatan,Setiabudi,Domestic Violence
+1795,10/28/2021,0,-6.225605523,106.8249994,Jakarta_Selatan,Setiabudi,Indecent Exposure
+1796,5/27/2021,22,-6.225614577,106.8306404,Jakarta_Selatan,Setiabudi,Statutory Rape
+1797,4/29/2021,9,-6.224600855,106.8265737,Jakarta_Selatan,Setiabudi,Murder: Second-degree
+1798,8/27/2021,18,-6.225123529,106.8276117,Jakarta_Selatan,Setiabudi,Robbery
+1799,10/20/2021,0,-6.224003185,106.8296471,Jakarta_Selatan,Setiabudi,Murder: Second-degree
+1800,7/24/2021,7,-6.224527127,106.8278413,Jakarta_Selatan,Setiabudi,Manslaughter: Voluntary
+1801,1/1/2021,21,-6.223972476,106.8302631,Jakarta_Selatan,Setiabudi,Stalking
+1802,5/20/2021,22,-6.223899417,106.8285329,Jakarta_Selatan,Setiabudi,Sexual Assault
+1803,8/25/2021,21,-6.225662046,106.8306988,Jakarta_Selatan,Setiabudi,Kidnapping
+1804,5/22/2021,11,-6.224024909,106.832319,Jakarta_Selatan,Setiabudi,Aggravated Assault
+1805,10/15/2021,17,-6.22416654,106.8248918,Jakarta_Selatan,Setiabudi,Theft
+1806,12/21/2021,3,-6.22571696,106.8321866,Jakarta_Selatan,Setiabudi,Disturbing the Peace
+1807,5/2/2021,17,-6.225165775,106.8291452,Jakarta_Selatan,Setiabudi,Public Intoxication
+1808,12/20/2021,0,-6.224452796,106.8310285,Jakarta_Selatan,Setiabudi,Murder: Second-degree
+1809,3/10/2021,23,-6.223977339,106.8268298,Jakarta_Selatan,Setiabudi,Murder: First-degree
+1810,3/17/2021,21,-6.224712294,106.8259477,Jakarta_Selatan,Setiabudi,Computer Crime
+1811,3/28/2021,7,-6.224366934,106.8287405,Jakarta_Selatan,Setiabudi,Rape
+1812,2/7/2021,18,-6.225624767,106.8307872,Jakarta_Selatan,Setiabudi,Arson
+1813,5/4/2021,20,-6.208192618,106.8378417,Jakarta_Selatan,Setiabudi,Kidnapping
+1814,12/26/2021,1,-6.207951358,106.8420981,Jakarta_Selatan,Setiabudi,Kidnapping
+1815,9/14/2021,13,-6.205741698,106.8430066,Jakarta_Selatan,Setiabudi,Murder: Second-degree
+1816,2/20/2021,5,-6.205821875,106.8391462,Jakarta_Selatan,Setiabudi,Open Container (of alcohol)
+1817,3/28/2021,0,-6.208573978,106.8389891,Jakarta_Selatan,Setiabudi,Open Container (of alcohol)
+1818,10/22/2021,11,-6.207843648,106.841598,Jakarta_Selatan,Setiabudi,Aggravated Assault
+1819,2/18/2021,4,-6.206574552,106.8374829,Jakarta_Selatan,Setiabudi,Statutory Rape
+1820,1/18/2021,5,-6.206499357,106.8448849,Jakarta_Selatan,Setiabudi,Kidnapping
+1821,11/2/2021,1,-6.206602428,106.8406568,Jakarta_Selatan,Setiabudi,Manslaughter: Voluntary
+1822,4/29/2021,9,-6.207280102,106.8427587,Jakarta_Selatan,Setiabudi,Drug Trafficking / Distribution
+1823,9/9/2021,7,-6.207002368,106.8445498,Jakarta_Selatan,Setiabudi,Harassment
+1824,10/1/2021,8,-6.206561033,106.8402431,Jakarta_Selatan,Setiabudi,Arson
+1825,8/23/2021,4,-6.20738762,106.8400638,Jakarta_Selatan,Setiabudi,Sexual Assault
+1826,4/12/2021,15,-6.206618282,106.8414152,Jakarta_Selatan,Setiabudi,Sexual Assault
+1827,2/16/2021,11,-6.210475919,106.8499696,Jakarta_Selatan,Tebet,Harassment
+1828,3/7/2021,19,-6.209811903,106.8501822,Jakarta_Selatan,Tebet,Murder: Second-degree
+1829,12/19/2021,16,-6.210326344,106.8511674,Jakarta_Selatan,Tebet,Securities Fraud
+1830,3/13/2021,23,-6.209953257,106.8505646,Jakarta_Selatan,Tebet,Manslaughter: Involuntary
+1831,5/28/2021,4,-6.210614938,106.8504806,Jakarta_Selatan,Tebet,Stalking
+1832,2/4/2021,19,-6.21003036,106.85029,Jakarta_Selatan,Tebet,Aggravated Assault
+1833,4/6/2021,17,-6.20988618,106.8511998,Jakarta_Selatan,Tebet,Rape
+1834,8/31/2021,11,-6.210500641,106.8502643,Jakarta_Selatan,Tebet,Computer Crime
+1835,2/8/2021,13,-6.210303301,106.8501964,Jakarta_Selatan,Tebet,Statutory Rape
+1836,4/4/2021,19,-6.209771013,106.8507841,Jakarta_Selatan,Tebet,Assault / Battery
+1837,2/27/2021,8,-6.210652502,106.8504116,Jakarta_Selatan,Tebet,Murder: First-degree
+1838,1/21/2021,13,-6.213540296,106.847594,Jakarta_Selatan,Tebet,Burglary
+1839,12/2/2021,1,-6.211704746,106.8475848,Jakarta_Selatan,Tebet,Attempt
+1840,4/26/2021,13,-6.211995875,106.8475817,Jakarta_Selatan,Tebet,Rape
+1841,7/1/2021,14,-6.213663881,106.8475827,Jakarta_Selatan,Tebet,Stalking
+1842,3/13/2021,7,-6.213565731,106.8475889,Jakarta_Selatan,Tebet,Manslaughter: Voluntary
+1843,6/6/2021,15,-6.212575719,106.8475914,Jakarta_Selatan,Tebet,Theft
+1844,5/6/2021,6,-6.212135939,106.8475827,Jakarta_Selatan,Tebet,Sexual Assault
+1845,8/16/2021,10,-6.213066548,106.8475919,Jakarta_Selatan,Tebet,Racketeering / RICO
+1846,2/3/2021,13,-6.224496957,106.850389,Jakarta_Selatan,Tebet,Shoplifting
+1847,6/19/2021,14,-6.224427874,106.8544778,Jakarta_Selatan,Tebet,Sexual Assault
+1848,3/10/2021,10,-6.224612564,106.850212,Jakarta_Selatan,Tebet,Murder: Second-degree
+1849,2/27/2021,11,-6.22438175,106.8535282,Jakarta_Selatan,Tebet,Rape
+1850,6/26/2021,8,-6.224907945,106.8504555,Jakarta_Selatan,Tebet,Murder: First-degree
+1851,1/13/2021,21,-6.224993034,106.853264,Jakarta_Selatan,Tebet,Wire Fraud
+1852,12/12/2021,20,-6.224507443,106.8528404,Jakarta_Selatan,Tebet,Robbery
+1853,11/6/2021,1,-6.224399008,106.8526436,Jakarta_Selatan,Tebet,Assault / Battery
+1854,12/9/2021,21,-6.223831278,106.852776,Jakarta_Selatan,Tebet,Assault / Battery
+1855,7/7/2021,23,-6.224991026,106.8536317,Jakarta_Selatan,Tebet,Murder: Second-degree
+1856,9/27/2021,20,-6.217683763,106.8583584,Jakarta_Selatan,Tebet,Statutory Rape
+1857,12/8/2021,6,-6.217679578,106.8569301,Jakarta_Selatan,Tebet,Kidnapping
+1858,3/5/2021,18,-6.21783017,106.8588577,Jakarta_Selatan,Tebet,Stalking
+1859,9/5/2021,5,-6.217651693,106.8601738,Jakarta_Selatan,Tebet,Theft
+1860,7/1/2021,20,-6.217567613,106.8611492,Jakarta_Selatan,Tebet,Theft
+1861,11/16/2021,22,-6.240075984,106.8585857,Jakarta_Selatan,Tebet,Harassment
+1862,5/19/2021,23,-6.239148284,106.8585156,Jakarta_Selatan,Tebet,Homicide
+1863,5/17/2021,19,-6.235546189,106.8584222,Jakarta_Selatan,Tebet,Medical Marijuana
+1864,9/7/2021,14,-6.233242752,106.8585048,Jakarta_Selatan,Tebet,Sexual Assault
+1865,4/4/2021,4,-6.240121389,106.8585177,Jakarta_Selatan,Tebet,Bribery
+1866,6/24/2021,12,-6.233121637,106.8585558,Jakarta_Selatan,Tebet,Open Container (of alcohol)
+1867,5/21/2021,6,-6.238832025,106.8584403,Jakarta_Selatan,Tebet,Arson
+1868,1/3/2021,14,-6.238986613,106.8585103,Jakarta_Selatan,Tebet,Sexual Assault
+1869,10/19/2021,0,-6.239588723,106.8585046,Jakarta_Selatan,Tebet,Homicide
+1870,6/11/2021,18,-6.239958469,106.8584883,Jakarta_Selatan,Tebet,Statutory Rape
+1871,1/4/2021,2,-6.237013209,106.8584514,Jakarta_Selatan,Tebet,Manslaughter: Voluntary
+1872,11/20/2021,19,-6.237646655,106.8585338,Jakarta_Selatan,Tebet,Hate Crimes
+1873,4/22/2021,19,-6.23736457,106.8451133,Jakarta_Selatan,Tebet,Rape
+1874,4/8/2021,17,-6.238101626,106.8446423,Jakarta_Selatan,Tebet,Assault / Battery
+1875,3/16/2021,16,-6.236071357,106.8444584,Jakarta_Selatan,Tebet,Drug Possession
+1876,9/19/2021,4,-6.239513835,106.8445867,Jakarta_Selatan,Tebet,Rape
+1877,7/19/2021,22,-6.237571748,106.8447704,Jakarta_Selatan,Tebet,Sexual Assault
+1878,10/22/2021,8,-6.239341626,106.844425,Jakarta_Selatan,Tebet,Stalking
+1879,3/21/2021,21,-6.236104569,106.8442665,Jakarta_Selatan,Tebet,Stalking
+1880,7/4/2021,8,-6.239495958,106.8448381,Jakarta_Selatan,Tebet,Statutory Rape
+1881,7/4/2021,9,-6.238422808,106.8444963,Jakarta_Selatan,Tebet,Statutory Rape
+1882,10/21/2021,9,-6.239441964,106.8447049,Jakarta_Selatan,Tebet,Sexual Assault
+1883,4/19/2021,13,-6.239085181,106.8443188,Jakarta_Selatan,Tebet,Homicide
+1884,3/26/2021,5,-6.238721949,106.8448844,Jakarta_Selatan,Tebet,Rape
+1885,3/31/2021,6,-6.127192651,106.7257335,Jakarta_Barat,Cengkareng,Aiding and Abetting / Accessory
+1886,5/22/2021,2,-6.126948303,106.7257365,Jakarta_Barat,Cengkareng,Arson
+1887,5/8/2021,14,-6.126491919,106.7254261,Jakarta_Barat,Cengkareng,Medical Marijuana
+1888,11/11/2021,14,-6.126372475,106.725444,Jakarta_Barat,Cengkareng,Manslaughter: Voluntary
+1889,8/6/2021,16,-6.126470848,106.725647,Jakarta_Barat,Cengkareng,Murder: Second-degree
+1890,8/21/2021,16,-6.127206971,106.7255667,Jakarta_Barat,Cengkareng,Arson
+1891,6/26/2021,11,-6.127262936,106.7258034,Jakarta_Barat,Cengkareng,Homicide
+1892,9/18/2021,0,-6.126943581,106.7257858,Jakarta_Barat,Cengkareng,Fraud
+1893,11/14/2021,0,-6.126989667,106.7255016,Jakarta_Barat,Cengkareng,Stalking
+1894,7/31/2021,13,-6.127192734,106.7256175,Jakarta_Barat,Cengkareng,Murder: Second-degree
+1895,3/24/2021,9,-6.144495805,106.7642707,Jakarta_Barat,Cengkareng,Attempt
+1896,6/17/2021,2,-6.146929195,106.7612686,Jakarta_Barat,Cengkareng,Statutory Rape
+1897,8/17/2021,3,-6.146468252,106.7624585,Jakarta_Barat,Cengkareng,Child Pornography
+1898,11/28/2021,2,-6.144832632,106.763027,Jakarta_Barat,Cengkareng,Kidnapping
+1899,2/5/2021,10,-6.143897227,106.7620076,Jakarta_Barat,Cengkareng,Kidnapping
+1900,8/14/2021,14,-6.143527782,106.7626248,Jakarta_Barat,Cengkareng,Manslaughter: Voluntary
+1901,11/18/2021,6,-6.146878426,106.7626836,Jakarta_Barat,Cengkareng,Aggravated Assault
+1902,2/4/2021,11,-6.145981322,106.7613925,Jakarta_Barat,Cengkareng,Kidnapping
+1903,11/16/2021,10,-6.155120117,106.7223601,Jakarta_Barat,Cengkareng,Murder: First-degree
+1904,10/16/2021,20,-6.153723739,106.7224054,Jakarta_Barat,Cengkareng,Bribery
+1905,4/25/2021,21,-6.153675358,106.7222716,Jakarta_Barat,Cengkareng,Kidnapping
+1906,12/12/2021,6,-6.154454504,106.7222401,Jakarta_Barat,Cengkareng,Theft
+1907,7/21/2021,15,-6.154647949,106.724034,Jakarta_Barat,Cengkareng,Assault / Battery
+1908,10/26/2021,16,-6.153629807,106.722511,Jakarta_Barat,Cengkareng,Burglary
+1909,9/14/2021,21,-6.155873812,106.7222414,Jakarta_Barat,Cengkareng,Insurance Fraud
+1910,1/18/2021,16,-6.156151096,106.7229759,Jakarta_Barat,Cengkareng,Harassment
+1911,4/11/2021,13,-6.156246449,106.7233793,Jakarta_Barat,Cengkareng,Assault / Battery
+1912,12/16/2021,5,-6.153715542,106.7221585,Jakarta_Barat,Cengkareng,Attempt
+1913,2/4/2021,3,-6.181754247,106.7183405,Jakarta_Barat,Cengkareng,Rape
+1914,7/15/2021,5,-6.182089164,106.7173836,Jakarta_Barat,Cengkareng,Disturbing the Peace
+1915,9/19/2021,13,-6.182132437,106.7181367,Jakarta_Barat,Cengkareng,Murder: First-degree
+1916,5/18/2021,23,-6.181549435,106.7186987,Jakarta_Barat,Cengkareng,Murder: Second-degree
+1917,11/1/2021,20,-6.18296968,106.7181145,Jakarta_Barat,Cengkareng,Drug Trafficking / Distribution
+1918,3/22/2021,16,-6.18165698,106.7177347,Jakarta_Barat,Cengkareng,Embezzlement
+1919,7/6/2021,8,-6.183689356,106.7178116,Jakarta_Barat,Cengkareng,Burglary
+1920,11/3/2021,4,-6.181355549,106.7183474,Jakarta_Barat,Cengkareng,Murder: First-degree
+1921,3/9/2021,8,-6.182209322,106.7175757,Jakarta_Barat,Cengkareng,Statutory Rape
+1922,5/26/2021,11,-6.183595612,106.7180086,Jakarta_Barat,Cengkareng,Vandalism
+1923,3/21/2021,1,-6.162495244,106.7386741,Jakarta_Barat,Cengkareng,Theft
+1924,4/29/2021,9,-6.162943838,106.7411324,Jakarta_Barat,Cengkareng,Statutory Rape
+1925,2/1/2021,0,-6.162518114,106.7389123,Jakarta_Barat,Cengkareng,Stalking
+1926,12/8/2021,23,-6.162232319,106.737484,Jakarta_Barat,Cengkareng,Homicide
+1927,8/24/2021,1,-6.162243627,106.7396601,Jakarta_Barat,Cengkareng,Statutory Rape
+1928,12/24/2021,3,-6.162459317,106.7413608,Jakarta_Barat,Cengkareng,Murder: First-degree
+1929,1/28/2021,22,-6.163183412,106.7415569,Jakarta_Barat,Cengkareng,Stalking
+1930,12/22/2021,15,-6.163353664,106.7374009,Jakarta_Barat,Cengkareng,Hate Crimes
+1931,8/8/2021,6,-6.162274378,106.7371761,Jakarta_Barat,Cengkareng,Aggravated Assault
+1932,5/9/2021,20,-6.162778451,106.7393737,Jakarta_Barat,Cengkareng,Rape
+1933,7/28/2021,12,-6.162819989,106.7413505,Jakarta_Barat,Cengkareng,Murder: First-degree
+1934,2/2/2021,6,-6.163048163,106.7373219,Jakarta_Barat,Cengkareng,Theft
+1935,12/25/2021,5,-6.163186707,106.7390103,Jakarta_Barat,Cengkareng,Harassment
+1936,1/21/2021,3,-6.162741426,106.7373817,Jakarta_Barat,Cengkareng,Assault / Battery
+1937,7/30/2021,1,-6.155802389,106.7782581,Jakarta_Barat,Grogol_Petamburan,Attempt
+1938,7/19/2021,19,-6.156827414,106.7795557,Jakarta_Barat,Grogol_Petamburan,Attempt
+1939,9/6/2021,9,-6.157237136,106.7810425,Jakarta_Barat,Grogol_Petamburan,Theft
+1940,12/8/2021,4,-6.156983172,106.7790958,Jakarta_Barat,Grogol_Petamburan,Assault / Battery
+1941,7/1/2021,8,-6.156050614,106.7800825,Jakarta_Barat,Grogol_Petamburan,Murder: First-degree
+1942,8/28/2021,9,-6.156150522,106.7783326,Jakarta_Barat,Grogol_Petamburan,Murder: First-degree
+1943,1/9/2021,14,-6.156377217,106.7821882,Jakarta_Barat,Grogol_Petamburan,Manslaughter: Voluntary
+1944,9/14/2021,12,-6.156787603,106.7787789,Jakarta_Barat,Grogol_Petamburan,Aggravated Assault
+1945,11/20/2021,21,-6.156650476,106.7821848,Jakarta_Barat,Grogol_Petamburan,Manslaughter: Voluntary
+1946,4/4/2021,4,-6.156510113,106.7791807,Jakarta_Barat,Grogol_Petamburan,Kidnapping
+1947,6/22/2021,10,-6.157049097,106.7792073,Jakarta_Barat,Grogol_Petamburan,Embezzlement
+1948,11/9/2021,23,-6.157195611,106.7823756,Jakarta_Barat,Grogol_Petamburan,Kidnapping
+1949,1/9/2021,23,-6.150781411,106.7747672,Jakarta_Barat,Grogol_Petamburan,Sexual Assault
+1950,9/3/2021,10,-6.151529606,106.7752144,Jakarta_Barat,Grogol_Petamburan,Arson
+1951,8/21/2021,12,-6.151967912,106.7752853,Jakarta_Barat,Grogol_Petamburan,Sexual Assault
+1952,10/29/2021,13,-6.150880583,106.7751951,Jakarta_Barat,Grogol_Petamburan,Disorderly Conduct
+1953,3/3/2021,20,-6.150478188,106.7743146,Jakarta_Barat,Grogol_Petamburan,Statutory Rape
+1954,6/13/2021,8,-6.150746107,106.7751864,Jakarta_Barat,Grogol_Petamburan,Arson
+1955,10/27/2021,2,-6.151237845,106.7759398,Jakarta_Barat,Grogol_Petamburan,Drug Possession
+1956,2/26/2021,9,-6.150544239,106.7761383,Jakarta_Barat,Grogol_Petamburan,Aggravated Assault
+1957,10/27/2021,16,-6.150514887,106.7749914,Jakarta_Barat,Grogol_Petamburan,Manslaughter: Voluntary
+1958,11/16/2021,7,-6.151975222,106.7756302,Jakarta_Barat,Grogol_Petamburan,Homicide
+1959,12/11/2021,15,-6.179895562,106.784752,Jakarta_Barat,Grogol_Petamburan,Disorderly Conduct
+1960,1/18/2021,18,-6.180153583,106.7858107,Jakarta_Barat,Grogol_Petamburan,Conspiracy
+1961,11/9/2021,11,-6.179183739,106.7860578,Jakarta_Barat,Grogol_Petamburan,Attempt
+1962,2/11/2021,13,-6.178952871,106.7856714,Jakarta_Barat,Grogol_Petamburan,Conspiracy
+1963,1/13/2021,13,-6.180849584,106.784466,Jakarta_Barat,Grogol_Petamburan,Stalking
+1964,2/16/2021,13,-6.179261361,106.7858399,Jakarta_Barat,Grogol_Petamburan,Robbery
+1965,5/3/2021,16,-6.179960812,106.7870161,Jakarta_Barat,Grogol_Petamburan,Aggravated Assault
+1966,12/30/2021,4,-6.179476702,106.7861749,Jakarta_Barat,Grogol_Petamburan,Statutory Rape
+1967,7/15/2021,11,-6.18099395,106.7847496,Jakarta_Barat,Grogol_Petamburan,Theft
+1968,1/27/2021,17,-6.1804524,106.7847317,Jakarta_Barat,Grogol_Petamburan,Harassment
+1969,9/4/2021,16,-6.179373121,106.7867943,Jakarta_Barat,Grogol_Petamburan,Disturbing the Peace
+1970,4/1/2021,0,-6.180179489,106.7864292,Jakarta_Barat,Grogol_Petamburan,Child Pornography
+1971,6/15/2021,11,-6.181041093,106.7847391,Jakarta_Barat,Grogol_Petamburan,Kidnapping
+1972,2/24/2021,9,-6.179044739,106.7839586,Jakarta_Barat,Grogol_Petamburan,Manslaughter: Voluntary
+1973,12/1/2021,18,-6.142265297,106.8148225,Jakarta_Barat,Taman_Sari,Assault / Battery
+1974,5/8/2021,6,-6.141941196,106.8146063,Jakarta_Barat,Taman_Sari,Theft
+1975,4/17/2021,4,-6.140776954,106.8146852,Jakarta_Barat,Taman_Sari,Securities Fraud
+1976,6/11/2021,13,-6.14197264,106.8146954,Jakarta_Barat,Taman_Sari,Indecent Exposure
+1977,7/10/2021,18,-6.142400219,106.8147913,Jakarta_Barat,Taman_Sari,Embezzlement
+1978,6/5/2021,14,-6.140470508,106.8150334,Jakarta_Barat,Taman_Sari,Theft
+1979,9/20/2021,6,-6.141593564,106.8151047,Jakarta_Barat,Taman_Sari,Cyberbullying
+1980,9/12/2021,13,-6.140668319,106.8144856,Jakarta_Barat,Taman_Sari,Drug Possession
+1981,4/14/2021,23,-6.142415036,106.8144328,Jakarta_Barat,Taman_Sari,Robbery
+1982,1/1/2021,23,-6.148832133,106.8222861,Jakarta_Barat,Taman_Sari,Murder: First-degree
+1983,6/8/2021,6,-6.14880167,106.8247511,Jakarta_Barat,Taman_Sari,Murder: Second-degree
+1984,7/20/2021,4,-6.148889605,106.8224704,Jakarta_Barat,Taman_Sari,Murder: Second-degree
+1985,5/27/2021,16,-6.149100913,106.8243526,Jakarta_Barat,Taman_Sari,MIP: A Minor in Possession
+1986,1/3/2021,11,-6.149088106,106.8243445,Jakarta_Barat,Taman_Sari,Sexual Assault
+1987,1/7/2021,15,-6.148920919,106.8256671,Jakarta_Barat,Taman_Sari,Bribery
+1988,11/18/2021,20,-6.149059998,106.8222132,Jakarta_Barat,Taman_Sari,Murder: Second-degree
+1989,10/3/2021,16,-6.149086294,106.8235155,Jakarta_Barat,Taman_Sari,Robbery
+1990,4/7/2021,17,-6.149133001,106.8236508,Jakarta_Barat,Taman_Sari,Attempt
+1991,12/19/2021,3,-6.14900784,106.8242202,Jakarta_Barat,Taman_Sari,Drug Trafficking / Distribution
+1992,8/31/2021,5,-6.154843486,106.8177333,Jakarta_Barat,Taman_Sari,Homicide
+1993,6/2/2021,21,-6.155642743,106.8181693,Jakarta_Barat,Taman_Sari,Manslaughter: Involuntary
+1994,2/17/2021,13,-6.154563946,106.8182305,Jakarta_Barat,Taman_Sari,Harassment
+1995,10/3/2021,11,-6.155767067,106.8177612,Jakarta_Barat,Taman_Sari,Harassment
+1996,9/5/2021,21,-6.154277221,106.8180791,Jakarta_Barat,Taman_Sari,Manslaughter: Voluntary
+1997,8/22/2021,14,-6.154106008,106.8182607,Jakarta_Barat,Taman_Sari,Theft
+1998,12/23/2021,21,-6.155182369,106.8179577,Jakarta_Barat,Taman_Sari,Cyberbullying
+1999,6/27/2021,6,-6.15498573,106.8179651,Jakarta_Barat,Taman_Sari,Assault / Battery
+2000,8/17/2021,13,-6.153466094,106.8179972,Jakarta_Barat,Taman_Sari,Credit / Debit Card Fraud
+2001,11/2/2021,10,-6.155541368,106.8179771,Jakarta_Barat,Taman_Sari,Harassment
+2002,10/30/2021,23,-6.15493584,106.8182018,Jakarta_Barat,Taman_Sari,Homicide
+2003,8/11/2021,7,-6.15316622,106.8181668,Jakarta_Barat,Taman_Sari,Attempt
+2004,9/23/2021,22,-6.158810978,106.8130476,Jakarta_Barat,Taman_Sari,Sexual Assault
+2005,7/31/2021,1,-6.157306782,106.8136882,Jakarta_Barat,Taman_Sari,Attempt
+2006,2/10/2021,11,-6.158226546,106.8137455,Jakarta_Barat,Taman_Sari,Insurance Fraud
+2007,11/10/2021,20,-6.158708941,106.8135872,Jakarta_Barat,Taman_Sari,Aggravated Assault
+2008,12/2/2021,0,-6.157340473,106.8136836,Jakarta_Barat,Taman_Sari,Assault / Battery
+2009,4/21/2021,21,-6.15789401,106.8137052,Jakarta_Barat,Taman_Sari,Manslaughter: Voluntary
+2010,3/18/2021,7,-6.151698313,106.8241873,Jakarta_Barat,Taman_Sari,Assault / Battery
+2011,7/9/2021,16,-6.151062148,106.8213539,Jakarta_Barat,Taman_Sari,Sexual Assault
+2012,10/26/2021,6,-6.151647794,106.8226078,Jakarta_Barat,Taman_Sari,Identity Theft
+2013,3/18/2021,19,-6.151067783,106.8228844,Jakarta_Barat,Taman_Sari,Disorderly Conduct
+2014,9/11/2021,6,-6.151353137,106.8217772,Jakarta_Barat,Taman_Sari,Conspiracy
+2015,10/8/2021,18,-6.15135735,106.8243336,Jakarta_Barat,Taman_Sari,Statutory Rape
+2016,1/28/2021,11,-6.151029018,106.8214363,Jakarta_Barat,Taman_Sari,Murder: Second-degree
+2017,12/24/2021,10,-6.151673625,106.8238406,Jakarta_Barat,Taman_Sari,Aggravated Assault
+2018,3/14/2021,21,-6.151179375,106.8220468,Jakarta_Barat,Taman_Sari,Aggravated Assault
+2019,10/5/2021,22,-6.151369749,106.8210875,Jakarta_Barat,Taman_Sari,Attempt
+2020,4/28/2021,15,-6.151091867,106.8244306,Jakarta_Barat,Taman_Sari,Arson
+2021,12/14/2021,23,-6.135950855,106.8038977,Jakarta_Barat,Tambora,Statutory Rape
+2022,5/13/2021,13,-6.136095397,106.8044467,Jakarta_Barat,Tambora,Murder: First-degree
+2023,7/13/2021,5,-6.134936588,106.8032527,Jakarta_Barat,Tambora,Perjury
+2024,8/27/2021,4,-6.136044083,106.8049336,Jakarta_Barat,Tambora,Stalking
+2025,3/29/2021,9,-6.135836442,106.8055665,Jakarta_Barat,Tambora,Assault / Battery
+2026,7/2/2021,11,-6.135780251,106.8054786,Jakarta_Barat,Tambora,Assault / Battery
+2027,12/30/2021,19,-6.135640882,106.8030763,Jakarta_Barat,Tambora,Arson
+2028,3/30/2021,18,-6.135089571,106.8041059,Jakarta_Barat,Tambora,Child Pornography
+2029,8/9/2021,17,-6.135690596,106.803731,Jakarta_Barat,Tambora,Arson
+2030,10/20/2021,4,-6.13592972,106.805283,Jakarta_Barat,Tambora,Attempt
+2031,2/21/2021,5,-6.135419323,106.8047506,Jakarta_Barat,Tambora,Shoplifting
+2032,1/27/2021,10,-6.14560809,106.7954231,Jakarta_Barat,Tambora,Assault / Battery
+2033,5/22/2021,19,-6.147180115,106.7960403,Jakarta_Barat,Tambora,Homicide
+2034,10/17/2021,11,-6.145716796,106.7955772,Jakarta_Barat,Tambora,Murder: Second-degree
+2035,5/17/2021,0,-6.145768747,106.7953738,Jakarta_Barat,Tambora,Statutory Rape
+2036,11/8/2021,16,-6.145781057,106.795674,Jakarta_Barat,Tambora,Manslaughter: Voluntary
+2037,5/11/2021,8,-6.146769939,106.7955278,Jakarta_Barat,Tambora,Rape
+2038,9/14/2021,0,-6.145384571,106.7958876,Jakarta_Barat,Tambora,Assault / Battery
+2039,9/8/2021,5,-6.145434295,106.7958928,Jakarta_Barat,Tambora,Murder: Second-degree
+2040,7/29/2021,22,-6.145808483,106.7957766,Jakarta_Barat,Tambora,Murder: First-degree
+2041,1/30/2021,18,-6.145543794,106.7956199,Jakarta_Barat,Tambora,Disturbing the Peace
+2042,4/18/2021,18,-6.145642287,106.8067987,Jakarta_Barat,Tambora,Attempt
+2043,2/9/2021,7,-6.145350045,106.8068613,Jakarta_Barat,Tambora,Computer Crime
+2044,12/16/2021,0,-6.145603874,106.8070193,Jakarta_Barat,Tambora,Credit / Debit Card Fraud
+2045,10/6/2021,23,-6.144534313,106.8071377,Jakarta_Barat,Tambora,Rape
+2046,10/9/2021,0,-6.144819154,106.8071281,Jakarta_Barat,Tambora,Manslaughter: Voluntary
+2047,8/30/2021,22,-6.145071599,106.807107,Jakarta_Barat,Tambora,Fraud
+2048,4/26/2021,0,-6.144925663,106.8069758,Jakarta_Barat,Tambora,Aggravated Assault
+2049,5/29/2021,3,-6.144878761,106.806863,Jakarta_Barat,Tambora,Attempt
+2050,6/13/2021,16,-6.146158729,106.8068837,Jakarta_Barat,Tambora,Stalking
+2051,12/8/2021,18,-6.14482447,106.8068812,Jakarta_Barat,Tambora,Domestic Violence
+2052,8/3/2021,6,-6.146370329,106.807023,Jakarta_Barat,Tambora,Insurance Fraud
+2053,3/14/2021,21,-6.14589426,106.8068684,Jakarta_Barat,Tambora,DUI / DWI
+2054,3/31/2021,21,-6.156957908,106.8077527,Jakarta_Barat,Tambora,Harassment
+2055,1/3/2021,13,-6.156923964,106.8078095,Jakarta_Barat,Tambora,Attempt
+2056,9/19/2021,4,-6.157025917,106.8077359,Jakarta_Barat,Tambora,Identity Theft
+2057,5/27/2021,17,-6.157112663,106.807881,Jakarta_Barat,Tambora,Theft
+2058,12/21/2021,7,-6.157143725,106.8077582,Jakarta_Barat,Tambora,Statutory Rape
+2059,12/18/2021,8,-6.156115611,106.8079926,Jakarta_Barat,Tambora,Homicide
+2060,4/23/2021,18,-6.141161635,106.8069012,Jakarta_Barat,Tambora,Aggravated Assault
+2061,4/7/2021,20,-6.143728798,106.8069413,Jakarta_Barat,Tambora,Theft
+2062,10/4/2021,18,-6.142621069,106.8069459,Jakarta_Barat,Tambora,Open Container (of alcohol)
+2063,3/6/2021,8,-6.142656284,106.806853,Jakarta_Barat,Tambora,Aggravated Assault
+2064,7/29/2021,14,-6.140909848,106.8068431,Jakarta_Barat,Tambora,Aggravated Assault
+2065,8/17/2021,3,-6.140139502,106.8069019,Jakarta_Barat,Tambora,Murder: Second-degree
+2066,10/23/2021,21,-6.142826388,106.8068564,Jakarta_Barat,Tambora,Theft
+2067,12/21/2021,13,-6.143290475,106.8068902,Jakarta_Barat,Tambora,Theft
+2068,3/31/2021,20,-6.143667655,106.8068746,Jakarta_Barat,Tambora,Aggravated Assault
+2069,3/31/2021,11,-6.143296029,106.8069183,Jakarta_Barat,Tambora,Domestic Violence
+2070,6/13/2021,21,-6.14146732,106.8068821,Jakarta_Barat,Tambora,Child Abandonment
+2071,7/19/2021,0,-6.138906499,106.8041683,Jakarta_Barat,Tambora,Theft
+2072,2/13/2021,11,-6.138687852,106.8034549,Jakarta_Barat,Tambora,Manslaughter: Voluntary
+2073,11/15/2021,3,-6.138597991,106.804714,Jakarta_Barat,Tambora,Attempt
+2074,6/25/2021,23,-6.13869217,106.8037864,Jakarta_Barat,Tambora,Medical Marijuana
+2075,5/4/2021,5,-6.138157668,106.8029194,Jakarta_Barat,Tambora,Manslaughter: Involuntary
+2076,2/26/2021,22,-6.139074131,106.8037576,Jakarta_Barat,Tambora,Kidnapping
+2077,11/29/2021,16,-6.138874032,106.8049941,Jakarta_Barat,Tambora,Murder: First-degree
+2078,3/25/2021,7,-6.138184412,106.8030038,Jakarta_Barat,Tambora,Manslaughter: Voluntary
+2079,8/13/2021,1,-6.138276881,106.8032816,Jakarta_Barat,Tambora,Murder: Second-degree
+2080,4/1/2021,14,-6.138606896,106.8034039,Jakarta_Barat,Tambora,Statutory Rape
+2081,3/4/2021,11,-6.139172894,106.8034807,Jakarta_Barat,Tambora,Aiding and Abetting / Accessory
+2082,3/5/2021,12,-6.139336203,106.8042921,Jakarta_Barat,Tambora,Sexual Assault
+2083,5/17/2021,21,-6.139439129,106.8041853,Jakarta_Barat,Tambora,Attempt
+2084,3/6/2021,4,-6.139712472,106.8032518,Jakarta_Barat,Tambora,Murder: Second-degree
+2085,2/24/2021,15,-6.16208361,106.7631779,Jakarta_Barat,Kebon_Jeruk,Pyramid Schemes
+2086,10/7/2021,17,-6.162668443,106.7630575,Jakarta_Barat,Kebon_Jeruk,Statutory Rape
+2087,1/19/2021,0,-6.162552884,106.7630109,Jakarta_Barat,Kebon_Jeruk,Murder: Second-degree
+2088,10/5/2021,1,-6.163043557,106.7631448,Jakarta_Barat,Kebon_Jeruk,White Collar Crimes
+2089,11/19/2021,4,-6.162243988,106.7631764,Jakarta_Barat,Kebon_Jeruk,Statutory Rape
+2090,2/20/2021,1,-6.16196598,106.7629743,Jakarta_Barat,Kebon_Jeruk,Sexual Assault
+2091,9/19/2021,20,-6.162443123,106.763142,Jakarta_Barat,Kebon_Jeruk,Insurance Fraud
+2092,5/1/2021,5,-6.162747197,106.7631216,Jakarta_Barat,Kebon_Jeruk,Bribery
+2093,10/14/2021,3,-6.163006567,106.7629593,Jakarta_Barat,Kebon_Jeruk,Murder: Second-degree
+2094,10/30/2021,4,-6.176087011,106.765751,Jakarta_Barat,Kebon_Jeruk,Assault / Battery
+2095,10/25/2021,4,-6.175040778,106.7658061,Jakarta_Barat,Kebon_Jeruk,Stalking
+2096,1/4/2021,11,-6.17562428,106.7657669,Jakarta_Barat,Kebon_Jeruk,Manslaughter: Voluntary
+2097,10/1/2021,0,-6.176373861,106.7657816,Jakarta_Barat,Kebon_Jeruk,Rape
+2098,8/21/2021,10,-6.175918537,106.765743,Jakarta_Barat,Kebon_Jeruk,Kidnapping
+2099,11/15/2021,23,-6.175400699,106.7657244,Jakarta_Barat,Kebon_Jeruk,Sexual Assault
+2100,6/29/2021,19,-6.175389761,106.7657801,Jakarta_Barat,Kebon_Jeruk,Arson
+2101,9/22/2021,17,-6.185655307,106.7683183,Jakarta_Barat,Kebon_Jeruk,Homicide
+2102,6/9/2021,22,-6.187210292,106.7686358,Jakarta_Barat,Kebon_Jeruk,Murder: First-degree
+2103,10/2/2021,16,-6.184462924,106.7686846,Jakarta_Barat,Kebon_Jeruk,Assault / Battery
+2104,6/3/2021,19,-6.184872961,106.7679687,Jakarta_Barat,Kebon_Jeruk,Murder: First-degree
+2105,4/10/2021,11,-6.186860192,106.7680698,Jakarta_Barat,Kebon_Jeruk,Child Abandonment
+2106,4/3/2021,8,-6.185430005,106.7682454,Jakarta_Barat,Kebon_Jeruk,Rape
+2107,9/9/2021,19,-6.185908327,106.7687542,Jakarta_Barat,Kebon_Jeruk,Sexual Assault
+2108,10/4/2021,22,-6.187315807,106.7680143,Jakarta_Barat,Kebon_Jeruk,Harassment
+2109,9/2/2021,3,-6.184436067,106.7687262,Jakarta_Barat,Kebon_Jeruk,Arson
+2110,11/7/2021,12,-6.187065251,106.7687465,Jakarta_Barat,Kebon_Jeruk,DUI / DWI
+2111,7/18/2021,19,-6.186460183,106.7679938,Jakarta_Barat,Kebon_Jeruk,Homicide
+2112,3/10/2021,5,-6.179517381,106.7602221,Jakarta_Barat,Kebon_Jeruk,Attempt
+2113,5/10/2021,17,-6.180141834,106.7612197,Jakarta_Barat,Kebon_Jeruk,Rape
+2114,7/20/2021,1,-6.179518935,106.7604161,Jakarta_Barat,Kebon_Jeruk,Statutory Rape
+2115,1/2/2021,9,-6.179958412,106.7609113,Jakarta_Barat,Kebon_Jeruk,Shoplifting
+2116,7/5/2021,8,-6.179605016,106.7601784,Jakarta_Barat,Kebon_Jeruk,Assault / Battery
+2117,2/9/2021,5,-6.180407575,106.7603204,Jakarta_Barat,Kebon_Jeruk,Child Abuse
+2118,10/30/2021,23,-6.180159756,106.7590221,Jakarta_Barat,Kebon_Jeruk,Arson
+2119,6/17/2021,19,-6.180803606,106.7586255,Jakarta_Barat,Kebon_Jeruk,Arson
+2120,11/28/2021,16,-6.180686238,106.7597964,Jakarta_Barat,Kebon_Jeruk,Attempt
+2121,9/25/2021,13,-6.180483517,106.7587601,Jakarta_Barat,Kebon_Jeruk,Harassment
+2122,8/3/2021,4,-6.197065366,106.7657129,Jakarta_Barat,Kebon_Jeruk,Rape
+2123,3/31/2021,22,-6.197048362,106.7681555,Jakarta_Barat,Kebon_Jeruk,Statutory Rape
+2124,3/3/2021,10,-6.197179433,106.7661978,Jakarta_Barat,Kebon_Jeruk,Harassment
+2125,8/21/2021,14,-6.197262535,106.766746,Jakarta_Barat,Kebon_Jeruk,Attempt
+2126,11/23/2021,1,-6.196911274,106.7673006,Jakarta_Barat,Kebon_Jeruk,Child Pornography
+2127,11/2/2021,4,-6.197031153,106.7656747,Jakarta_Barat,Kebon_Jeruk,Drug Trafficking / Distribution
+2128,3/28/2021,6,-6.197187853,106.7679866,Jakarta_Barat,Kebon_Jeruk,Stalking
+2129,7/27/2021,7,-6.197262565,106.7665439,Jakarta_Barat,Kebon_Jeruk,Harassment
+2130,1/9/2021,5,-6.196858747,106.7653785,Jakarta_Barat,Kebon_Jeruk,Arson
+2131,5/11/2021,0,-6.196862323,106.7680737,Jakarta_Barat,Kebon_Jeruk,Drug Manufacturing and Cultivation
+2132,9/26/2021,7,-6.208946415,106.7798419,Jakarta_Barat,Kebon_Jeruk,Attempt
+2133,12/3/2021,5,-6.210458589,106.777639,Jakarta_Barat,Kebon_Jeruk,Theft
+2134,7/13/2021,22,-6.211077433,106.7789768,Jakarta_Barat,Kebon_Jeruk,Arson
+2135,12/20/2021,23,-6.211482096,106.7801702,Jakarta_Barat,Kebon_Jeruk,Aggravated Assault
+2136,6/24/2021,7,-6.209377514,106.7805471,Jakarta_Barat,Kebon_Jeruk,Money Laundering
+2137,7/29/2021,16,-6.21072596,106.7781902,Jakarta_Barat,Kebon_Jeruk,Sexual Assault
+2138,2/22/2021,14,-6.209878044,106.7788785,Jakarta_Barat,Kebon_Jeruk,Aiding and Abetting / Accessory
+2139,8/2/2021,14,-6.208500235,106.7802115,Jakarta_Barat,Kebon_Jeruk,Attempt
+2140,12/24/2021,18,-6.211197465,106.7788228,Jakarta_Barat,Kebon_Jeruk,Harassment
+2141,11/15/2021,6,-6.21033032,106.7787699,Jakarta_Barat,Kebon_Jeruk,Murder: First-degree
+2142,2/17/2021,22,-6.209802146,106.777462,Jakarta_Barat,Kebon_Jeruk,Homicide
+2143,2/16/2021,2,-6.210974274,106.7803205,Jakarta_Barat,Kebon_Jeruk,Aiding and Abetting / Accessory
+2144,11/6/2021,11,-6.21069546,106.7781094,Jakarta_Barat,Kebon_Jeruk,Stalking
+2145,10/24/2021,16,-6.208609744,106.7789366,Jakarta_Barat,Kebon_Jeruk,Harassment
+2146,4/24/2021,23,-6.115030255,106.7157533,Jakarta_Barat,Kalideres,Embezzlement
+2147,3/31/2021,21,-6.115958014,106.7152457,Jakarta_Barat,Kalideres,Rape
+2148,5/10/2021,22,-6.116128947,106.7150367,Jakarta_Barat,Kalideres,Aggravated Assault
+2149,4/13/2021,13,-6.113653626,106.7167359,Jakarta_Barat,Kalideres,Homicide
+2150,12/30/2021,2,-6.113545694,106.7147309,Jakarta_Barat,Kalideres,Domestic Violence
+2151,4/22/2021,3,-6.11520025,106.7174889,Jakarta_Barat,Kalideres,Harassment
+2152,11/18/2021,17,-6.115403761,106.7159703,Jakarta_Barat,Kalideres,Rape
+2153,3/1/2021,3,-6.11403473,106.7161407,Jakarta_Barat,Kalideres,Aggravated Assault
+2154,6/2/2021,16,-6.113854984,106.7160972,Jakarta_Barat,Kalideres,Harassment
+2155,9/14/2021,14,-6.113971974,106.7164406,Jakarta_Barat,Kalideres,Drug Manufacturing and Cultivation
+2156,12/11/2021,16,-6.11471348,106.7155766,Jakarta_Barat,Kalideres,Murder: First-degree
+2157,12/14/2021,17,-6.115445224,106.7152907,Jakarta_Barat,Kalideres,Arson
+2158,10/22/2021,6,-6.118749553,106.7025722,Jakarta_Barat,Kalideres,Murder: Second-degree
+2159,9/29/2021,14,-6.119289342,106.7025567,Jakarta_Barat,Kalideres,Harassment
+2160,10/26/2021,4,-6.117679367,106.7025891,Jakarta_Barat,Kalideres,Telemarketing Fraud
+2161,12/26/2021,18,-6.119283563,106.7025381,Jakarta_Barat,Kalideres,Harassment
+2162,7/3/2021,15,-6.1199256,106.7025186,Jakarta_Barat,Kalideres,Kidnapping
+2163,10/25/2021,16,-6.116468751,106.7024608,Jakarta_Barat,Kalideres,Extortion
+2164,8/10/2021,23,-6.117993845,106.7024657,Jakarta_Barat,Kalideres,Bribery
+2165,1/27/2021,2,-6.116504223,106.7025732,Jakarta_Barat,Kalideres,Aggravated Assault
+2166,3/14/2021,19,-6.117539008,106.7025118,Jakarta_Barat,Kalideres,Robbery
+2167,5/24/2021,7,-6.117514704,106.702528,Jakarta_Barat,Kalideres,Murder: First-degree
+2168,7/3/2021,11,-6.119010538,106.7024943,Jakarta_Barat,Kalideres,Stalking
+2169,3/20/2021,12,-6.118950881,106.7024886,Jakarta_Barat,Kalideres,Aggravated Assault
+2170,3/11/2021,20,-6.116782609,106.702563,Jakarta_Barat,Kalideres,Sexual Assault
+2171,6/3/2021,10,-6.118433551,106.702534,Jakarta_Barat,Kalideres,Harassment
+2172,10/24/2021,21,-6.151432146,106.6936103,Jakarta_Barat,Kalideres,Assault / Battery
+2173,6/8/2021,16,-6.151722745,106.6950919,Jakarta_Barat,Kalideres,Harassment
+2174,6/18/2021,2,-6.150339366,106.6931332,Jakarta_Barat,Kalideres,Telemarketing Fraud
+2175,1/5/2021,22,-6.149404518,106.6943634,Jakarta_Barat,Kalideres,Kidnapping
+2176,3/21/2021,20,-6.149684892,106.6930615,Jakarta_Barat,Kalideres,Arson
+2177,9/1/2021,5,-6.152274339,106.6931971,Jakarta_Barat,Kalideres,Kidnapping
+2178,3/25/2021,8,-6.151913312,106.6954408,Jakarta_Barat,Kalideres,Assault / Battery
+2179,11/29/2021,2,-6.152642582,106.6931805,Jakarta_Barat,Kalideres,Public Intoxication
+2180,9/28/2021,0,-6.152117938,106.6930175,Jakarta_Barat,Kalideres,Murder: First-degree
+2181,4/21/2021,23,-6.151274795,106.6936888,Jakarta_Barat,Kalideres,Domestic Violence
+2182,10/31/2021,8,-6.150909409,106.693272,Jakarta_Barat,Kalideres,Public Intoxication
+2183,1/7/2021,17,-6.149518736,106.6943287,Jakarta_Barat,Kalideres,Telemarketing Fraud
+2184,11/7/2021,1,-6.14917813,106.6958004,Jakarta_Barat,Kalideres,Sexual Assault
+2185,5/24/2021,9,-6.150553976,106.6933515,Jakarta_Barat,Kalideres,Rape
+2186,1/21/2021,22,-6.114232585,106.7182646,Jakarta_Barat,Kalideres,Homicide
+2187,7/3/2021,17,-6.117766575,106.717957,Jakarta_Barat,Kalideres,Murder: Second-degree
+2188,8/7/2021,21,-6.119371201,106.7199501,Jakarta_Barat,Kalideres,Arson
+2189,2/2/2021,4,-6.119376836,106.7162184,Jakarta_Barat,Kalideres,Aggravated Assault
+2190,5/18/2021,5,-6.117146641,106.7198442,Jakarta_Barat,Kalideres,Rape
+2191,2/25/2021,1,-6.12027827,106.7170197,Jakarta_Barat,Kalideres,Aggravated Assault
+2192,3/11/2021,5,-6.114042286,106.7186551,Jakarta_Barat,Kalideres,Kidnapping
+2193,2/24/2021,18,-6.119527434,106.7178118,Jakarta_Barat,Kalideres,Theft
+2194,9/27/2021,23,-6.120122763,106.7155839,Jakarta_Barat,Kalideres,Sexual Assault
+2195,1/23/2021,23,-6.119903021,106.7179501,Jakarta_Barat,Kalideres,Theft
+2196,1/10/2021,16,-6.118182954,106.7174649,Jakarta_Barat,Kalideres,Indecent Exposure
+2197,10/14/2021,14,-6.113931732,106.7197036,Jakarta_Barat,Kalideres,Manslaughter: Voluntary
+2198,7/29/2021,10,-6.116715087,106.7171442,Jakarta_Barat,Kalideres,Robbery
+2199,4/27/2021,17,-6.114127081,106.7190124,Jakarta_Barat,Kalideres,Harassment
+2200,3/30/2021,20,-6.1195519,106.7201534,Jakarta_Barat,Kalideres,Child Abuse
+2201,8/1/2021,10,-6.181749659,106.8026506,Jakarta_Barat,Palmerah,Manslaughter: Voluntary
+2202,12/23/2021,16,-6.181157553,106.8003566,Jakarta_Barat,Palmerah,Arson
+2203,12/16/2021,19,-6.182192405,106.802222,Jakarta_Barat,Palmerah,Attempt
+2204,10/2/2021,15,-6.181436622,106.8003926,Jakarta_Barat,Palmerah,Forgery
+2205,1/16/2021,4,-6.182998822,106.8023554,Jakarta_Barat,Palmerah,Murder: First-degree
+2206,6/5/2021,4,-6.182118691,106.8016736,Jakarta_Barat,Palmerah,Robbery
+2207,11/21/2021,19,-6.180931649,106.8003711,Jakarta_Barat,Palmerah,Sexual Assault
+2208,11/5/2021,8,-6.181839353,106.8029689,Jakarta_Barat,Palmerah,Robbery
+2209,9/28/2021,13,-6.183118426,106.8020149,Jakarta_Barat,Palmerah,Embezzlement
+2210,2/6/2021,13,-6.18270506,106.8005511,Jakarta_Barat,Palmerah,Cyberbullying
+2211,7/28/2021,20,-6.181675213,106.8013481,Jakarta_Barat,Palmerah,Money Laundering
+2212,7/4/2021,13,-6.181958947,106.8012197,Jakarta_Barat,Palmerah,Assault / Battery
+2213,9/1/2021,0,-6.189693611,106.7901241,Jakarta_Barat,Palmerah,Theft
+2214,10/31/2021,15,-6.190095268,106.7901565,Jakarta_Barat,Palmerah,Wire Fraud
+2215,4/15/2021,10,-6.189757822,106.7923676,Jakarta_Barat,Palmerah,Stalking
+2216,5/9/2021,3,-6.18970998,106.791994,Jakarta_Barat,Palmerah,Indecent Exposure
+2217,11/8/2021,17,-6.18999522,106.7920375,Jakarta_Barat,Palmerah,Vandalism
+2218,10/16/2021,0,-6.189966766,106.7906045,Jakarta_Barat,Palmerah,Sexual Assault
+2219,3/26/2021,10,-6.189854376,106.790401,Jakarta_Barat,Palmerah,Credit / Debit Card Fraud
+2220,3/19/2021,7,-6.189859415,106.7905964,Jakarta_Barat,Palmerah,Manslaughter: Involuntary
+2221,10/8/2021,17,-6.189146106,106.8030564,Jakarta_Barat,Palmerah,Arson
+2222,12/17/2021,18,-6.189196675,106.8034014,Jakarta_Barat,Palmerah,Theft
+2223,7/16/2021,10,-6.189176072,106.8032581,Jakarta_Barat,Palmerah,Robbery
+2224,4/7/2021,12,-6.189383163,106.8031258,Jakarta_Barat,Palmerah,Murder: Second-degree
+2225,6/22/2021,21,-6.189154966,106.8024449,Jakarta_Barat,Palmerah,Indecent Exposure
+2226,8/7/2021,15,-6.189295363,106.8027482,Jakarta_Barat,Palmerah,Stalking
+2227,7/1/2021,8,-6.189102526,106.8024116,Jakarta_Barat,Palmerah,Arson
+2228,9/9/2021,4,-6.189179864,106.8036874,Jakarta_Barat,Palmerah,Kidnapping
+2229,2/11/2021,17,-6.189414769,106.8028002,Jakarta_Barat,Palmerah,Stalking
+2230,7/4/2021,18,-6.18899411,106.8028084,Jakarta_Barat,Palmerah,Robbery
+2231,11/7/2021,22,-6.189152638,106.8026164,Jakarta_Barat,Palmerah,Murder: Second-degree
+2232,4/16/2021,7,-6.189331628,106.8023897,Jakarta_Barat,Palmerah,Manslaughter: Voluntary
+2233,6/9/2021,4,-6.20180385,106.7908911,Jakarta_Barat,Palmerah,Sexual Assault
+2234,10/25/2021,12,-6.198469634,106.7902432,Jakarta_Barat,Palmerah,Arson
+2235,6/20/2021,0,-6.20216595,106.7896534,Jakarta_Barat,Palmerah,Assault / Battery
+2236,5/3/2021,3,-6.201342823,106.7906466,Jakarta_Barat,Palmerah,Theft
+2237,1/27/2021,1,-6.197177239,106.7896435,Jakarta_Barat,Palmerah,Harassment
+2238,7/3/2021,12,-6.19916451,106.7904096,Jakarta_Barat,Palmerah,Disturbing the Peace
+2239,2/24/2021,13,-6.200433283,106.7909097,Jakarta_Barat,Palmerah,Securities Fraud
+2240,6/17/2021,15,-6.198049593,106.7898947,Jakarta_Barat,Palmerah,Rape
+2241,12/9/2021,12,-6.198670159,106.7903772,Jakarta_Barat,Palmerah,Murder: First-degree
+2242,8/13/2021,16,-6.198908511,106.7895836,Jakarta_Barat,Palmerah,Sexual Assault
+2243,11/9/2021,9,-6.198501343,106.7897194,Jakarta_Barat,Palmerah,Harassment
+2244,12/12/2021,10,-6.202061513,106.7896299,Jakarta_Barat,Palmerah,Manslaughter: Voluntary
+2245,6/11/2021,14,-6.199438841,106.7895122,Jakarta_Barat,Palmerah,Stalking
+2246,6/21/2021,7,-6.219140738,106.7280912,Jakarta_Barat,Kembangan,Forgery
+2247,2/15/2021,13,-6.219142981,106.7289304,Jakarta_Barat,Kembangan,Conspiracy
+2248,8/21/2021,14,-6.219192916,106.7286577,Jakarta_Barat,Kembangan,Homicide
+2249,2/23/2021,0,-6.219208607,106.7285723,Jakarta_Barat,Kembangan,Aggravated Assault
+2250,12/30/2021,8,-6.219193118,106.728651,Jakarta_Barat,Kembangan,Child Pornography
+2251,8/11/2021,8,-6.219155433,106.7274115,Jakarta_Barat,Kembangan,Attempt
+2252,2/21/2021,17,-6.219148217,106.7266237,Jakarta_Barat,Kembangan,Kidnapping
+2253,11/15/2021,0,-6.219146889,106.7278661,Jakarta_Barat,Kembangan,Child Abuse
+2254,5/2/2021,8,-6.219147797,106.7288873,Jakarta_Barat,Kembangan,Harassment
+2255,2/5/2021,14,-6.200064947,106.7212576,Jakarta_Barat,Kembangan,Pyramid Schemes
+2256,5/23/2021,22,-6.203443526,106.7206986,Jakarta_Barat,Kembangan,Public Intoxication
+2257,10/4/2021,11,-6.200532154,106.7172179,Jakarta_Barat,Kembangan,Drug Trafficking / Distribution
+2258,12/15/2021,9,-6.202555071,106.7190005,Jakarta_Barat,Kembangan,Murder: First-degree
+2259,1/25/2021,8,-6.200422084,106.717899,Jakarta_Barat,Kembangan,Stalking
+2260,1/27/2021,2,-6.20201019,106.7161781,Jakarta_Barat,Kembangan,Pyramid Schemes
+2261,5/9/2021,10,-6.200856242,106.7180459,Jakarta_Barat,Kembangan,Homicide
+2262,10/30/2021,18,-6.201054623,106.7213276,Jakarta_Barat,Kembangan,Aiding and Abetting / Accessory
+2263,6/19/2021,16,-6.20039912,106.7171033,Jakarta_Barat,Kembangan,Perjury
+2264,1/4/2021,14,-6.2030254,106.718908,Jakarta_Barat,Kembangan,Arson
+2265,10/11/2021,17,-6.203483558,106.7209463,Jakarta_Barat,Kembangan,Rape
+2266,8/7/2021,0,-6.203135774,106.7183182,Jakarta_Barat,Kembangan,Rape
+2267,8/19/2021,23,-6.197785226,106.759202,Jakarta_Barat,Kembangan,Homicide
+2268,1/12/2021,21,-6.198579408,106.757334,Jakarta_Barat,Kembangan,Arson
+2269,1/31/2021,7,-6.197537041,106.7578655,Jakarta_Barat,Kembangan,Murder: First-degree
+2270,4/20/2021,11,-6.198754217,106.7580933,Jakarta_Barat,Kembangan,Aggravated Assault
+2271,8/6/2021,7,-6.198220053,106.7591865,Jakarta_Barat,Kembangan,Manslaughter: Voluntary
+2272,1/28/2021,21,-6.19792492,106.7575554,Jakarta_Barat,Kembangan,Rape
+2273,1/24/2021,18,-6.198423623,106.7594467,Jakarta_Barat,Kembangan,Aggravated Assault
+2274,11/29/2021,18,-6.197238664,106.7577428,Jakarta_Barat,Kembangan,Murder: Second-degree
+2275,6/13/2021,4,-6.198749893,106.7583401,Jakarta_Barat,Kembangan,Arson
+2276,9/30/2021,4,-6.197602213,106.7586722,Jakarta_Barat,Kembangan,Kidnapping
+2277,4/20/2021,16,-6.198477429,106.7599641,Jakarta_Barat,Kembangan,Theft
+2278,5/26/2021,9,-6.197295082,106.7576492,Jakarta_Barat,Kembangan,Aiding and Abetting / Accessory
+2279,9/3/2021,14,-6.198752289,106.7590935,Jakarta_Barat,Kembangan,Rape
+2280,1/23/2021,0,-6.198763168,106.7578956,Jakarta_Barat,Kembangan,Sexual Assault
+2281,9/6/2021,22,-6.183985769,106.7409553,Jakarta_Barat,Kembangan,Manslaughter: Voluntary
+2282,2/28/2021,0,-6.18184815,106.739567,Jakarta_Barat,Kembangan,Drug Possession
+2283,5/17/2021,0,-6.182668463,106.7417586,Jakarta_Barat,Kembangan,Cyberbullying
+2284,6/18/2021,4,-6.182426263,106.7415785,Jakarta_Barat,Kembangan,Murder: First-degree
+2285,7/27/2021,23,-6.18162844,106.7406878,Jakarta_Barat,Kembangan,Aiding and Abetting / Accessory
+2286,4/27/2021,17,-6.182868013,106.7389887,Jakarta_Barat,Kembangan,Murder: First-degree
+2287,2/28/2021,11,-6.18386545,106.7422859,Jakarta_Barat,Kembangan,Sexual Assault
+2288,1/22/2021,4,-6.182753795,106.741583,Jakarta_Barat,Kembangan,Attempt
+2289,8/18/2021,20,-6.182280266,106.7417808,Jakarta_Barat,Kembangan,Tax Evasion / Fraud
+2290,7/23/2021,10,-6.181449447,106.7395268,Jakarta_Barat,Kembangan,Statutory Rape
+2291,6/1/2021,12,-6.183436185,106.7392136,Jakarta_Barat,Kembangan,Statutory Rape
+2292,12/8/2021,15,-6.182566415,106.7391685,Jakarta_Barat,Kembangan,Rape
+2293,3/11/2021,3,-6.172654063,106.7378302,Jakarta_Barat,Kembangan,Theft
+2294,5/29/2021,7,-6.174297094,106.7361211,Jakarta_Barat,Kembangan,Murder: First-degree
+2295,12/21/2021,19,-6.172894218,106.7424954,Jakarta_Barat,Kembangan,Statutory Rape
+2296,6/25/2021,17,-6.171768085,106.7415221,Jakarta_Barat,Kembangan,Stalking
+2297,1/24/2021,7,-6.184109429,106.7328361,Jakarta_Barat,Kembangan,Stalking
+2298,11/27/2021,8,-6.184205381,106.7347309,Jakarta_Barat,Kembangan,Assault / Battery
+2299,6/19/2021,5,-6.184792618,106.7363247,Jakarta_Barat,Kembangan,Assault / Battery
+2300,2/25/2021,10,-6.184103905,106.7337151,Jakarta_Barat,Kembangan,Murder: First-degree
+2301,7/27/2021,8,-6.185087777,106.7366882,Jakarta_Barat,Kembangan,Money Laundering
+2302,8/17/2021,0,-6.184460115,106.7339957,Jakarta_Barat,Kembangan,Harassment
+2303,3/18/2021,1,-6.184198606,106.7389917,Jakarta_Barat,Kembangan,Aggravated Assault
+2304,6/6/2021,9,-6.184830024,106.7333672,Jakarta_Barat,Kembangan,Forgery
+2305,2/3/2021,21,-6.184669772,106.7387262,Jakarta_Barat,Kembangan,Stalking
+2306,5/20/2021,3,-6.183981649,106.7350935,Jakarta_Barat,Kembangan,Sexual Assault
+2307,9/28/2021,3,-6.184151137,106.7341311,Jakarta_Barat,Kembangan,Arson
