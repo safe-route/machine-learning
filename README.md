@@ -97,6 +97,7 @@ _________________________________________________________________
 ```
 * Model input shape=(15, 6)
 * Model input data columns:
+
 | column      | type    | range          | description              |
 |-------------|---------|----------------|--------------------------|
 | year        | integer |        *       | year timestamp           |
@@ -105,7 +106,9 @@ _________________________________________________________________
 | time        | integer |    0 - 1440    | cumulative minute of day |
 | latitude    |  float  |  -90.0 - 90.0  | latitude                 |
 | longitude   |  float  | -180.0 - 180.0 | longitude                |
+
 * Model output:
+
 | column    | type  | range          | description |
 |-----------|-------|----------------|-------------|
 | latitude  | float |  -90.0 - 90.0  | latitude    |
