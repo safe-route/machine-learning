@@ -9,7 +9,7 @@ LEARNING_RATE = 5e-2
 OPTIMIZER = tf.keras.optimizers.Adam(learning_rate=LEARNING_RATE)
 LOSS = tf.keras.losses.Huber()
 METRICS = ["mae", "mse"]
-EPOCHS = 1000
+EPOCHS = 5
 
 # Data split
 TEST_SPLIT = 0.1                # Float or int

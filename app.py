@@ -31,8 +31,7 @@ def train():
         'valid':valid,
         'test':test
     }
-    train_model(username, data)
-    return "Train Finished"
+    return train_model(username, data)
 
 @app.route("/forecast", methods=["POST"])
 def forecast():
@@ -43,8 +42,7 @@ def forecast():
     guardian_email = jobject["email"]
     location = (jobject["latitude"], jobject["longitude"])
     data = build_inference_dataset(jobject["data"])
-    predict_model(username, data, guardian_email, location)
-    return "Forecast finished"
+    return predict_model(username, data, guardian_email, location)
     
 if __name__ == "__main__":
     app.run(port=PORT, host=HOST, debug=True)

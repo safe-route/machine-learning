@@ -59,15 +59,26 @@ def train_model(username:str, data:dict, **kwargs):
     model = load_model(username)
     if not model:
         # abort training since model does not exist
-        return
-        # Train if model exist
+        return "model for user {} does not exist".format(username)
     # Train model
-    model.fit(data['train'], epochs=kwargs.get("epochs", EPOCHS),
-        validation_data=data['valid'])
-    save_model_evaluation(username,
-        model.evaluate(data['test'], return_dict=True))
+    try:
+        model.fit(data['train'], epochs=kwargs.get("epochs", EPOCHS),
+            validation_data=data['valid'])
+    except:
+        return "not enough data for training"
+
+    # Test model
+    try:
+        save_model_evaluation(username,
+            model.evaluate(data['test'], return_dict=True))
+    except:
+        return "not enough data for testing"
     # Save model
-    save_model(username, model)
+    try:
+        save_model(username, model)
+        return "succesfully trained and saved user {}'s model".format(username)
+    except Exception as e:
+        return "unable to save user {} model. {}".format(username, e)
 
 def save_model_evaluation(username:str, report:dict):
     """Save model report to user's evaluation log file"""
