@@ -177,19 +177,17 @@ def build_inference_dataset(source, **kwargs):
     
     # PREPROCESSING DATASET
     ds = preprocess_dataset(ds)
+    ds = ds[-steps_size:] # take only n-steps
     
     # CONVERTING TO INFERENCE SHAPE
     if len(ds) != steps_size:
         return None
-    ds = ds[-steps_size:] # take only n-steps
 
     # Add empty row as empty label
     ds.loc[ds.shape[0]] = np.zeros(num_of_features)
     
     # WINDOWING AND RETURNING DATASET
-    pfd = windowed_dataset(ds, steps_size, predicts_size, batch_size, shuffle_buffer_size)
-    print(pfd)
-    return pfd
+    return windowed_dataset(ds, steps_size, predicts_size, batch_size, shuffle_buffer_size)
 
 def calculate_trigger(
         coordinate_1:tuple[float,float],
@@ -209,5 +207,11 @@ def load_model(username:str):
     """Load user's model"""
     if not os.path.exists(os.path.join(MODEL_FOLDER, username, "model.h5")):
         return None
-    return tf.keras.models.load_model( \
-        os.path.join(MODEL_FOLDER, username, "model.h5"))
+    model = tf.keras.models.load_model(
+        os.path.join(MODEL_FOLDER, username, "model.h5"), compile=False)
+    model.compile(
+        loss=LOSS,
+        optimizer=OPTIMIZER,
+        metrics=METRICS,
+    )
+    return model
