@@ -18,8 +18,7 @@ HOST = '0.0.0.0'
 def create():
     username = request.args.get('username', default = 'None', type = str)
     # Get data
-    create_user_model(username)
-    return "User model created"
+    return create_user_model(username)
 
 @app.route("/train", methods=["POST"])
 def train():

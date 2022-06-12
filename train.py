@@ -13,20 +13,25 @@ def create_user_model(username:str):
     """Create user model"""
     if os.path.exists(os.path.join(MODEL_FOLDER, username)):
         # check if model folder for user exist
-        print("model for user {} already exist".format(username))
-        return
+        return "model for user {} already exist".format(username)
     # create user's model folder
-
+    if not os.path.exists(MODEL_FOLDER):
+        return "unable to find model folder"
+    
     os.mkdir(os.path.join(MODEL_FOLDER, username))
     # create user's model
-    create_model(username)
+    try:
+        create_model(username)
+        return "successfully created model for user {}".format(username)
+    except Exception as e:
+        return "unable to create model for user {}. {}".format(username, e)
+
 
 def create_model(username:str):
     """Create Forecasting Model
     Model used: LSTM
     model output consist of 2 item, latitude and longitude
     """
-    print('clear session')
     tf.keras.backend.clear_session()
     # Generating model
     model = tf.keras.models.Sequential([
@@ -47,8 +52,6 @@ def create_model(username:str):
     )
     # Save model
     save_model(username, model)
-
-    print("successfully created model for user {}".format(username))
 
 def train_model(username:str, data:dict, **kwargs):
     """Train model with the given tensorflow dataset"""

@@ -33,8 +33,3 @@ DATASET_FOLDER = os.path.join('.','dataset')
 
 # Misc
 MAX_RANGE = 2000 # max prediction distance range (in km)
-
-# File
-DATASET_FILE_1 = './dataset/user_1/usr_1_w1_y2022.csv'
-DATASET_FILE_2 = './dataset/user_1/usr_1_w2_y2022.csv'
-MODEL_1_FILE = './model/user_1/'
